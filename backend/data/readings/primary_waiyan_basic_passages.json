@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "pack_id": 12,
+    "level": "basic",
+    "title": "My Day at School",
+    "text": "Hello! My name is Tom. I am a student. I go to school every day. In the morning, I say hello to my teacher. I have a red bag. My bag is big and new. I have a pen and a book in my bag. At school, I read and write. I like my school. It is small but nice. In the class, I see my friend, Amy. She is a girl. She has a cat. The cat is white and cute. After school, I go home and do my homework. I am happy every day!",
+    "vocabulary": [
+      {"word": "hello", "chinese": "你好", "phonetic": "/həˈloʊ/"},
+      {"word": "teacher", "chinese": "老师", "phonetic": "/ˈtiːtʃər/"},
+      {"word": "student", "chinese": "学生", "phonetic": "/ˈstjuːdnt/"},
+      {"word": "school", "chinese": "学校", "phonetic": "/skuːl/"},
+      {"word": "red", "chinese": "红色", "phonetic": "/red/"},
+      {"word": "bag", "chinese": "包", "phonetic": "/bæɡ/"},
+      {"word": "big", "chinese": "大的", "phonetic": "/bɪɡ/"},
+      {"word": "new", "chinese": "新的", "phonetic": "/njuː/"},
+      {"word": "pen", "chinese": "钢笔", "phonetic": "/pen/"},
+      {"word": "book", "chinese": "书", "phonetic": "/bʊk/"},
+      {"word": "read", "chinese": "阅读", "phonetic": "/riːd/"},
+      {"word": "write", "chinese": "写", "phonetic": "/raɪt/"},
+      {"word": "small", "chinese": "小的", "phonetic": "/smɔːl/"},
+      {"word": "nice", "chinese": "好的", "phonetic": "/naɪs/"},
+      {"word": "friend", "chinese": "朋友", "phonetic": "/frend/"},
+      {"word": "girl", "chinese": "女孩", "phonetic": "/ɡɜːrl/"},
+      {"word": "cat", "chinese": "猫", "phonetic": "/kæt/"},
+      {"word": "white", "chinese": "白色", "phonetic": "/waɪt/"},
+      {"word": "home", "chinese": "家", "phonetic": "/hoʊm/"},
+      {"word": "happy", "chinese": "开心的", "phonetic": "/ˈhæpi/"}
+    ],
+    "questions": [
+      {
+        "question": "What color is Tom's bag?",
+        "options": ["Blue", "Red", "Green", "Black"],
+        "correct_index": 1
+      },
+      {
+        "question": "What does Amy have?",
+        "options": ["A dog", "A cat", "A bird", "A fish"],
+        "correct_index": 1
+      },
+      {
+        "question": "How does Tom feel every day?",
+        "options": ["Sad", "Angry", "Happy", "Tired"],
+        "correct_index": 2
+      }
+    ],
+    "word_count": 20,
+    "sort_order": 1
+  },
+  {
+    "id": 2,
+    "pack_id": 12,
+    "level": "basic",
+    "title": "My Family",
+    "text": "I have a happy family. There are four people in my family. My father is tall and strong. He works in a hospital. He is a doctor. My mother is beautiful and kind. She has long hair. She cooks food for us. She is a good cook! My sister and I are students. My sister is ten years old. She likes music. She can play the piano. I am eight years old. I like to draw and paint. We have a dog. It is brown and fat. I love my family very much!",
+    "vocabulary": [
+      {"word": "happy", "chinese": "开心的", "phonetic": "/ˈhæpi/"},
+      {"word": "family", "chinese": "家庭", "phonetic": "/ˈfæməli/"},
+      {"word": "father", "chinese": "父亲", "phonetic": "/ˈfɑːðər/"},
+      {"word": "tall", "chinese": "高的", "phonetic": "/tɔːl/"},
+      {"word": "strong", "chinese": "强壮的", "phonetic": "/strɒŋ/"},
+      {"word": "hospital", "chinese": "医院", "phonetic": "/ˈhɒspɪtl/"},
+      {"word": "doctor", "chinese": "医生", "phonetic": "/ˈdɒktər/"},
+      {"word": "mother", "chinese": "母亲", "phonetic": "/ˈmʌðər/"},
+      {"word": "beautiful", "chinese": "美丽的", "phonetic": "/ˈbjuːtɪfl/"},
+      {"word": "long", "chinese": "长的", "phonetic": "/lɒŋ/"},
+      {"word": "food", "chinese": "食物", "phonetic": "/fuːd/"},
+      {"word": "cook", "chinese": "厨师；烹饪", "phonetic": "/kʊk/"},
+      {"word": "sister", "chinese": "姐妹", "phonetic": "/ˈsɪstər/"},
+      {"word": "ten", "chinese": "十", "phonetic": "/ten/"},
+      {"word": "music", "chinese": "音乐", "phonetic": "/ˈmjuːzɪk/"},
+      {"word": "piano", "chinese": "钢琴", "phonetic": "/piˈænoʊ/"},
+      {"word": "draw", "chinese": "画画", "phonetic": "/drɔː/"},
+      {"word": "dog", "chinese": "狗", "phonetic": "/dɒɡ/"},
+      {"word": "brown", "chinese": "棕色", "phonetic": "/braʊn/"},
+      {"word": "love", "chinese": "爱", "phonetic": "/lʌv/"}
+    ],
+    "questions": [
+      {
+        "question": "What does the father do?",
+        "options": ["A teacher", "A doctor", "A cook", "A driver"],
+        "correct_index": 1
+      },
+      {
+        "question": "How old is the sister?",
+        "options": ["Six", "Eight", "Ten", "Twelve"],
+        "correct_index": 2
+      },
+      {
+        "question": "What color is the dog?",
+        "options": ["Black", "White", "Brown", "Yellow"],
+        "correct_index": 2
+      }
+    ],
+    "word_count": 20,
+    "sort_order": 2
+  },
+  {
+    "id": 3,
+    "pack_id": 12,
+    "level": "basic",
+    "title": "A Day at the Park",
+    "text": "It is a sunny day. The sky is blue. I go to the park with my friend. We see many flowers. The flowers are yellow and red. They are very pretty. There is a big tree in the park. Birds are in the tree. They can fly and sing. I hear a bird sing. It sounds nice! We sit on the grass. I have an apple and a banana. My friend has some water. We eat and drink. Then we play football. We run and laugh. We are so happy!",
+    "vocabulary": [
+      {"word": "sunny", "chinese": "晴朗的", "phonetic": "/ˈsʌni/"},
+      {"word": "sky", "chinese": "天空", "phonetic": "/skaɪ/"},
+      {"word": "blue", "chinese": "蓝色", "phonetic": "/bluː/"},
+      {"word": "park", "chinese": "公园", "phonetic": "/pɑːrk/"},
+      {"word": "flower", "chinese": "花", "phonetic": "/ˈflaʊər/"},
+      {"word": "yellow", "chinese": "黄色", "phonetic": "/ˈjeloʊ/"},
+      {"word": "tree", "chinese": "树", "phonetic": "/triː/"},
+      {"word": "bird", "chinese": "鸟", "phonetic": "/bɜːrd/"},
+      {"word": "fly", "chinese": "飞", "phonetic": "/flaɪ/"},
+      {"word": "sing", "chinese": "唱歌", "phonetic": "/sɪŋ/"},
+      {"word": "grass", "chinese": "草", "phonetic": "/ɡræs/"},
+      {"word": "apple", "chinese": "苹果", "phonetic": "/ˈæpl/"},
+      {"word": "banana", "chinese": "香蕉", "phonetic": "/bəˈnænə/"},
+      {"word": "water", "chinese": "水", "phonetic": "/ˈwɔːtər/"},
+      {"word": "eat", "chinese": "吃", "phonetic": "/iːt/"},
+      {"word": "drink", "chinese": "喝", "phonetic": "/drɪŋk/"},
+      {"word": "play", "chinese": "玩", "phonetic": "/pleɪ/"},
+      {"word": "football", "chinese": "足球", "phonetic": "/ˈfʊtbɔːl/"},
+      {"word": "run", "chinese": "跑", "phonetic": "/rʌn/"},
+      {"word": "laugh", "chinese": "笑", "phonetic": "/læf/"}
+    ],
+    "questions": [
+      {
+        "question": "What is the weather like?",
+        "options": ["Rainy", "Sunny", "Cloudy", "Snowy"],
+        "correct_index": 1
+      },
+      {
+        "question": "What do the children eat?",
+        "options": ["Cake and juice", "Apple and banana", "Bread and milk", "Rice and meat"],
+        "correct_index": 1
+      },
+      {
+        "question": "What do they play?",
+        "options": ["Basketball", "Football", "Tennis", "Swimming"],
+        "correct_index": 1
+      }
+    ],
+    "word_count": 20,
+    "sort_order": 3
+  }
+]
