@@ -1,0 +1,1780 @@
+[
+  {
+    "english": "personality",
+    "chinese": "个性；人格",
+    "phonetic": "/ˌpɜːsəˈnæləti/",
+    "example_en": "She has a warm and friendly personality.",
+    "example_cn": "她性格热情友好。"
+  },
+  {
+    "english": "character",
+    "chinese": "性格；品质；角色",
+    "phonetic": "/ˈkærəktə/",
+    "example_en": "Honesty is an important part of one's character.",
+    "example_cn": "诚实是一个人品质的重要组成部分。"
+  },
+  {
+    "english": "confidence",
+    "chinese": "自信；信心",
+    "phonetic": "/ˈkɒnfɪdəns/",
+    "example_en": "Practice will help you build confidence in speaking English.",
+    "example_cn": "练习能帮助你建立说英语的信心。"
+  },
+  {
+    "english": "independent",
+    "chinese": "独立的；自主的",
+    "phonetic": "/ˌɪndɪˈpendənt/",
+    "example_en": "Teenagers should learn to be independent and make their own decisions.",
+    "example_cn": "青少年应该学会独立并自己做决定。"
+  },
+  {
+    "english": "mature",
+    "chinese": "成熟的",
+    "phonetic": "/məˈtjʊə/",
+    "example_en": "He is mature enough to handle the responsibility.",
+    "example_cn": "他已经足够成熟，可以承担这个责任。"
+  },
+  {
+    "english": "responsible",
+    "chinese": "有责任心的；负责的",
+    "phonetic": "/rɪˈspɒnsəbl/",
+    "example_en": "Each student is responsible for completing their homework on time.",
+    "example_cn": "每个学生都有责任按时完成作业。"
+  },
+  {
+    "english": "determination",
+    "chinese": "决心；坚定",
+    "phonetic": "/dɪˌtɜːmɪˈneɪʃn/",
+    "example_en": "Her determination to succeed helped her overcome many difficulties.",
+    "example_cn": "她成功的决心帮助她克服了许多困难。"
+  },
+  {
+    "english": "ambition",
+    "chinese": "雄心；抱负",
+    "phonetic": "/æmˈbɪʃn/",
+    "example_en": "His ambition is to become a doctor and help people.",
+    "example_cn": "他的志向是成为一名医生，帮助他人。"
+  },
+  {
+    "english": "overcome",
+    "chinese": "克服；战胜",
+    "phonetic": "/ˌəʊvəˈkʌm/",
+    "example_en": "With hard work, you can overcome any challenge.",
+    "example_cn": "通过努力，你可以克服任何挑战。"
+  },
+  {
+    "english": "challenge",
+    "chinese": "挑战",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "example_en": "Learning a new language is a challenge worth taking.",
+    "example_cn": "学习一门新语言是值得接受的挑战。"
+  },
+  {
+    "english": "achievement",
+    "chinese": "成就；成绩",
+    "phonetic": "/əˈtʃiːvmənt/",
+    "example_en": "Winning the competition was a great achievement for the team.",
+    "example_cn": "赢得比赛对这个团队来说是一个巨大的成就。"
+  },
+  {
+    "english": "potential",
+    "chinese": "潜力；潜能",
+    "phonetic": "/pəˈtenʃl/",
+    "example_en": "Everyone has the potential to achieve great things.",
+    "example_cn": "每个人都有取得巨大成就的潜力。"
+  },
+  {
+    "english": "attitude",
+    "chinese": "态度；看法",
+    "phonetic": "/ˈætɪtjuːd/",
+    "example_en": "A positive attitude can make a big difference in your life.",
+    "example_cn": "积极的态度可以让你的生活大不相同。"
+  },
+  {
+    "english": "quality",
+    "chinese": "品质；质量",
+    "phonetic": "/ˈkwɒləti/",
+    "example_en": "Honesty and kindness are valuable qualities in a person.",
+    "example_cn": "诚实和善良是一个人宝贵的品质。"
+  },
+  {
+    "english": "strength",
+    "chinese": "优点；力量；强项",
+    "phonetic": "/streŋθ/",
+    "example_en": "Knowing your own strengths helps you choose a suitable career.",
+    "example_cn": "了解自己的长处有助于选择适合的职业。"
+  },
+  {
+    "english": "weakness",
+    "chinese": "缺点；弱点",
+    "phonetic": "/ˈwiːknəs/",
+    "example_en": "Everyone has weaknesses, but we can work to improve them.",
+    "example_cn": "每个人都有弱点，但我们可以努力改进。"
+  },
+  {
+    "english": "perseverance",
+    "chinese": "毅力；坚持不懈",
+    "phonetic": "/ˌpɜːsɪˈvɪərəns/",
+    "example_en": "Perseverance is the key to mastering any skill.",
+    "example_cn": "坚持不懈是掌握任何技能的关键。"
+  },
+  {
+    "english": "adapt",
+    "chinese": "适应；调整",
+    "phonetic": "/əˈdæpt/",
+    "example_en": "It takes time to adapt to a new environment.",
+    "example_cn": "适应新环境需要时间。"
+  },
+  {
+    "english": "motivation",
+    "chinese": "动力；动机",
+    "phonetic": "/ˌməʊtɪˈveɪʃn/",
+    "example_en": "Finding your motivation is the first step toward success.",
+    "example_cn": "找到你的动力是迈向成功的第一步。"
+  },
+  {
+    "english": "self-discipline",
+    "chinese": "自律",
+    "phonetic": "/ˌself ˈdɪsɪplɪn/",
+    "example_en": "Self-discipline helps you stay focused on your goals.",
+    "example_cn": "自律帮助你专注于自己的目标。"
+  },
+  {
+    "english": "literature",
+    "chinese": "文学",
+    "phonetic": "/ˈlɪtrətʃə/",
+    "example_en": "We studied Chinese classical literature in class today.",
+    "example_cn": "我们今天在课堂上学习了中国古典文学。"
+  },
+  {
+    "english": "philosophy",
+    "chinese": "哲学",
+    "phonetic": "/fəˈlɒsəfi/",
+    "example_en": "Philosophy encourages us to ask deep questions about life.",
+    "example_cn": "哲学鼓励我们思考关于人生的深刻问题。"
+  },
+  {
+    "english": "psychology",
+    "chinese": "心理学",
+    "phonetic": "/saɪˈkɒlədʒi/",
+    "example_en": "Psychology helps us understand human behaviour and emotions.",
+    "example_cn": "心理学帮助我们理解人类的行为和情感。"
+  },
+  {
+    "english": "economics",
+    "chinese": "经济学",
+    "phonetic": "/ˌiːkəˈnɒmɪks/",
+    "example_en": "Economics studies how people make choices with limited resources.",
+    "example_cn": "经济学研究人们如何在资源有限的情况下做出选择。"
+  },
+  {
+    "english": "politics",
+    "chinese": "政治；政治学",
+    "phonetic": "/ˈpɒlətɪks/",
+    "example_en": "The students had a debate about politics and government.",
+    "example_cn": "学生们就政治和政府进行了辩论。"
+  },
+  {
+    "english": "geography",
+    "chinese": "地理（学）",
+    "phonetic": "/dʒiˈɒɡrəfi/",
+    "example_en": "In geography class, we learned about different ecosystems.",
+    "example_cn": "地理课上我们学习了不同的生态系统。"
+  },
+  {
+    "english": "biology",
+    "chinese": "生物学",
+    "phonetic": "/baɪˈɒlədʒi/",
+    "example_en": "Biology is the study of living organisms and their interactions.",
+    "example_cn": "生物学是研究生物体及其相互作用的学科。"
+  },
+  {
+    "english": "chemistry",
+    "chinese": "化学",
+    "phonetic": "/ˈkemɪstri/",
+    "example_en": "We conducted an experiment to observe a chemical reaction.",
+    "example_cn": "我们进行了一个实验来观察化学反应。"
+  },
+  {
+    "english": "physics",
+    "chinese": "物理学",
+    "phonetic": "/ˈfɪzɪks/",
+    "example_en": "Physics explains the fundamental laws of nature.",
+    "example_cn": "物理学解释了自然界的基本规律。"
+  },
+  {
+    "english": "mathematics",
+    "chinese": "数学",
+    "phonetic": "/ˌmæθəˈmætɪks/",
+    "example_en": "Mathematics is essential for understanding data and patterns.",
+    "example_cn": "数学对于理解数据和模式至关重要。"
+  },
+  {
+    "english": "history",
+    "chinese": "历史",
+    "phonetic": "/ˈhɪstri/",
+    "example_en": "History teaches us valuable lessons from the past.",
+    "example_cn": "历史教给我们宝贵的经验教训。"
+  },
+  {
+    "english": "analysis",
+    "chinese": "分析",
+    "phonetic": "/əˈnæləsɪs/",
+    "example_en": "The essay requires a detailed analysis of the data.",
+    "example_cn": "这篇文章要求对数据进行详细分析。"
+  },
+  {
+    "english": "theory",
+    "chinese": "理论；学说",
+    "phonetic": "/ˈθɪəri/",
+    "example_en": "Darwin's theory of evolution changed our understanding of life.",
+    "example_cn": "达尔文的进化论改变了我们对生命的理解。"
+  },
+  {
+    "english": "principle",
+    "chinese": "原则；原理",
+    "phonetic": "/ˈprɪnsəpl/",
+    "example_en": "Honesty is a basic principle of moral behaviour.",
+    "example_cn": "诚实是道德行为的基本原则。"
+  },
+  {
+    "english": "concept",
+    "chinese": "概念；观念",
+    "phonetic": "/ˈkɒnsept/",
+    "example_en": "The concept of gravity is easy to understand with examples.",
+    "example_cn": "重力的概念通过例子很容易理解。"
+  },
+  {
+    "english": "definition",
+    "chinese": "定义",
+    "phonetic": "/ˌdefɪˈnɪʃn/",
+    "example_en": "Can you give me a clear definition of this term?",
+    "example_cn": "你能给我这个术语的明确定义吗？"
+  },
+  {
+    "english": "formula",
+    "chinese": "公式；配方",
+    "phonetic": "/ˈfɔːmjələ/",
+    "example_en": "We used the quadratic formula to solve the equation.",
+    "example_cn": "我们用二次公式来解这个方程。"
+  },
+  {
+    "english": "experiment",
+    "chinese": "实验",
+    "phonetic": "/ɪkˈsperɪmənt/",
+    "example_en": "The experiment demonstrated how plants absorb water.",
+    "example_cn": "实验展示了植物如何吸收水分。"
+  },
+  {
+    "english": "laboratory",
+    "chinese": "实验室",
+    "phonetic": "/ləˈbɒrətri/",
+    "example_en": "Students must wear safety goggles in the laboratory.",
+    "example_cn": "学生在实验室必须佩戴护目镜。"
+  },
+  {
+    "english": "hypothesis",
+    "chinese": "假说；假设",
+    "phonetic": "/haɪˈpɒθəsɪs/",
+    "example_en": "We formed a hypothesis before starting the experiment.",
+    "example_cn": "我们在开始实验前提出了一个假设。"
+  },
+  {
+    "english": "phenomenon",
+    "chinese": "现象",
+    "phonetic": "/fəˈnɒmɪnən/",
+    "example_en": "The northern lights are a natural phenomenon.",
+    "example_cn": "北极光是一种自然现象。"
+  },
+  {
+    "english": "methodology",
+    "chinese": "方法论；方法",
+    "phonetic": "/ˌmeθəˈdɒlədʒi/",
+    "example_en": "The research methodology must be clearly explained.",
+    "example_cn": "研究方法必须清晰地加以说明。"
+  },
+  {
+    "english": "observation",
+    "chinese": "观察；观测",
+    "phonetic": "/ˌɒbzəˈveɪʃn/",
+    "example_en": "Careful observation is important in scientific research.",
+    "example_cn": "仔细观察在科学研究中很重要。"
+  },
+  {
+    "english": "evidence",
+    "chinese": "证据；根据",
+    "phonetic": "/ˈevɪdəns/",
+    "example_en": "The scientist found evidence supporting her theory.",
+    "example_cn": "科学家找到了支持她理论的证据。"
+  },
+  {
+    "english": "scholar",
+    "chinese": "学者",
+    "phonetic": "/ˈskɒlə/",
+    "example_en": "The scholar published a paper on ancient Chinese history.",
+    "example_cn": "这位学者发表了一篇关于中国古代史的论文。"
+  },
+  {
+    "english": "academic",
+    "chinese": "学术的；学业的",
+    "phonetic": "/ˌækəˈdemɪk/",
+    "example_en": "She has achieved excellent academic results this semester.",
+    "example_cn": "她这学期取得了优异的学业成绩。"
+  },
+  {
+    "english": "discipline",
+    "chinese": "学科；纪律",
+    "phonetic": "/ˈdɪsɪplɪn/",
+    "example_en": "Biology is a fascinating scientific discipline.",
+    "example_cn": "生物学是一门迷人的科学学科。"
+  },
+  {
+    "english": "research",
+    "chinese": "研究；调查",
+    "phonetic": "/rɪˈsɜːtʃ/",
+    "example_en": "The research team is studying climate change effects.",
+    "example_cn": "研究团队正在研究气候变化的影响。"
+  },
+  {
+    "english": "logical",
+    "chinese": "逻辑的；合逻辑的",
+    "phonetic": "/ˈlɒdʒɪkl/",
+    "example_en": "Your argument should be logical and well-supported.",
+    "example_cn": "你的论点应当合乎逻辑且有充分依据。"
+  },
+  {
+    "english": "scientific",
+    "chinese": "科学的",
+    "phonetic": "/ˌsaɪənˈtɪfɪk/",
+    "example_en": "We need a scientific approach to solve this problem.",
+    "example_cn": "我们需要用科学的方法来解决这个问题。"
+  },
+  {
+    "english": "global",
+    "chinese": "全球的",
+    "phonetic": "/ˈɡləʊbl/",
+    "example_en": "Climate change is a global problem that affects everyone.",
+    "example_cn": "气候变化是一个影响所有人的全球性问题。"
+  },
+  {
+    "english": "international",
+    "chinese": "国际的",
+    "phonetic": "/ˌɪntəˈnæʃnəl/",
+    "example_en": "The school hosts an international cultural festival every year.",
+    "example_cn": "学校每年举办一次国际文化节。"
+  },
+  {
+    "english": "issue",
+    "chinese": "问题；议题",
+    "phonetic": "/ˈɪʃuː/",
+    "example_en": "Environmental protection is a major issue of our time.",
+    "example_cn": "环境保护是我们时代的一个重大问题。"
+  },
+  {
+    "english": "crisis",
+    "chinese": "危机",
+    "phonetic": "/ˈkraɪsɪs/",
+    "example_en": "The water crisis in some regions requires immediate action.",
+    "example_cn": "一些地区的水危机需要立即采取行动。"
+  },
+  {
+    "english": "conflict",
+    "chinese": "冲突；矛盾",
+    "phonetic": "/ˈkɒnflɪkt/",
+    "example_en": "Peace talks aim to resolve the conflict between the two nations.",
+    "example_cn": "和平谈判旨在解决两国之间的冲突。"
+  },
+  {
+    "english": "peace",
+    "chinese": "和平",
+    "phonetic": "/piːs/",
+    "example_en": "We should all work together for world peace.",
+    "example_cn": "我们应当共同努力维护世界和平。"
+  },
+  {
+    "english": "security",
+    "chinese": "安全；保障",
+    "phonetic": "/sɪˈkjʊərəti/",
+    "example_en": "Food security is essential for every country.",
+    "example_cn": "粮食安全对每个国家都至关重要。"
+  },
+  {
+    "english": "equality",
+    "chinese": "平等",
+    "phonetic": "/iˈkwɒləti/",
+    "example_en": "Gender equality is a basic human right.",
+    "example_cn": "性别平等是一项基本人权。"
+  },
+  {
+    "english": "justice",
+    "chinese": "公正；正义",
+    "phonetic": "/ˈdʒʌstɪs/",
+    "example_en": "Everyone deserves fair treatment and justice.",
+    "example_cn": "每个人都应得到公平对待和正义。"
+  },
+  {
+    "english": "human rights",
+    "chinese": "人权",
+    "phonetic": "/ˈhjuːmən raɪts/",
+    "example_en": "The organisation fights for human rights around the world.",
+    "example_cn": "该组织为世界各地的人权而奋斗。"
+  },
+  {
+    "english": "poverty",
+    "chinese": "贫困；贫穷",
+    "phonetic": "/ˈpɒvəti/",
+    "example_en": "Education is a powerful tool to fight poverty.",
+    "example_cn": "教育是消除贫困的有力工具。"
+  },
+  {
+    "english": "hunger",
+    "chinese": "饥饿",
+    "phonetic": "/ˈhʌŋɡə/",
+    "example_en": "Many organisations are working to end world hunger.",
+    "example_cn": "许多组织正在努力消除世界饥饿。"
+  },
+  {
+    "english": "disease",
+    "chinese": "疾病",
+    "phonetic": "/dɪˈziːz/",
+    "example_en": "Vaccines help prevent the spread of infectious diseases.",
+    "example_cn": "疫苗有助于防止传染病的传播。"
+  },
+  {
+    "english": "solution",
+    "chinese": "解决方案；解决办法",
+    "phonetic": "/səˈluːʃn/",
+    "example_en": "We need to find a solution to the water shortage problem.",
+    "example_cn": "我们需要找到解决水资源短缺问题的方法。"
+  },
+  {
+    "english": "cooperation",
+    "chinese": "合作；协作",
+    "phonetic": "/kəʊˌɒpəˈreɪʃn/",
+    "example_en": "International cooperation is vital for scientific progress.",
+    "example_cn": "国际合作对科学进步至关重要。"
+  },
+  {
+    "english": "organisation",
+    "chinese": "组织；机构",
+    "phonetic": "/ˌɔːɡənaɪˈzeɪʃn/",
+    "example_en": "The World Health Organisation promotes global health.",
+    "example_cn": "世界卫生组织促进全球健康。"
+  },
+  {
+    "english": "United Nations",
+    "chinese": "联合国",
+    "phonetic": "/juːˈnaɪtɪd ˈneɪʃnz/",
+    "example_en": "The United Nations works to maintain international peace.",
+    "example_cn": "联合国致力于维护国际和平。"
+  },
+  {
+    "english": "development",
+    "chinese": "发展；开发",
+    "phonetic": "/dɪˈveləpmənt/",
+    "example_en": "Sustainable development balances economic growth and environmental protection.",
+    "example_cn": "可持续发展平衡经济增长与环境保护。"
+  },
+  {
+    "english": "pollution",
+    "chinese": "污染",
+    "phonetic": "/pəˈluːʃn/",
+    "example_en": "Air pollution is a serious problem in many cities.",
+    "example_cn": "空气污染是许多城市的严重问题。"
+  },
+  {
+    "english": "environment",
+    "chinese": "环境",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "example_en": "We should protect the environment for future generations.",
+    "example_cn": "我们应该为子孙后代保护环境。"
+  },
+  {
+    "english": "sustainable",
+    "chinese": "可持续的",
+    "phonetic": "/səˈsteɪnəbl/",
+    "example_en": "Sustainable energy sources like solar power are becoming more important.",
+    "example_cn": "太阳能等可持续能源变得越来越重要。"
+  },
+  {
+    "english": "resource",
+    "chinese": "资源",
+    "phonetic": "/rɪˈzɔːs/",
+    "example_en": "We must use natural resources wisely.",
+    "example_cn": "我们必须明智地利用自然资源。"
+  },
+  {
+    "english": "charity",
+    "chinese": "慈善；慈善机构",
+    "phonetic": "/ˈtʃærəti/",
+    "example_en": "The charity provides food and shelter for homeless people.",
+    "example_cn": "该慈善机构为无家可归的人提供食物和住所。"
+  },
+  {
+    "english": "volunteer",
+    "chinese": "志愿者；自愿做",
+    "phonetic": "/ˌvɒlənˈtɪə/",
+    "example_en": "Many students volunteer to help in the local community.",
+    "example_cn": "许多学生自愿在当地社区提供帮助。"
+  },
+  {
+    "english": "campaign",
+    "chinese": "运动；活动",
+    "phonetic": "/kæmˈpeɪn/",
+    "example_en": "The school launched a campaign to reduce plastic waste.",
+    "example_cn": "学校发起了一场减少塑料垃圾的活动。"
+  },
+  {
+    "english": "innovation",
+    "chinese": "创新；革新",
+    "phonetic": "/ˌɪnəˈveɪʃn/",
+    "example_en": "Technological innovation has changed the way we live.",
+    "example_cn": "技术创新改变了我们的生活方式。"
+  },
+  {
+    "english": "invention",
+    "chinese": "发明；创造",
+    "phonetic": "/ɪnˈvenʃn/",
+    "example_en": "The invention of the internet revolutionised communication.",
+    "example_cn": "互联网的发明彻底改变了通信方式。"
+  },
+  {
+    "english": "discovery",
+    "chinese": "发现",
+    "phonetic": "/dɪˈskʌvəri/",
+    "example_en": "The discovery of penicillin saved millions of lives.",
+    "example_cn": "青霉素的发现挽救了数百万人的生命。"
+  },
+  {
+    "english": "breakthrough",
+    "chinese": "突破；重大进展",
+    "phonetic": "/ˈbreɪkθruː/",
+    "example_en": "Scientists made a breakthrough in cancer research.",
+    "example_cn": "科学家在癌症研究方面取得了突破。"
+  },
+  {
+    "english": "advanced",
+    "chinese": "先进的；高级的",
+    "phonetic": "/ədˈvɑːnst/",
+    "example_en": "The lab is equipped with advanced technology.",
+    "example_cn": "这个实验室配备了先进的技术。"
+  },
+  {
+    "english": "digital",
+    "chinese": "数字的；数码的",
+    "phonetic": "/ˈdɪdʒɪtl/",
+    "example_en": "Digital cameras have largely replaced traditional film cameras.",
+    "example_cn": "数码相机在很大程度上取代了传统胶片相机。"
+  },
+  {
+    "english": "artificial",
+    "chinese": "人造的；人工的",
+    "phonetic": "/ˌɑːtɪˈfɪʃl/",
+    "example_en": "Artificial intelligence can recognise patterns in data.",
+    "example_cn": "人工智能可以识别数据中的模式。"
+  },
+  {
+    "english": "intelligence",
+    "chinese": "智力；智能",
+    "phonetic": "/ɪnˈtelɪdʒəns/",
+    "example_en": "Artificial intelligence is transforming many industries.",
+    "example_cn": "人工智能正在改变许多行业。"
+  },
+  {
+    "english": "robot",
+    "chinese": "机器人",
+    "phonetic": "/ˈrəʊbɒt/",
+    "example_en": "Robots are used in factories to perform repetitive tasks.",
+    "example_cn": "机器人被用于工厂执行重复性任务。"
+  },
+  {
+    "english": "automation",
+    "chinese": "自动化",
+    "phonetic": "/ˌɔːtəˈmeɪʃn/",
+    "example_en": "Automation has increased efficiency in manufacturing.",
+    "example_cn": "自动化提高了制造业的效率。"
+  },
+  {
+    "english": "data",
+    "chinese": "数据；资料",
+    "phonetic": "/ˈdeɪtə/",
+    "example_en": "The researcher collected data from 500 participants.",
+    "example_cn": "研究者收集了500名参与者的数据。"
+  },
+  {
+    "english": "algorithm",
+    "chinese": "算法",
+    "phonetic": "/ˈælɡərɪðəm/",
+    "example_en": "The search engine uses a complex algorithm to rank results.",
+    "example_cn": "搜索引擎使用复杂的算法来排列结果。"
+  },
+  {
+    "english": "virtual",
+    "chinese": "虚拟的",
+    "phonetic": "/ˈvɜːtʃuəl/",
+    "example_en": "Virtual reality can create immersive learning experiences.",
+    "example_cn": "虚拟现实可以创造沉浸式的学习体验。"
+  },
+  {
+    "english": "reality",
+    "chinese": "现实；实际",
+    "phonetic": "/riˈæləti/",
+    "example_en": "Virtual reality technology is advancing rapidly.",
+    "example_cn": "虚拟现实技术正在快速发展。"
+  },
+  {
+    "english": "device",
+    "chinese": "设备；装置",
+    "phonetic": "/dɪˈvaɪs/",
+    "example_en": "Smartphones are essential devices in modern life.",
+    "example_cn": "智能手机是现代生活中必不可少的设备。"
+  },
+  {
+    "english": "portable",
+    "chinese": "便携的；轻便的",
+    "phonetic": "/ˈpɔːtəbl/",
+    "example_en": "Portable chargers are useful when travelling.",
+    "example_cn": "便携式充电器在旅行时很有用。"
+  },
+  {
+    "english": "wireless",
+    "chinese": "无线的",
+    "phonetic": "/ˈwaɪələs/",
+    "example_en": "Wireless internet allows us to connect anywhere.",
+    "example_cn": "无线网络让我们可以随时随地连接。"
+  },
+  {
+    "english": "application",
+    "chinese": "应用；应用程序",
+    "phonetic": "/ˌæplɪˈkeɪʃn/",
+    "example_en": "This application helps users learn English vocabulary.",
+    "example_cn": "这个应用程序帮助用户学习英语词汇。"
+  },
+  {
+    "english": "software",
+    "chinese": "软件",
+    "phonetic": "/ˈsɒftweə/",
+    "example_en": "We installed new software to edit the video.",
+    "example_cn": "我们安装了新软件来编辑视频。"
+  },
+  {
+    "english": "hardware",
+    "chinese": "硬件",
+    "phonetic": "/ˈhɑːdweə/",
+    "example_en": "The computer hardware needs to be upgraded.",
+    "example_cn": "电脑硬件需要升级。"
+  },
+  {
+    "english": "network",
+    "chinese": "网络；关系网",
+    "phonetic": "/ˈnetwɜːk/",
+    "example_en": "The social network connects people from all over the world.",
+    "example_cn": "社交网络将世界各地的人们连接起来。"
+  },
+  {
+    "english": "database",
+    "chinese": "数据库",
+    "phonetic": "/ˈdeɪtəbeɪs/",
+    "example_en": "The database stores information about all the books in the library.",
+    "example_cn": "数据库存储了图书馆所有书籍的信息。"
+  },
+  {
+    "english": "programming",
+    "chinese": "编程；程序设计",
+    "phonetic": "/ˈprəʊɡræmɪŋ/",
+    "example_en": "Learning programming can help you develop logical thinking.",
+    "example_cn": "学习编程有助于培养逻辑思维。"
+  },
+  {
+    "english": "cyber",
+    "chinese": "网络的；计算机的",
+    "phonetic": "/ˈsaɪbə/",
+    "example_en": "Cybersecurity is important to protect personal information.",
+    "example_cn": "网络安全对保护个人信息很重要。"
+  },
+  {
+    "english": "technology",
+    "chinese": "技术；科技",
+    "phonetic": "/tekˈnɒlədʒi/",
+    "example_en": "Technology plays a key role in modern education.",
+    "example_cn": "科技在现代教育中起着关键作用。"
+  },
+  {
+    "english": "art",
+    "chinese": "艺术",
+    "phonetic": "/ɑːt/",
+    "example_en": "Art allows us to express our feelings and ideas.",
+    "example_cn": "艺术让我们表达自己的感受和想法。"
+  },
+  {
+    "english": "artist",
+    "chinese": "艺术家",
+    "phonetic": "/ˈɑːtɪst/",
+    "example_en": "The artist painted a beautiful landscape of the countryside.",
+    "example_cn": "这位艺术家画了一幅美丽的乡村风景画。"
+  },
+  {
+    "english": "painting",
+    "chinese": "绘画；油画",
+    "phonetic": "/ˈpeɪntɪŋ/",
+    "example_en": "This painting is one of the most famous works of art.",
+    "example_cn": "这幅画是最著名的艺术作品之一。"
+  },
+  {
+    "english": "sculpture",
+    "chinese": "雕塑；雕像",
+    "phonetic": "/ˈskʌlptʃə/",
+    "example_en": "The sculpture in the park was made of marble.",
+    "example_cn": "公园里的雕塑是由大理石制成的。"
+  },
+  {
+    "english": "gallery",
+    "chinese": "画廊；美术馆",
+    "phonetic": "/ˈɡæləri/",
+    "example_en": "We visited an art gallery to see the new exhibition.",
+    "example_cn": "我们参观了一家美术馆去看新展览。"
+  },
+  {
+    "english": "exhibition",
+    "chinese": "展览；展出",
+    "phonetic": "/ˌeksɪˈbɪʃn/",
+    "example_en": "The exhibition featured works by young contemporary artists.",
+    "example_cn": "这次展览展出了年轻当代艺术家的作品。"
+  },
+  {
+    "english": "performance",
+    "chinese": "表演；演出",
+    "phonetic": "/pəˈfɔːməns/",
+    "example_en": "The dance performance received a standing ovation.",
+    "example_cn": "舞蹈表演获得了起立鼓掌。"
+  },
+  {
+    "english": "concert",
+    "chinese": "音乐会",
+    "phonetic": "/ˈkɒnsət/",
+    "example_en": "We went to a concert to hear the orchestra play.",
+    "example_cn": "我们去听了一场管弦乐队的音乐会。"
+  },
+  {
+    "english": "theatre",
+    "chinese": "剧院；戏剧",
+    "phonetic": "/ˈθɪətə/",
+    "example_en": "The theatre is putting on a new play this weekend.",
+    "example_cn": "剧院本周末将上演一出新剧。"
+  },
+  {
+    "english": "poetry",
+    "chinese": "诗歌",
+    "phonetic": "/ˈpəʊətri/",
+    "example_en": "She enjoys writing poetry about nature and love.",
+    "example_cn": "她喜欢写关于自然和爱情的诗歌。"
+  },
+  {
+    "english": "novel",
+    "chinese": "小说",
+    "phonetic": "/ˈnɒvl/",
+    "example_en": "The novel tells the story of a young girl's adventures.",
+    "example_cn": "这部小说讲述了一个年轻女孩的冒险故事。"
+  },
+  {
+    "english": "author",
+    "chinese": "作者；作家",
+    "phonetic": "/ˈɔːθə/",
+    "example_en": "The author signed copies of her book for fans.",
+    "example_cn": "作者为粉丝们签售了她的书。"
+  },
+  {
+    "english": "composer",
+    "chinese": "作曲家",
+    "phonetic": "/kəmˈpəʊzə/",
+    "example_en": "Beethoven was a famous German composer.",
+    "example_cn": "贝多芬是一位著名的德国作曲家。"
+  },
+  {
+    "english": "musician",
+    "chinese": "音乐家",
+    "phonetic": "/mjuˈzɪʃn/",
+    "example_en": "The musician played the violin beautifully.",
+    "example_cn": "这位音乐家小提琴拉得很美。"
+  },
+  {
+    "english": "audience",
+    "chinese": "观众；听众",
+    "phonetic": "/ˈɔːdiəns/",
+    "example_en": "The audience clapped enthusiastically after the show.",
+    "example_cn": "演出结束后，观众热烈鼓掌。"
+  },
+  {
+    "english": "critic",
+    "chinese": "评论家；批评家",
+    "phonetic": "/ˈkrɪtɪk/",
+    "example_en": "The film critic gave the movie a positive review.",
+    "example_cn": "影评人对这部电影给予了好评。"
+  },
+  {
+    "english": "masterpiece",
+    "chinese": "杰作；代表作",
+    "phonetic": "/ˈmɑːstəpiːs/",
+    "example_en": "The Mona Lisa is considered Da Vinci's masterpiece.",
+    "example_cn": "《蒙娜丽莎》被认为是达·芬奇的杰作。"
+  },
+  {
+    "english": "inspiration",
+    "chinese": "灵感；启发",
+    "phonetic": "/ˌɪnspəˈreɪʃn/",
+    "example_en": "Nature is a great source of inspiration for artists.",
+    "example_cn": "大自然是艺术家的重要灵感来源。"
+  },
+  {
+    "english": "classical",
+    "chinese": "古典的；经典的",
+    "phonetic": "/ˈklæsɪkl/",
+    "example_en": "She enjoys listening to classical music in her free time.",
+    "example_cn": "她喜欢在空闲时间听古典音乐。"
+  },
+  {
+    "english": "contemporary",
+    "chinese": "当代的；现代的",
+    "phonetic": "/kənˈtemprəri/",
+    "example_en": "The museum has a collection of contemporary art.",
+    "example_cn": "博物馆收藏了一批当代艺术作品。"
+  },
+  {
+    "english": "cultural",
+    "chinese": "文化的",
+    "phonetic": "/ˈkʌltʃərəl/",
+    "example_en": "Cultural exchange helps people understand each other better.",
+    "example_cn": "文化交流有助于人们更好地相互理解。"
+  },
+  {
+    "english": "heritage",
+    "chinese": "遗产；传统",
+    "phonetic": "/ˈherɪtɪdʒ/",
+    "example_en": "The Great Wall is part of China's cultural heritage.",
+    "example_cn": "长城是中国文化遗产的一部分。"
+  },
+  {
+    "english": "traditional",
+    "chinese": "传统的",
+    "phonetic": "/trəˈdɪʃənl/",
+    "example_en": "Traditional Chinese painting has a long history.",
+    "example_cn": "中国传统绘画有着悠久的历史。"
+  },
+  {
+    "english": "creative",
+    "chinese": "创造性的；有创意的",
+    "phonetic": "/kriˈeɪtɪv/",
+    "example_en": "Creative thinking is highly valued in the modern world.",
+    "example_cn": "创造性思维在现代社会受到高度重视。"
+  },
+  {
+    "english": "appreciate",
+    "chinese": "欣赏；感激",
+    "phonetic": "/əˈpriːʃieɪt/",
+    "example_en": "Learning to appreciate art can enrich your life.",
+    "example_cn": "学会欣赏艺术可以丰富你的生活。"
+  },
+  {
+    "english": "universe",
+    "chinese": "宇宙",
+    "phonetic": "/ˈjuːnɪvɜːs/",
+    "example_en": "The universe is vast and full of mysteries waiting to be explored.",
+    "example_cn": "宇宙浩瀚无边，充满了等待探索的奥秘。"
+  },
+  {
+    "english": "galaxy",
+    "chinese": "星系；银河",
+    "phonetic": "/ˈɡæləksi/",
+    "example_en": "The Milky Way is the galaxy that contains our solar system.",
+    "example_cn": "银河系是包含我们太阳系的星系。"
+  },
+  {
+    "english": "solar",
+    "chinese": "太阳的；太阳能的",
+    "phonetic": "/ˈsəʊlə/",
+    "example_en": "Solar energy is a clean and renewable source of power.",
+    "example_cn": "太阳能是一种清洁的可再生能源。"
+  },
+  {
+    "english": "planet",
+    "chinese": "行星",
+    "phonetic": "/ˈplænɪt/",
+    "example_en": "Earth is the third planet from the Sun.",
+    "example_cn": "地球是距太阳第三近的行星。"
+  },
+  {
+    "english": "satellite",
+    "chinese": "卫星；人造卫星",
+    "phonetic": "/ˈsætəlaɪt/",
+    "example_en": "Satellites are used for communication and weather forecasting.",
+    "example_cn": "卫星用于通信和天气预报。"
+  },
+  {
+    "english": "orbit",
+    "chinese": "轨道；环绕轨道运行",
+    "phonetic": "/ˈɔːbɪt/",
+    "example_en": "The Moon orbits around the Earth every 27 days.",
+    "example_cn": "月球每27天绕地球运行一圈。"
+  },
+  {
+    "english": "astronaut",
+    "chinese": "宇航员",
+    "phonetic": "/ˈæstrənɔːt/",
+    "example_en": "The astronaut conducted experiments on the space station.",
+    "example_cn": "宇航员在空间站进行了实验。"
+  },
+  {
+    "english": "exploration",
+    "chinese": "探索；勘探",
+    "phonetic": "/ˌekspləˈreɪʃn/",
+    "example_en": "Space exploration has expanded our knowledge of the universe.",
+    "example_cn": "太空探索扩展了我们对宇宙的认识。"
+  },
+  {
+    "english": "gravity",
+    "chinese": "重力；引力",
+    "phonetic": "/ˈɡrævəti/",
+    "example_en": "Gravity keeps us firmly on the ground.",
+    "example_cn": "重力让我们稳稳地待在地面上。"
+  },
+  {
+    "english": "chemical",
+    "chinese": "化学的；化学品",
+    "phonetic": "/ˈkemɪkl/",
+    "example_en": "A chemical reaction occurs when two substances are mixed.",
+    "example_cn": "当两种物质混合时会发生化学反应。"
+  },
+  {
+    "english": "element",
+    "chinese": "元素；成分",
+    "phonetic": "/ˈelɪmənt/",
+    "example_en": "Water is made up of the elements hydrogen and oxygen.",
+    "example_cn": "水由氢元素和氧元素组成。"
+  },
+  {
+    "english": "molecule",
+    "chinese": "分子",
+    "phonetic": "/ˈmɒlɪkjuːl/",
+    "example_en": "A molecule of water contains two hydrogen atoms.",
+    "example_cn": "一个水分子含有两个氢原子。"
+  },
+  {
+    "english": "atom",
+    "chinese": "原子",
+    "phonetic": "/ˈætəm/",
+    "example_en": "An atom is the smallest unit of a chemical element.",
+    "example_cn": "原子是化学元素的最小单位。"
+  },
+  {
+    "english": "evolution",
+    "chinese": "进化；演变",
+    "phonetic": "/ˌiːvəˈluːʃn/",
+    "example_en": "Darwin's theory of evolution explains how species change over time.",
+    "example_cn": "达尔文的进化论解释了物种如何随时间变化。"
+  },
+  {
+    "english": "species",
+    "chinese": "物种；种类",
+    "phonetic": "/ˈspiːʃiːz/",
+    "example_en": "There are millions of species on Earth, many still undiscovered.",
+    "example_cn": "地球上有数百万个物种，其中许多尚未被发现。"
+  },
+  {
+    "english": "ecosystem",
+    "chinese": "生态系统",
+    "phonetic": "/ˈiːkəʊsɪstəm/",
+    "example_en": "A healthy ecosystem depends on the balance of all its parts.",
+    "example_cn": "健康的生态系统依赖于所有部分的平衡。"
+  },
+  {
+    "english": "biodiversity",
+    "chinese": "生物多样性",
+    "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+    "example_en": "Rainforests are rich in biodiversity.",
+    "example_cn": "热带雨林拥有丰富的生物多样性。"
+  },
+  {
+    "english": "conservation",
+    "chinese": "保护；保存",
+    "phonetic": "/ˌkɒnsəˈveɪʃn/",
+    "example_en": "Wildlife conservation helps protect endangered animals.",
+    "example_cn": "野生动物保护有助于保护濒危动物。"
+  },
+  {
+    "english": "climate",
+    "chinese": "气候",
+    "phonetic": "/ˈklaɪmət/",
+    "example_en": "Climate change is causing more extreme weather events.",
+    "example_cn": "气候变化正在导致更多极端天气事件。"
+  },
+  {
+    "english": "atmosphere",
+    "chinese": "大气层；气氛",
+    "phonetic": "/ˈætməsfɪə/",
+    "example_en": "The Earth's atmosphere protects us from harmful radiation.",
+    "example_cn": "地球的大气层保护我们免受有害辐射。"
+  },
+  {
+    "english": "oxygen",
+    "chinese": "氧气",
+    "phonetic": "/ˈɒksɪdʒən/",
+    "example_en": "Plants produce oxygen through photosynthesis.",
+    "example_cn": "植物通过光合作用产生氧气。"
+  },
+  {
+    "english": "radiation",
+    "chinese": "辐射；放射",
+    "phonetic": "/ˌreɪdiˈeɪʃn/",
+    "example_en": "Too much radiation from the sun can be harmful.",
+    "example_cn": "过多的太阳辐射可能有害。"
+  },
+  {
+    "english": "telescope",
+    "chinese": "望远镜",
+    "phonetic": "/ˈtelɪskəʊp/",
+    "example_en": "Scientists use telescopes to observe distant stars.",
+    "example_cn": "科学家用望远镜观测遥远的恒星。"
+  },
+  {
+    "english": "natural",
+    "chinese": "自然的；天然的",
+    "phonetic": "/ˈnætʃrəl/",
+    "example_en": "Natural resources should be used responsibly.",
+    "example_cn": "自然资源应该被负责任地使用。"
+  },
+  {
+    "english": "disaster",
+    "chinese": "灾难；灾害",
+    "phonetic": "/dɪˈzɑːstə/",
+    "example_en": "Natural disasters can cause great damage to communities.",
+    "example_cn": "自然灾害可能给社区造成巨大破坏。"
+  },
+  {
+    "english": "career",
+    "chinese": "职业；事业",
+    "phonetic": "/kəˈrɪə/",
+    "example_en": "She is building a career in environmental science.",
+    "example_cn": "她正在环境科学领域开创自己的事业。"
+  },
+  {
+    "english": "profession",
+    "chinese": "职业；专业",
+    "phonetic": "/prəˈfeʃn/",
+    "example_en": "Teaching is a rewarding profession.",
+    "example_cn": "教学是一种有意义的职业。"
+  },
+  {
+    "english": "occupation",
+    "chinese": "职业；工作",
+    "phonetic": "/ˌɒkjuˈpeɪʃn/",
+    "example_en": "Please state your name, age, and occupation on the form.",
+    "example_cn": "请在表格上填写姓名、年龄和职业。"
+  },
+  {
+    "english": "employment",
+    "chinese": "就业；雇用",
+    "phonetic": "/ɪmˈplɔɪmənt/",
+    "example_en": "The government is working to increase employment opportunities.",
+    "example_cn": "政府正在努力增加就业机会。"
+  },
+  {
+    "english": "employee",
+    "chinese": "雇员；员工",
+    "phonetic": "/ɪmˈplɔɪiː/",
+    "example_en": "The company has over 1,000 employees.",
+    "example_cn": "这家公司有超过1000名员工。"
+  },
+  {
+    "english": "employer",
+    "chinese": "雇主；老板",
+    "phonetic": "/ɪmˈplɔɪə/",
+    "example_en": "The employer offered a competitive salary package.",
+    "example_cn": "雇主提供了有竞争力的薪酬方案。"
+  },
+  {
+    "english": "interview",
+    "chinese": "面试；采访",
+    "phonetic": "/ˈɪntəvjuː/",
+    "example_en": "She prepared well for the job interview.",
+    "example_cn": "她为求职面试做了充分准备。"
+  },
+  {
+    "english": "resume",
+    "chinese": "简历；履历",
+    "phonetic": "/ˈrezjumeɪ/",
+    "example_en": "Your resume should highlight your skills and experience.",
+    "example_cn": "你的简历应该突出你的技能和经验。"
+  },
+  {
+    "english": "qualification",
+    "chinese": "资格；学历",
+    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "example_en": "Good qualifications can improve your job prospects.",
+    "example_cn": "良好的资历可以改善你的就业前景。"
+  },
+  {
+    "english": "skill",
+    "chinese": "技能；技巧",
+    "phonetic": "/skɪl/",
+    "example_en": "Communication skills are important in any career.",
+    "example_cn": "沟通技巧在任何职业中都很重要。"
+  },
+  {
+    "english": "training",
+    "chinese": "培训；训练",
+    "phonetic": "/ˈtreɪnɪŋ/",
+    "example_en": "The company provides training for new employees.",
+    "example_cn": "公司为新员工提供培训。"
+  },
+  {
+    "english": "promotion",
+    "chinese": "晋升；促销",
+    "phonetic": "/prəˈməʊʃn/",
+    "example_en": "He got a promotion after working hard for three years.",
+    "example_cn": "经过三年的努力工作，他获得了晋升。"
+  },
+  {
+    "english": "salary",
+    "chinese": "薪水；工资",
+    "phonetic": "/ˈsæləri/",
+    "example_en": "The job offers a good salary and benefits.",
+    "example_cn": "这份工作提供不错的薪水和福利。"
+  },
+  {
+    "english": "benefit",
+    "chinese": "利益；福利",
+    "phonetic": "/ˈbenɪfɪt/",
+    "example_en": "Exercise has many health benefits.",
+    "example_cn": "锻炼对健康有很多好处。"
+  },
+  {
+    "english": "pension",
+    "chinese": "养老金；退休金",
+    "phonetic": "/ˈpenʃn/",
+    "example_en": "The company offers a good pension plan for its employees.",
+    "example_cn": "公司为员工提供良好的养老金计划。"
+  },
+  {
+    "english": "retirement",
+    "chinese": "退休",
+    "phonetic": "/rɪˈtaɪəmənt/",
+    "example_en": "My grandfather enjoys gardening after retirement.",
+    "example_cn": "我爷爷退休后喜欢园艺。"
+  },
+  {
+    "english": "colleague",
+    "chinese": "同事",
+    "phonetic": "/ˈkɒliːɡ/",
+    "example_en": "I get along well with my colleagues at the office.",
+    "example_cn": "我和办公室的同事相处得很好。"
+  },
+  {
+    "english": "teamwork",
+    "chinese": "团队合作",
+    "phonetic": "/ˈtiːmwɜːk/",
+    "example_en": "Teamwork is essential for completing group projects successfully.",
+    "example_cn": "团队合作对于成功完成小组项目至关重要。"
+  },
+  {
+    "english": "leadership",
+    "chinese": "领导力；领导层",
+    "phonetic": "/ˈliːdəʃɪp/",
+    "example_en": "Good leadership inspires others to do their best.",
+    "example_cn": "好的领导力能激励他人做到最好。"
+  },
+  {
+    "english": "apply",
+    "chinese": "申请；应用",
+    "phonetic": "/əˈplaɪ/",
+    "example_en": "I decided to apply for the position of assistant manager.",
+    "example_cn": "我决定申请助理经理的职位。"
+  },
+  {
+    "english": "experience",
+    "chinese": "经验；经历",
+    "phonetic": "/ɪkˈspɪəriəns/",
+    "example_en": "Work experience can be as important as formal education.",
+    "example_cn": "工作经验可能与正规教育同样重要。"
+  },
+  {
+    "english": "professional",
+    "chinese": "专业的；职业的",
+    "phonetic": "/prəˈfeʃənl/",
+    "example_en": "It is important to maintain a professional attitude at work.",
+    "example_cn": "在工作中保持专业态度很重要。"
+  },
+  {
+    "english": "opportunity",
+    "chinese": "机会；机遇",
+    "phonetic": "/ˌɒpəˈtjuːnəti/",
+    "example_en": "Studying abroad is a great opportunity to broaden your horizons.",
+    "example_cn": "出国留学是拓宽视野的好机会。"
+  },
+  {
+    "english": "internship",
+    "chinese": "实习",
+    "phonetic": "/ˈɪntɜːnʃɪp/",
+    "example_en": "She completed a summer internship at a law firm.",
+    "example_cn": "她在一家律师事务所完成了暑期实习。"
+  },
+  {
+    "english": "workforce",
+    "chinese": "劳动力； workforce",
+    "phonetic": "/ˈwɜːkfɔːs/",
+    "example_en": "A skilled workforce is important for economic growth.",
+    "example_cn": "熟练的劳动力对经济增长很重要。"
+  },
+  {
+    "english": "debate",
+    "chinese": "辩论；争论",
+    "phonetic": "/dɪˈbeɪt/",
+    "example_en": "We had a lively debate about the future of renewable energy.",
+    "example_cn": "我们就可再生能源的未来进行了热烈的辩论。"
+  },
+  {
+    "english": "argument",
+    "chinese": "论点；争论",
+    "phonetic": "/ˈɑːɡjumənt/",
+    "example_en": "His argument was well-supported by facts and statistics.",
+    "example_cn": "他的论点有充分的事实和统计数据支持。"
+  },
+  {
+    "english": "discussion",
+    "chinese": "讨论；商讨",
+    "phonetic": "/dɪˈskʌʃn/",
+    "example_en": "The class had a discussion about environmental protection.",
+    "example_cn": "全班就环境保护进行了讨论。"
+  },
+  {
+    "english": "negotiation",
+    "chinese": "谈判；协商",
+    "phonetic": "/nɪˌɡəʊʃiˈeɪʃn/",
+    "example_en": "The negotiation between the two sides lasted for three days.",
+    "example_cn": "双方的谈判持续了三天。"
+  },
+  {
+    "english": "compromise",
+    "chinese": "妥协；折中",
+    "phonetic": "/ˈkɒmprəmaɪz/",
+    "example_en": "Both sides need to reach a compromise to end the dispute.",
+    "example_cn": "双方都需要达成妥协以结束争端。"
+  },
+  {
+    "english": "consensus",
+    "chinese": "共识；一致意见",
+    "phonetic": "/kənˈsensəs/",
+    "example_en": "The group reached a consensus after hours of discussion.",
+    "example_cn": "经过数小时的讨论，小组达成了一致意见。"
+  },
+  {
+    "english": "perspective",
+    "chinese": "视角；观点",
+    "phonetic": "/pəˈspektɪv/",
+    "example_en": "It is important to see things from different perspectives.",
+    "example_cn": "从不同视角看问题很重要。"
+  },
+  {
+    "english": "viewpoint",
+    "chinese": "观点；看法",
+    "phonetic": "/ˈvjuːpɔɪnt/",
+    "example_en": "Everyone has their own viewpoint on this issue.",
+    "example_cn": "每个人对这个问题都有自己的看法。"
+  },
+  {
+    "english": "controversial",
+    "chinese": "有争议的",
+    "phonetic": "/ˌkɒntrəˈvɜːʃl/",
+    "example_en": "The topic of genetic engineering is highly controversial.",
+    "example_cn": "基因工程这个话题争议很大。"
+  },
+  {
+    "english": "logic",
+    "chinese": "逻辑；推理",
+    "phonetic": "/ˈlɒdʒɪk/",
+    "example_en": "You need to use logic to solve this problem.",
+    "example_cn": "你需要运用逻辑来解决这个问题。"
+  },
+  {
+    "english": "reasonable",
+    "chinese": "合理的；讲道理的",
+    "phonetic": "/ˈriːznəbl/",
+    "example_en": "It is reasonable to expect students to do their homework.",
+    "example_cn": "要求学生做作业是合情合理的。"
+  },
+  {
+    "english": "critical",
+    "chinese": "批评的；批判性的；关键的",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "example_en": "Critical thinking is an essential skill for students.",
+    "example_cn": "批判性思维是学生必备的技能。"
+  },
+  {
+    "english": "analyze",
+    "chinese": "分析",
+    "phonetic": "/ˈænəlaɪz/",
+    "example_en": "We need to analyze the data before drawing a conclusion.",
+    "example_cn": "我们需要先分析数据再下结论。"
+  },
+  {
+    "english": "evaluate",
+    "chinese": "评价；评估",
+    "phonetic": "/ɪˈvæljueɪt/",
+    "example_en": "Teachers evaluate students' progress throughout the term.",
+    "example_cn": "老师在整个学期中评估学生的进步。"
+  },
+  {
+    "english": "conclusion",
+    "chinese": "结论；总结",
+    "phonetic": "/kənˈkluːʒn/",
+    "example_en": "In conclusion, I believe that education is the key to success.",
+    "example_cn": "总之，我相信教育是成功的关键。"
+  },
+  {
+    "english": "communicate",
+    "chinese": "交流；沟通",
+    "phonetic": "/kəˈmjuːnɪkeɪt/",
+    "example_en": "We communicate with each other through email and phone calls.",
+    "example_cn": "我们通过电子邮件和电话相互沟通。"
+  },
+  {
+    "english": "express",
+    "chinese": "表达；表示",
+    "phonetic": "/ɪkˈspres/",
+    "example_en": "It is important to express your opinions clearly.",
+    "example_cn": "清晰地表达你的观点很重要。"
+  },
+  {
+    "english": "clarify",
+    "chinese": "澄清；阐明",
+    "phonetic": "/ˈklærəfaɪ/",
+    "example_en": "Could you clarify what you mean by that statement?",
+    "example_cn": "你能澄清一下你这句话的意思吗？"
+  },
+  {
+    "english": "disagree",
+    "chinese": "不同意；有分歧",
+    "phonetic": "/ˌdɪsəˈɡriː/",
+    "example_en": "It is okay to disagree with others respectfully.",
+    "example_cn": "礼貌地表示不同意是可以的。"
+  },
+  {
+    "english": "persuade",
+    "chinese": "说服；劝说",
+    "phonetic": "/pəˈsweɪd/",
+    "example_en": "She tried to persuade her parents to let her study abroad.",
+    "example_cn": "她试图说服父母让她出国留学。"
+  },
+  {
+    "english": "propose",
+    "chinese": "提议；建议",
+    "phonetic": "/prəˈpəʊz/",
+    "example_en": "I propose that we hold a meeting to discuss the plan.",
+    "example_cn": "我建议我们开个会讨论这个计划。"
+  },
+  {
+    "english": "respond",
+    "chinese": "回应；回答",
+    "phonetic": "/rɪˈspɒnd/",
+    "example_en": "Please respond to the invitation by Friday.",
+    "example_cn": "请在周五前回复邀请。"
+  },
+  {
+    "english": "inform",
+    "chinese": "通知；告知",
+    "phonetic": "/ɪnˈfɔːm/",
+    "example_en": "We will inform you of the results as soon as possible.",
+    "example_cn": "我们会尽快通知你结果。"
+  },
+  {
+    "english": "announce",
+    "chinese": "宣布；通告",
+    "phonetic": "/əˈnaʊns/",
+    "example_en": "The principal will announce the winner of the competition.",
+    "example_cn": "校长将宣布比赛的获胜者。"
+  },
+  {
+    "english": "interaction",
+    "chinese": "互动；交流",
+    "phonetic": "/ˌɪntərˈækʃn/",
+    "example_en": "Social interaction helps develop communication skills.",
+    "example_cn": "社交互动有助于培养沟通能力。"
+  },
+  {
+    "english": "therefore",
+    "chinese": "因此；所以",
+    "phonetic": "/ˈðeəfɔː/",
+    "example_en": "He studied hard; therefore, he passed the exam easily.",
+    "example_cn": "他学习很努力，因此轻松通过了考试。"
+  },
+  {
+    "english": "furthermore",
+    "chinese": "此外；而且",
+    "phonetic": "/ˌfɜːðəˈmɔː/",
+    "example_en": "The plan is cost-effective. Furthermore, it is environmentally friendly.",
+    "example_cn": "这个计划很划算，而且对环境友好。"
+  },
+  {
+    "english": "nevertheless",
+    "chinese": "然而；不过",
+    "phonetic": "/ˌnevəðəˈles/",
+    "example_en": "The task was difficult; nevertheless, we completed it on time.",
+    "example_cn": "任务很困难，不过我们还是按时完成了。"
+  },
+  {
+    "english": "consequently",
+    "chinese": "因此；结果",
+    "phonetic": "/ˈkɒnsɪkwəntli/",
+    "example_en": "He missed the bus; consequently, he was late for school.",
+    "example_cn": "他错过了公交车，结果上学迟到了。"
+  },
+  {
+    "english": "moreover",
+    "chinese": "而且；此外",
+    "phonetic": "/mɔːrˈəʊvə/",
+    "example_en": "The restaurant has great food. Moreover, the service is excellent.",
+    "example_cn": "这家餐厅的菜很好吃，而且服务也很棒。"
+  },
+  {
+    "english": "otherwise",
+    "chinese": "否则；不然",
+    "phonetic": "/ˈʌðəwaɪz/",
+    "example_en": "You should leave now; otherwise, you will miss the train.",
+    "example_cn": "你现在就该走了，否则会赶不上火车。"
+  },
+  {
+    "english": "whereas",
+    "chinese": "然而；鉴于",
+    "phonetic": "/ˌweərˈæz/",
+    "example_en": "Some people like spicy food, whereas others prefer mild flavours.",
+    "example_cn": "有些人喜欢辣的食物，而另一些人则偏爱清淡的口味。"
+  },
+  {
+    "english": "in contrast",
+    "chinese": "相比之下",
+    "phonetic": "/ɪn ˈkɒntrɑːst/",
+    "example_en": "In contrast to city life, life in the countryside is peaceful.",
+    "example_cn": "与城市生活相比，乡村生活很宁静。"
+  },
+  {
+    "english": "on the contrary",
+    "chinese": "相反地",
+    "phonetic": "/ɒn ðə ˈkɒntrəri/",
+    "example_en": "He is not lazy; on the contrary, he works very hard.",
+    "example_cn": "他不懒，相反，他工作非常努力。"
+  },
+  {
+    "english": "as a result",
+    "chinese": "因此；结果",
+    "phonetic": "/æz ə rɪˈzʌlt/",
+    "example_en": "He practised every day; as a result, he improved quickly.",
+    "example_cn": "他每天练习，因此进步很快。"
+  },
+  {
+    "english": "in addition",
+    "chinese": "此外；另外",
+    "phonetic": "/ɪn əˈdɪʃn/",
+    "example_en": "In addition to English, she can speak French and Japanese.",
+    "example_cn": "除了英语，她还会说法语和日语。"
+  },
+  {
+    "english": "for instance",
+    "chinese": "例如",
+    "phonetic": "/fɔːr ˈɪnstəns/",
+    "example_en": "Many countries, for instance Japan and Canada, have four seasons.",
+    "example_cn": "许多国家，例如日本和加拿大，有四季。"
+  },
+  {
+    "english": "in other words",
+    "chinese": "换句话说",
+    "phonetic": "/ɪn ˈʌðə wɜːdz/",
+    "example_en": "He is an expert; in other words, he knows a lot about this field.",
+    "example_cn": "他是专家，换句话说，他对这个领域了解很多。"
+  },
+  {
+    "english": "to sum up",
+    "chinese": "总之；概括来说",
+    "phonetic": "/tə sʌm ʌp/",
+    "example_en": "To sum up, the project was a great success.",
+    "example_cn": "总之，这个项目非常成功。"
+  },
+  {
+    "english": "in conclusion",
+    "chinese": "总而言之",
+    "phonetic": "/ɪn kənˈkluːʒn/",
+    "example_en": "In conclusion, regular exercise is beneficial for both body and mind.",
+    "example_cn": "总而言之，定期锻炼对身心都有益。"
+  },
+  {
+    "english": "significant",
+    "chinese": "重要的；有意义的",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "example_en": "This discovery is significant for medical science.",
+    "example_cn": "这一发现对医学科学意义重大。"
+  },
+  {
+    "english": "essential",
+    "chinese": "基本的；必要的",
+    "phonetic": "/ɪˈsenʃl/",
+    "example_en": "Water is essential for all living things.",
+    "example_cn": "水对所有生物都是必不可少的。"
+  },
+  {
+    "english": "fundamental",
+    "chinese": "基本的；根本的",
+    "phonetic": "/ˌfʌndəˈmentl/",
+    "example_en": "Education is a fundamental human right.",
+    "example_cn": "教育是一项基本人权。"
+  },
+  {
+    "english": "relevant",
+    "chinese": "相关的；切题的",
+    "phonetic": "/ˈreləvənt/",
+    "example_en": "Your points are not relevant to the topic we are discussing.",
+    "example_cn": "你的观点与我们讨论的话题无关。"
+  },
+  {
+    "english": "sufficient",
+    "chinese": "足够的；充分的",
+    "phonetic": "/səˈfɪʃnt/",
+    "example_en": "We need sufficient evidence to support our argument.",
+    "example_cn": "我们需要足够的证据来支持我们的论点。"
+  },
+  {
+    "english": "inevitable",
+    "chinese": "不可避免的",
+    "phonetic": "/ɪnˈevɪtəbl/",
+    "example_en": "Change is inevitable in life.",
+    "example_cn": "变化在生活中是不可避免的。"
+  },
+  {
+    "english": "assume",
+    "chinese": "假设；假定",
+    "phonetic": "/əˈsjuːm/",
+    "example_en": "I assume that everyone has handed in their homework.",
+    "example_cn": "我假设每个人都交了作业。"
+  },
+  {
+    "english": "indicate",
+    "chinese": "表明；暗示",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "example_en": "The study indicates that exercise improves memory.",
+    "example_cn": "研究表明锻炼能改善记忆力。"
+  },
+  {
+    "english": "demonstrate",
+    "chinese": "展示；证明",
+    "phonetic": "/ˈdemənstreɪt/",
+    "example_en": "The experiment demonstrates how gravity works.",
+    "example_cn": "实验展示了重力如何起作用。"
+  },
+  {
+    "english": "contribute",
+    "chinese": "贡献；捐献",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "example_en": "Everyone should contribute to protecting the environment.",
+    "example_cn": "每个人都应为保护环境做出贡献。"
+  },
+  {
+    "english": "emphasise",
+    "chinese": "强调；重视",
+    "phonetic": "/ˈemfəsaɪz/",
+    "example_en": "The teacher emphasised the importance of reading regularly.",
+    "example_cn": "老师强调了定期阅读的重要性。"
+  },
+  {
+    "english": "identify",
+    "chinese": "识别；确认",
+    "phonetic": "/aɪˈdentɪfaɪ/",
+    "example_en": "We need to identify the main causes of the problem.",
+    "example_cn": "我们需要找出问题的主要原因。"
+  },
+  {
+    "english": "interpret",
+    "chinese": "解释；理解",
+    "phonetic": "/ɪnˈtɜːprɪt/",
+    "example_en": "It is important to interpret the data correctly.",
+    "example_cn": "正确解读数据很重要。"
+  },
+  {
+    "english": "obtain",
+    "chinese": "获得；得到",
+    "phonetic": "/əbˈteɪn/",
+    "example_en": "You need to obtain permission before using the lab.",
+    "example_cn": "你需要先获得许可才能使用实验室。"
+  },
+  {
+    "english": "participate",
+    "chinese": "参与；参加",
+    "phonetic": "/pɑːˈtɪsɪpeɪt/",
+    "example_en": "All students are encouraged to participate in the discussion.",
+    "example_cn": "鼓励所有学生参与讨论。"
+  },
+  {
+    "english": "recommend",
+    "chinese": "推荐；建议",
+    "phonetic": "/ˌrekəˈmend/",
+    "example_en": "I recommend that you read this book for your report.",
+    "example_cn": "我建议你为报告读这本书。"
+  },
+  {
+    "english": "transform",
+    "chinese": "转变；改变",
+    "phonetic": "/trænsˈfɔːm/",
+    "example_en": "Technology has transformed the way we learn.",
+    "example_cn": "技术改变了我们的学习方式。"
+  },
+  {
+    "english": "undertake",
+    "chinese": "承担；从事",
+    "phonetic": "/ˌʌndəˈteɪk/",
+    "example_en": "He undertook the responsibility of organising the event.",
+    "example_cn": "他承担了组织这次活动的责任。"
+  },
+  {
+    "english": "establish",
+    "chinese": "建立；设立",
+    "phonetic": "/ɪˈstæblɪʃ/",
+    "example_en": "The school was established in 1950.",
+    "example_cn": "这所学校成立于1950年。"
+  },
+  {
+    "english": "acknowledge",
+    "chinese": "承认；确认",
+    "phonetic": "/əkˈnɒlɪdʒ/",
+    "example_en": "We acknowledge the support of our sponsors.",
+    "example_cn": "我们感谢赞助商的支持。"
+  },
+  {
+    "english": "domestic",
+    "chinese": "国内的；家庭的",
+    "phonetic": "/dəˈmestɪk/",
+    "example_en": "The company focuses on both domestic and international markets.",
+    "example_cn": "该公司同时关注国内和国际市场。"
+  },
+  {
+    "english": "previous",
+    "chinese": "先前的；以前的",
+    "phonetic": "/ˈpriːviəs/",
+    "example_en": "In the previous chapter, we discussed the causes of the war.",
+    "example_cn": "在上一章中，我们讨论了战争的起因。"
+  },
+  {
+    "english": "subsequent",
+    "chinese": "随后的；后来的",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "example_en": "Subsequent research confirmed the initial findings.",
+    "example_cn": "后续研究证实了最初的发现。"
+  },
+  {
+    "english": "eventually",
+    "chinese": "最终；终于",
+    "phonetic": "/ɪˈventʃuəli/",
+    "example_en": "After many attempts, she eventually succeeded.",
+    "example_cn": "经过多次尝试，她最终成功了。"
+  },
+  {
+    "english": "apparent",
+    "chinese": "明显的；表面上的",
+    "phonetic": "/əˈpærənt/",
+    "example_en": "It was apparent that he was nervous during the speech.",
+    "example_cn": "很明显，他在演讲时很紧张。"
+  },
+  {
+    "english": "approximately",
+    "chinese": "大约；近似",
+    "phonetic": "/əˈprɒksɪmətli/",
+    "example_en": "The journey takes approximately two hours.",
+    "example_cn": "这段旅程大约需要两个小时。"
+  },
+  {
+    "english": "awareness",
+    "chinese": "意识；认识",
+    "phonetic": "/əˈweənəs/",
+    "example_en": "Environmental awareness is growing among young people.",
+    "example_cn": "年轻人的环保意识正在增强。"
+  },
+  {
+    "english": "barrier",
+    "chinese": "障碍；屏障",
+    "phonetic": "/ˈbæriə/",
+    "example_en": "Language can be a barrier to communication.",
+    "example_cn": "语言会成为沟通的障碍。"
+  },
+  {
+    "english": "diverse",
+    "chinese": "多样的；不同的",
+    "phonetic": "/daɪˈvɜːs/",
+    "example_en": "Our school has a diverse student population.",
+    "example_cn": "我们学校的学生群体是多样化的。"
+  },
+  {
+    "english": "estimate",
+    "chinese": "估计；估算",
+    "phonetic": "/ˈestɪmeɪt/",
+    "example_en": "It is estimated that over 1 million people attended the event.",
+    "example_cn": "据估计，超过100万人参加了这次活动。"
+  },
+  {
+    "english": "implement",
+    "chinese": "实施；执行",
+    "phonetic": "/ˈɪmplɪment/",
+    "example_en": "The school plans to implement a new teaching method.",
+    "example_cn": "学校计划实施一种新的教学方法。"
+  },
+  {
+    "english": "promote",
+    "chinese": "促进；推广；提升",
+    "phonetic": "/prəˈməʊt/",
+    "example_en": "The campaign aims to promote healthy eating habits.",
+    "example_cn": "这个活动旨在推广健康的饮食习惯。"
+  },
+  {
+    "english": "status",
+    "chinese": "地位；状态",
+    "phonetic": "/ˈsteɪtəs/",
+    "example_en": "The status of the project is being reviewed.",
+    "example_cn": "项目的状态正在审阅中。"
+  },
+  {
+    "english": "strategy",
+    "chinese": "策略；战略",
+    "phonetic": "/ˈstrætədʒi/",
+    "example_en": "We need a good strategy to win the competition.",
+    "example_cn": "我们需要一个好的策略来赢得比赛。"
+  },
+  {
+    "english": "substance",
+    "chinese": "物质；实质",
+    "phonetic": "/ˈsʌbstəns/",
+    "example_en": "The substance is harmful to human health.",
+    "example_cn": "这种物质对人体健康有害。"
+  },
+  {
+    "english": "tradition",
+    "chinese": "传统；习俗",
+    "phonetic": "/trəˈdɪʃn/",
+    "example_en": "It is a tradition to have dumplings during the Spring Festival.",
+    "example_cn": "春节吃饺子是一个传统。"
+  },
+  {
+    "english": "urban",
+    "chinese": "城市的；都市的",
+    "phonetic": "/ˈɜːbən/",
+    "example_en": "Urban areas are often more crowded than rural areas.",
+    "example_cn": "城市地区通常比农村地区更拥挤。"
+  },
+  {
+    "english": "via",
+    "chinese": "通过；经由",
+    "phonetic": "/ˈvaɪə/",
+    "example_en": "We can communicate via email or video call.",
+    "example_cn": "我们可以通过电子邮件或视频通话交流。"
+  },
+  {
+    "english": "welfare",
+    "chinese": "福利；幸福",
+    "phonetic": "/ˈwelfeə/",
+    "example_en": "The government provides welfare for people in need.",
+    "example_cn": "政府为有需要的人提供福利。"
+  }
+]
