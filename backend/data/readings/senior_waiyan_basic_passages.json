@@ -1,0 +1,98 @@
+[
+  {
+    "id": 105,
+    "pack_id": 16,
+    "level": "basic",
+    "title": "The Impact of Technology on Society",
+    "text": "Technology has dramatically transformed the way we live, work and communicate. In the past few decades, the development of the internet and smartphones has connected people across the globe in ways that were previously unimaginable. One significant change is in education. Online learning platforms allow students to access knowledge from anywhere at any time. This has created opportunities for people who cannot attend traditional schools. However, technology also brings challenges. Many people worry that young people spend too much time on social media, which can affect their mental health. Moreover, the rapid pace of technological change means that workers must constantly update their skills to remain relevant. Despite these concerns, it is clear that technology will continue to shape our future. The key is to find a balance between embracing innovation and preserving our well-being. As a generation growing up in this digital era, we have the responsibility to use technology wisely and ethically.",
+    "vocabulary": [
+      {"word": "technology", "chinese": "技术", "phonetic": "/tekˈnɒlədʒi/"},
+      {"word": "transform", "chinese": "转变；改变", "phonetic": "/trænsˈfɔːrm/"},
+      {"word": "significant", "chinese": "重要的；显著的", "phonetic": "/sɪɡˈnɪfɪkənt/"},
+      {"word": "access", "chinese": "访问；获取", "phonetic": "/ˈækses/"},
+      {"word": "opportunity", "chinese": "机会", "phonetic": "/ˌɒpəˈtjuːnəti/"},
+      {"word": "challenge", "chinese": "挑战", "phonetic": "/ˈtʃælɪndʒ/"},
+      {"word": "mental", "chinese": "心理的；精神的", "phonetic": "/ˈmentl/"},
+      {"word": "rapid", "chinese": "迅速的", "phonetic": "/ˈræpɪd/"},
+      {"word": "innovation", "chinese": "创新", "phonetic": "/ˌɪnəˈveɪʃn/"},
+      {"word": "ethically", "chinese": "伦理上；道德上", "phonetic": "/ˈeθɪkli/"}
+    ],
+    "questions": [
+      {
+        "question": "What has connected people across the globe according to the passage?",
+        "options": ["Transportation", "Internet and smartphones", "Books and magazines", "International travel"],
+        "correct_index": 1
+      },
+      {
+        "question": "What is one benefit of online learning mentioned in the passage?",
+        "options": ["It is cheaper than traditional school", "Students can access knowledge anytime", "It replaces teachers completely", "It requires less effort"],
+        "correct_index": 1
+      },
+      {
+        "question": "What concern is raised about young people and technology?",
+        "options": ["They spend too much time on social media", "They don't know how to use computers", "They prefer books over screens", "They cannot afford smartphones"],
+        "correct_index": 0
+      },
+      {
+        "question": "What does the writer suggest as the key approach to technology?",
+        "options": ["Reject all new technology", "Embrace every innovation", "Find a balance between innovation and well-being", "Use technology only for work"],
+        "correct_index": 2
+      },
+      {
+        "question": "What responsibility does the writer mention for the younger generation?",
+        "options": ["To become programmers", "To use technology wisely and ethically", "To avoid social media entirely", "To invent new technologies"],
+        "correct_index": 1
+      }
+    ],
+    "word_count": 34,
+    "sort_order": 1
+  },
+  {
+    "id": 106,
+    "pack_id": 16,
+    "level": "basic",
+    "title": "Cultural Diversity in a Globalised World",
+    "text": "In today's interconnected world, cultural diversity has become an increasingly important topic. Globalisation has brought people from different backgrounds closer together than ever before. While this creates wonderful opportunities for cultural exchange, it also presents challenges in maintaining unique traditions and identities. I experienced this first-hand when my family moved to a different country for my father's work. Initially, I struggled with the language barrier and cultural differences. Simple things like greeting people or ordering food felt difficult. However, I gradually adapted by observing and learning from the local people. I discovered that despite our different customs, people share universal values such as kindness, respect and the desire for happiness. Now I believe that cultural diversity is not something to be feared, but to be celebrated. Each culture contributes something unique to the global community. The key is to maintain an open mind and a willingness to understand perspectives different from our own.",
+    "vocabulary": [
+      {"word": "diversity", "chinese": "多样性", "phonetic": "/daɪˈvɜːrsəti/"},
+      {"word": "globalisation", "chinese": "全球化", "phonetic": "/ˌɡləʊbəlaɪˈzeɪʃn/"},
+      {"word": "background", "chinese": "背景", "phonetic": "/ˈbækɡraʊnd/"},
+      {"word": "exchange", "chinese": "交流；交换", "phonetic": "/ɪksˈtʃeɪndʒ/"},
+      {"word": "maintain", "chinese": "保持；维护", "phonetic": "/meɪnˈteɪn/"},
+      {"word": "identity", "chinese": "身份；特性", "phonetic": "/aɪˈdentəti/"},
+      {"word": "initially", "chinese": "最初", "phonetic": "/ɪˈnɪʃəli/"},
+      {"word": "barrier", "chinese": "障碍", "phonetic": "/ˈbæriər/"},
+      {"word": "universal", "chinese": "普遍的；全世界的", "phonetic": "/ˌjuːnɪˈvɜːrsl/"},
+      {"word": "perspective", "chinese": "视角；观点", "phonetic": "/pərˈspektɪv/"}
+    ],
+    "questions": [
+      {
+        "question": "What has globalisation brought people?",
+        "options": ["More conflicts", "Closer connections", "Fewer opportunities", "More isolation"],
+        "correct_index": 1
+      },
+      {
+        "question": "Why did the writer move to a different country?",
+        "options": ["For study", "For the father's work", "For a holiday", "For better healthcare"],
+        "correct_index": 1
+      },
+      {
+        "question": "What difficulty did the writer mention?",
+        "options": ["Weather differences", "Language barrier", "Food shortage", "Housing problems"],
+        "correct_index": 1
+      },
+      {
+        "question": "What universal values does the writer mention?",
+        "options": ["Money and power", "Kindness, respect and happiness", "Fame and success", "Tradition and history"],
+        "correct_index": 1
+      },
+      {
+        "question": "What does the writer think about cultural diversity?",
+        "options": ["It should be feared", "It should be celebrated", "It is not important", "It creates only problems"],
+        "correct_index": 1
+      }
+    ],
+    "word_count": 32,
+    "sort_order": 2
+  }
+]
