@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>乐说邦客户服务系统</title>
+    <meta name="theme-color" content="#22c55e">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="乐说邦">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="icon" type="image/png" sizes="180x180" href="/icon-180.png">
+    <link rel="apple-touch-icon" href="/icon-180.png">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ═══ 登录页面 ═══ -->
+<div id="loginPage" class="login-page" style="display:none;">
+    <div class="login-card">
+            <div class="login-header">
+                <div class="login-logo">
+                    <img src="/icon.svg" alt="乐说邦" style="width:64px;height:64px;">
+                </div>
+                <h1>乐说邦客户服务系统</h1>
+                <p>英语单词速记 · 3天背完3年单词</p>
+            </div>
+        <form id="loginForm" class="login-form" autocomplete="off">
+            <div class="form-group">
+                <label>手机号</label>
+                <div class="phone-input-wrapper">
+                    <span class="phone-prefix">+86</span>
+                    <input type="tel" name="phone" id="loginPhone"
+                           placeholder="请输入手机号" maxlength="11"
+                           pattern="[0-9]{11}" inputmode="numeric" required>
+                </div>
+            </div>
+            <div class="form-group">
+                <label>验证码</label>
+                <div class="code-input-row">
+                    <input type="text" name="code" id="loginCode"
+                           placeholder="请输入验证码" maxlength="6"
+                           inputmode="numeric" pattern="[0-9]*" required>
+                    <button type="button" id="sendCodeBtn" class="btn btn-code">获取验证码</button>
+                </div>
+            </div>
+            <button type="submit" id="loginBtn" class="btn btn-primary btn-block btn-lg">
+                登 录
+            </button>
+            <div id="loginError" class="login-error"></div>
+        </form>
+        <div class="login-footer">
+            <p>开发测试账号：13800000000 / 888888</p>
+        </div>
+    </div>
+</div>
+
+<!-- ═══ 主应用布局 ═══ -->
+<div id="appLayout" style="display:none;">
+
+    <!-- 移动端汉堡菜单按钮 -->
+    <button id="hamburgerBtn" class="hamburger" aria-label="菜单">
+        <span></span><span></span><span></span>
+    </button>
+
+    <!-- 移动端遮罩 -->
+    <div id="sidebarOverlay" class="sidebar-overlay"></div>
+
+    <!-- 侧边导航 -->
+    <nav class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h1>🐦 乐说邦</h1>
+            <p class="sidebar-subtitle" id="sidebarCampus">3天背完3年单词</p>
+        </div>
+        <ul class="nav-list" id="navList">
+            <!-- 由 JS 动态渲染 -->
+        </ul>
+        <div class="sidebar-footer" id="sidebarFooter">
+            <!-- 由 JS 动态渲染用户信息 -->
+        </div>
+    </nav>
+
+    <!-- 主内容区 -->
+    <main class="main-content" id="mainContent">
+        <div class="page-loader" id="pageLoader">
+            <div class="loader-spinner"></div>
+            <p>加载中...</p>
+        </div>
+    </main>
+</div>
+
+<!-- ═══ 模态框 ═══ -->
+<div class="modal-overlay" id="modalOverlay" style="display:none;">
+    <div class="modal" id="modalContent">
+        <div class="modal-header">
+            <h3 id="modalTitle">模态框</h3>
+            <button class="modal-close" id="modalCloseBtn">&times;</button>
+        </div>
+        <div class="modal-body" id="modalBody"></div>
+    </div>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>
