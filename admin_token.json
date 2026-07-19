@@ -1,0 +1,1 @@
+{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJyb2xlIjoiZ3JvdXBfYWRtaW4iLCJleHAiOjE3ODU1MTYyMzh9.jP5S39cJmncFgjbuKeuE-ZwWl4iHqLjOOP2yygNwG4k","token_type":"bearer","user":{"id":2,"username":"superadmin","nickname":"超级管理员","avatar":"","phone":"13900000001","role":"group_admin","group_id":null,"campus_id":null,"created_at":"2026-07-01T16:43:53.327198"}}
