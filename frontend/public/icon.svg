@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#DCF1D5"/>
+      <stop offset="100%" stop-color="#1FA576"/>
+    </linearGradient>
+  </defs>
+  <!-- Background circle -->
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <!-- Book -->
+  <path d="M140 160c0-26 22-48 48-48h136c26 0 48 22 48 48v256c0 26-22 48-48 48H188c-26 0-48-22-48-48V160z" fill="white" opacity="0.95"/>
+  <path d="M332 112v304" stroke="#1FA576" stroke-width="6" stroke-linecap="round" opacity="0.4"/>
+  <!-- Text lines on book -->
+  <line x1="170" y1="190" x2="270" y2="190" stroke="#1FA576" stroke-width="6" stroke-linecap="round" opacity="0.3"/>
+  <line x1="170" y1="230" x2="270" y2="230" stroke="#1FA576" stroke-width="6" stroke-linecap="round" opacity="0.3"/>
+  <line x1="170" y1="270" x2="270" y2="270" stroke="#1FA576" stroke-width="6" stroke-linecap="round" opacity="0.3"/>
+  <!-- Star -->
+  <path d="M256 40l26 80h84l-68 50 26 82-68-52-68 52 26-82-68-50h84z" fill="#FC9530" stroke="white" stroke-width="3"/>
+  <!-- Speech bubble -->
+  <circle cx="380" cy="380" r="50" fill="#46D1B2" opacity="0.3"/>
+  <text x="372" y="394" font-size="44" fill="white" font-weight="bold" font-family="Arial">♪</text>
+</svg>
