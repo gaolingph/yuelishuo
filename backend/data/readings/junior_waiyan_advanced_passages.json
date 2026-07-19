@@ -1,0 +1,98 @@
+[
+  {
+    "id": 103,
+    "pack_id": 15,
+    "level": "advanced",
+    "title": "The Power of Teamwork",
+    "text": "Last month, our school held a basketball competition. Each class had to form a team. At first, I thought it would be easy because we had some strong players. However, we soon realised that individual skill is not enough. In the first game, everyone tried to score by themselves. We lost the game badly. Our coach gathered us together after the match. He told us that successful teams communicate and cooperate. He taught us that everyone has a specific role and we should support each other. We changed our strategy. In training, we practised passing the ball and working as a unit. Gradually, we improved. In the final match, we faced the strongest team in the school. It was a tough challenge. But we encouraged one another and never gave up. In the last minute, I passed the ball to my teammate and he scored! We won by two points. The audience cheered loudly. I learned an important lesson that day: teamwork is the key to success. This experience has influenced my attitude towards many things in life.",
+    "vocabulary": [
+      {"word": "competition", "chinese": "比赛；竞争", "phonetic": "/ˌkɒmpəˈtɪʃn/"},
+      {"word": "individual", "chinese": "个人的；个体", "phonetic": "/ˌɪndɪˈvɪdʒuəl/"},
+      {"word": "communicate", "chinese": "沟通；交流", "phonetic": "/kəˈmjuːnɪkeɪt/"},
+      {"word": "cooperate", "chinese": "合作", "phonetic": "/kəʊˈɒpəreɪt/"},
+      {"word": "specific", "chinese": "具体的；特定的", "phonetic": "/spəˈsɪfɪk/"},
+      {"word": "strategy", "chinese": "策略", "phonetic": "/ˈstrætədʒi/"},
+      {"word": "gradually", "chinese": "逐渐地", "phonetic": "/ˈɡrædʒuəli/"},
+      {"word": "challenge", "chinese": "挑战", "phonetic": "/ˈtʃælɪndʒ/"},
+      {"word": "audience", "chinese": "观众", "phonetic": "/ˈɔːdiəns/"},
+      {"word": "attitude", "chinese": "态度", "phonetic": "/ˈætɪtjuːd/"}
+    ],
+    "questions": [
+      {
+        "question": "Why did the team lose the first game?",
+        "options": ["They were too tired", "Everyone tried to score alone", "The coach was absent", "The other team cheated"],
+        "correct_index": 1
+      },
+      {
+        "question": "What did the coach tell them after the first loss?",
+        "options": ["To practice more shots", "To communicate and cooperate", "To change the players", "To give up"],
+        "correct_index": 1
+      },
+      {
+        "question": "How did the final match end?",
+        "options": ["They lost by two points", "They won by two points", "It was a tie", "The game was cancelled"],
+        "correct_index": 1
+      },
+      {
+        "question": "What lesson did the writer learn?",
+        "options": ["Individual skill matters most", "Winning is everything", "Teamwork is the key to success", "Practice makes perfect"],
+        "correct_index": 2
+      },
+      {
+        "question": "Who scored the winning point?",
+        "options": ["The writer", "The coach", "A teammate", "The best player"],
+        "correct_index": 2
+      }
+    ],
+    "word_count": 32,
+    "sort_order": 1
+  },
+  {
+    "id": 104,
+    "pack_id": 15,
+    "level": "advanced",
+    "title": "Protecting Our Environment",
+    "text": "The environment is facing serious problems today. Pollution, deforestation and climate change are affecting every corner of the world. As students, we might think these issues are too big for us to solve. But actually, every small action counts. In our school, we started an environment club last year. Our first project was to reduce waste on campus. We encouraged students to bring reusable water bottles instead of buying plastic ones. We also set up recycling bins for paper, plastic and glass. At first, only a few students participated. But gradually, more and more people joined. After six months, the amount of waste on campus decreased by thirty percent. This was a significant achievement for us. We also organised a tree-planting activity in the local park. Each class adopted a tree and took responsibility for taking care of it. The local newspaper even reported our activity. I feel proud that we can make a difference. Protecting the environment requires collective effort. If everyone does their part, we can create a better future.",
+    "vocabulary": [
+      {"word": "environment", "chinese": "环境", "phonetic": "/ɪnˈvaɪrənmənt/"},
+      {"word": "pollution", "chinese": "污染", "phonetic": "/pəˈluːʃn/"},
+      {"word": "deforestation", "chinese": "森林砍伐", "phonetic": "/diːˌfɒrɪˈsteɪʃn/"},
+      {"word": "climate", "chinese": "气候", "phonetic": "/ˈklaɪmət/"},
+      {"word": "reduce", "chinese": "减少", "phonetic": "/rɪˈdjuːs/"},
+      {"word": "reusable", "chinese": "可重复使用的", "phonetic": "/ˌriːˈjuːzəbl/"},
+      {"word": "participate", "chinese": "参加", "phonetic": "/pɑːrˈtɪsɪpeɪt/"},
+      {"word": "significant", "chinese": "重要的；显著的", "phonetic": "/sɪɡˈnɪfɪkənt/"},
+      {"word": "responsibility", "chinese": "责任", "phonetic": "/rɪˌspɒnsəˈbɪləti/"},
+      {"word": "collective", "chinese": "集体的", "phonetic": "/kəˈlektɪv/"}
+    ],
+    "questions": [
+      {
+        "question": "What was the first project of the environment club?",
+        "options": ["Planting trees", "Reducing waste on campus", "Cleaning the park", "Writing to the newspaper"],
+        "correct_index": 1
+      },
+      {
+        "question": "How much did the waste decrease after six months?",
+        "options": ["Ten percent", "Twenty percent", "Thirty percent", "Fifty percent"],
+        "correct_index": 2
+      },
+      {
+        "question": "Where did the tree-planting activity take place?",
+        "options": ["On campus", "In a local park", "In the mountains", "Near the river"],
+        "correct_index": 1
+      },
+      {
+        "question": "What does the writer believe is needed to protect the environment?",
+        "options": ["Government action only", "Individual effort only", "Collective effort", "More technology"],
+        "correct_index": 2
+      },
+      {
+        "question": "Who reported the tree-planting activity?",
+        "options": ["The school website", "The local newspaper", "A TV station", "Social media"],
+        "correct_index": 1
+      }
+    ],
+    "word_count": 32,
+    "sort_order": 2
+  }
+]
