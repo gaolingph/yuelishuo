@@ -1,0 +1,2984 @@
+[
+  {
+    "english": "phenomenon",
+    "chinese": "现象",
+    "phonetic": "/fɪˈnɒmɪnən/",
+    "example_en": "The phenomenon of global warming has aroused widespread concern among scientists worldwide.",
+    "example_cn": "全球变暖这一现象已引起了全世界科学家的广泛关注。"
+  },
+  {
+    "english": "hypothesis",
+    "chinese": "假说；假设",
+    "phonetic": "/haɪˈpɒθəsɪs/",
+    "example_en": "The researcher formulated a hypothesis to explain the unexpected experimental results.",
+    "example_cn": "研究者提出了一个假说来解释出乎意料的实验结果。"
+  },
+  {
+    "english": "paradigm",
+    "chinese": "范式；典范",
+    "phonetic": "/ˈpærədaɪm/",
+    "example_en": "The discovery of DNA represented a paradigm shift in the field of biology.",
+    "example_cn": "DNA的发现代表了生物学领域的范式转变。"
+  },
+  {
+    "english": "perspective",
+    "chinese": "视角；观点",
+    "phonetic": "/pərˈspektɪv/",
+    "example_en": "From an educational perspective, the new policy is both innovative and practical.",
+    "example_cn": "从教育角度来看，这项新政策既创新又实用。"
+  },
+  {
+    "english": "implication",
+    "chinese": "含义；影响",
+    "phonetic": "/ˌɪmplɪˈkeɪʃən/",
+    "example_en": "The rapid development of artificial intelligence has profound implications for the job market.",
+    "example_cn": "人工智能的快速发展对就业市场有着深远的影响。"
+  },
+  {
+    "english": "significance",
+    "chinese": "重要性；意义",
+    "phonetic": "/sɪɡˈnɪfɪkəns/",
+    "example_en": "The significance of maintaining cultural diversity cannot be overstated in a globalized world.",
+    "example_cn": "在全球化的世界中，维护文化多样性的重要性怎么强调都不为过。"
+  },
+  {
+    "english": "consequence",
+    "chinese": "结果；后果",
+    "phonetic": "/ˈkɒnsɪkwəns/",
+    "example_en": "If we continue to ignore environmental issues, the consequences will be disastrous.",
+    "example_cn": "如果我们继续忽视环境问题，后果将是灾难性的。"
+  },
+  {
+    "english": "correlation",
+    "chinese": "相关性",
+    "phonetic": "/ˌkɒrəˈleɪʃən/",
+    "example_en": "Studies have shown a strong correlation between regular exercise and mental well-being.",
+    "example_cn": "研究表明，定期锻炼与心理健康之间存在很强的相关性。"
+  },
+  {
+    "english": "contradiction",
+    "chinese": "矛盾",
+    "phonetic": "/ˌkɒntrəˈdɪkʃən/",
+    "example_en": "There appears to be a contradiction between the government's words and its actions.",
+    "example_cn": "政府的言行之间似乎存在矛盾。"
+  },
+  {
+    "english": "paradox",
+    "chinese": "悖论；矛盾的事物",
+    "phonetic": "/ˈpærədɒks/",
+    "example_en": "It is a paradox that the more technology advances, the more people complain about being busy.",
+    "example_cn": "技术越进步，人们越抱怨忙碌，这是一个悖论。"
+  },
+  {
+    "english": "ambiguity",
+    "chinese": "模糊；歧义",
+    "phonetic": "/ˌæmbɪˈɡjuːɪti/",
+    "example_en": "The ambiguity of the statement led to multiple interpretations among the audience.",
+    "example_cn": "该表述的模糊性导致了听众的多种解读。"
+  },
+  {
+    "english": "diversity",
+    "chinese": "多样性",
+    "phonetic": "/daɪˈvɜːrsɪti/",
+    "example_en": "Cultural diversity enriches our society and broadens our horizons.",
+    "example_cn": "文化多样性丰富了我们的社会，拓宽了我们的视野。"
+  },
+  {
+    "english": "integrity",
+    "chinese": "诚信；完整",
+    "phonetic": "/ɪnˈteɡrɪti/",
+    "example_en": "A person of integrity always adheres to moral principles even when no one is watching.",
+    "example_cn": "一个正直的人即使在无人监督时也始终坚守道德原则。"
+  },
+  {
+    "english": "solidarity",
+    "chinese": "团结",
+    "phonetic": "/ˌsɒlɪˈdærɪti/",
+    "example_en": "In times of crisis, the nation demonstrated remarkable solidarity and mutual support.",
+    "example_cn": "在危机时刻，这个国家展现了非凡的团结和相互支持。"
+  },
+  {
+    "english": "sustainability",
+    "chinese": "可持续性",
+    "phonetic": "/səˌsteɪnəˈbɪlɪti/",
+    "example_en": "Sustainability has become a key consideration in modern urban planning and development.",
+    "example_cn": "可持续性已成为现代城市规划与发展的关键考量因素。"
+  },
+  {
+    "english": "vulnerability",
+    "chinese": "脆弱性；弱点",
+    "phonetic": "/ˌvʌlnərəˈbɪlɪti/",
+    "example_en": "The earthquake exposed the vulnerability of the region's infrastructure.",
+    "example_cn": "地震暴露了该地区基础设施的脆弱性。"
+  },
+  {
+    "english": "resilience",
+    "chinese": "韧性；恢复力",
+    "phonetic": "/rɪˈzɪliəns/",
+    "example_en": "The resilience of the local community after the natural disaster was truly inspiring.",
+    "example_cn": "当地社区在自然灾害后的坚韧不拔令人深受鼓舞。"
+  },
+  {
+    "english": "democracy",
+    "chinese": "民主",
+    "phonetic": "/dɪˈmɒkrəsi/",
+    "example_en": "Democracy is founded on the principle that every citizen has the right to vote.",
+    "example_cn": "民主建立在每个公民都有投票权的原则之上。"
+  },
+  {
+    "english": "legislation",
+    "chinese": "立法；法律",
+    "phonetic": "/ˌledʒɪsˈleɪʃən/",
+    "example_en": "The government is introducing new legislation to protect consumer rights.",
+    "example_cn": "政府正在推行新的立法以保护消费者权益。"
+  },
+  {
+    "english": "constitution",
+    "chinese": "宪法；章程",
+    "phonetic": "/ˌkɒnstɪˈtjuːʃən/",
+    "example_en": "The constitution guarantees fundamental human rights and freedoms.",
+    "example_cn": "宪法保障基本的人权和自由。"
+  },
+  {
+    "english": "authority",
+    "chinese": "权威；当局",
+    "phonetic": "/ɔːˈθɒrɪti/",
+    "example_en": "The local authority has the responsibility to maintain public order.",
+    "example_cn": "地方当局有责任维护公共秩序。"
+  },
+  {
+    "english": "sovereignty",
+    "chinese": "主权",
+    "phonetic": "/ˈsɒvrɪnti/",
+    "example_en": "Every nation has the right to protect its territorial sovereignty.",
+    "example_cn": "每个国家都有权保护其领土主权。"
+  },
+  {
+    "english": "jurisdiction",
+    "chinese": "管辖权；司法权",
+    "phonetic": "/ˌdʒʊərɪsˈdɪkʃən/",
+    "example_en": "The case falls within the jurisdiction of the local court.",
+    "example_cn": "该案件属于地方法院的管辖范围。"
+  },
+  {
+    "english": "amendment",
+    "chinese": "修正案",
+    "phonetic": "/əˈmendmənt/",
+    "example_en": "The amendment to the education bill was passed after intense debate.",
+    "example_cn": "教育法案的修正案经过激烈辩论后获得通过。"
+  },
+  {
+    "english": "ratification",
+    "chinese": "批准；认可",
+    "phonetic": "/ˌrætɪfɪˈkeɪʃən/",
+    "example_en": "The treaty requires ratification by all signatory countries before it takes effect.",
+    "example_cn": "该条约需要所有签署国批准后方可生效。"
+  },
+  {
+    "english": "diplomacy",
+    "chinese": "外交",
+    "phonetic": "/dɪˈploʊməsi/",
+    "example_en": "International diplomacy plays a crucial role in maintaining global peace and stability.",
+    "example_cn": "国际外交在维护全球和平与稳定中发挥着关键作用。"
+  },
+  {
+    "english": "treaty",
+    "chinese": "条约；协定",
+    "phonetic": "/ˈtriːti/",
+    "example_en": "The two nations signed a peace treaty to end the long-standing conflict.",
+    "example_cn": "两国签署了和平条约以结束长期冲突。"
+  },
+  {
+    "english": "sanction",
+    "chinese": "制裁；批准",
+    "phonetic": "/ˈsæŋkʃən/",
+    "example_en": "The international community imposed economic sanctions on the country for violating human rights.",
+    "example_cn": "国际社会因该国侵犯人权而对其施加经济制裁。"
+  },
+  {
+    "english": "embargo",
+    "chinese": "禁运；贸易禁令",
+    "phonetic": "/ɪmˈbɑːrɡoʊ/",
+    "example_en": "The trade embargo had a severe impact on the country's economy.",
+    "example_cn": "贸易禁运对该国经济造成了严重影响。"
+  },
+  {
+    "english": "reform",
+    "chinese": "改革",
+    "phonetic": "/rɪˈfɔːrm/",
+    "example_en": "The education reform aims to promote equal access to quality schooling.",
+    "example_cn": "教育改革旨在促进优质教育的平等获取。"
+  },
+  {
+    "english": "regulation",
+    "chinese": "法规；规章",
+    "phonetic": "/ˌreɡjʊˈleɪʃən/",
+    "example_en": "Strict environmental regulations have been implemented to reduce industrial pollution.",
+    "example_cn": "已实施严格的环境法规以减少工业污染。"
+  },
+  {
+    "english": "policy",
+    "chinese": "政策",
+    "phonetic": "/ˈpɒlɪsi/",
+    "example_en": "The new energy policy encourages the use of renewable resources.",
+    "example_cn": "新的能源政策鼓励使用可再生资源。"
+  },
+  {
+    "english": "administration",
+    "chinese": "行政；管理",
+    "phonetic": "/ədˌmɪnɪˈstreɪʃən/",
+    "example_en": "The school administration is responsible for curriculum development.",
+    "example_cn": "学校行政部门负责课程开发。"
+  },
+  {
+    "english": "bureaucracy",
+    "chinese": "官僚体制",
+    "phonetic": "/bjʊəˈrɒkrəsi/",
+    "example_en": "Excessive bureaucracy often slows down the decision-making process.",
+    "example_cn": "过多的官僚体制常常拖慢决策过程。"
+  },
+  {
+    "english": "petition",
+    "chinese": "请愿书",
+    "phonetic": "/pəˈtɪʃən/",
+    "example_en": "Over ten thousand citizens signed a petition against the construction of the factory.",
+    "example_cn": "超过一万名市民签署了反对建造该工厂的请愿书。"
+  },
+  {
+    "english": "referendum",
+    "chinese": "公民投票",
+    "phonetic": "/ˌrefəˈrendəm/",
+    "example_en": "The government decided to hold a referendum on the proposed constitutional amendment.",
+    "example_cn": "政府决定就拟议的宪法修正案举行公民投票。"
+  },
+  {
+    "english": "supreme",
+    "chinese": "最高的；至高的",
+    "phonetic": "/suːˈpriːm/",
+    "example_en": "The Supreme Court serves as the highest judicial authority in the country.",
+    "example_cn": "最高法院是该国的最高司法机构。"
+  },
+  {
+    "english": "tribunal",
+    "chinese": "法庭；特别裁判庭",
+    "phonetic": "/traɪˈbjuːnl/",
+    "example_en": "The dispute was settled by an international arbitration tribunal.",
+    "example_cn": "该争端由国际仲裁法庭解决。"
+  },
+  {
+    "english": "inaugurate",
+    "chinese": "就职；开创",
+    "phonetic": "/ɪˈnɔːɡjʊreɪt/",
+    "example_en": "The newly elected president will be inaugurated next month.",
+    "example_cn": "新当选的总统将于下个月宣誓就职。"
+  },
+  {
+    "english": "diagnosis",
+    "chinese": "诊断",
+    "phonetic": "/ˌdaɪəɡˈnoʊsɪs/",
+    "example_en": "Early diagnosis of the disease significantly increases the chances of successful treatment.",
+    "example_cn": "疾病的早期诊断大大增加了成功治疗的机会。"
+  },
+  {
+    "english": "prognosis",
+    "chinese": "预后；预判",
+    "phonetic": "/prɒɡˈnoʊsɪs/",
+    "example_en": "The doctor gave a favorable prognosis after the successful surgery.",
+    "example_cn": "手术后医生给出了乐观的预后判断。"
+  },
+  {
+    "english": "therapy",
+    "chinese": "治疗；疗法",
+    "phonetic": "/ˈθerəpi/",
+    "example_en": "Physical therapy played a vital role in his recovery from the injury.",
+    "example_cn": "物理治疗在他从伤病中恢复的过程中起到了至关重要的作用。"
+  },
+  {
+    "english": "prescription",
+    "chinese": "处方；药方",
+    "phonetic": "/prɪˈskrɪpʃən/",
+    "example_en": "You need a doctor's prescription to purchase this medication.",
+    "example_cn": "你需要医生的处方才能购买这种药物。"
+  },
+  {
+    "english": "vaccine",
+    "chinese": "疫苗",
+    "phonetic": "/ˈvæksiːn/",
+    "example_en": "The development of the vaccine marked a turning point in the fight against the pandemic.",
+    "example_cn": "疫苗的研发标志着抗击疫情斗争的转折点。"
+  },
+  {
+    "english": "antibody",
+    "chinese": "抗体",
+    "phonetic": "/ˈæntɪbɒdi/",
+    "example_en": "The body produces antibodies to fight against viruses and bacteria.",
+    "example_cn": "身体会产生抗体来对抗病毒和细菌。"
+  },
+  {
+    "english": "genome",
+    "chinese": "基因组",
+    "phonetic": "/ˈdʒiːnoʊm/",
+    "example_en": "Scientists have successfully mapped the human genome, opening new frontiers in medicine.",
+    "example_cn": "科学家们已成功绘制出人类基因组图谱，开启了医学的新前沿。"
+  },
+  {
+    "english": "chromosome",
+    "chinese": "染色体",
+    "phonetic": "/ˈkroʊməsoʊm/",
+    "example_en": "Each human cell contains 23 pairs of chromosomes that carry genetic information.",
+    "example_cn": "每个人体细胞含有23对携带遗传信息的染色体。"
+  },
+  {
+    "english": "organic",
+    "chinese": "有机的；器官的",
+    "phonetic": "/ɔːrˈɡænɪk/",
+    "example_en": "Organic farming practices help maintain soil fertility and ecological balance.",
+    "example_cn": "有机耕作有助于维持土壤肥力和生态平衡。"
+  },
+  {
+    "english": "compound",
+    "chinese": "化合物；复合的",
+    "phonetic": "/ˈkɒmpaʊnd/",
+    "example_en": "Water is a compound composed of hydrogen and oxygen atoms.",
+    "example_cn": "水是由氢原子和氧原子组成的化合物。"
+  },
+  {
+    "english": "synthesize",
+    "chinese": "合成",
+    "phonetic": "/ˈsɪnθəsaɪz/",
+    "example_en": "The human body can synthesize certain vitamins from the food we consume.",
+    "example_cn": "人体可以从我们摄入的食物中合成某些维生素。"
+  },
+  {
+    "english": "catalyst",
+    "chinese": "催化剂",
+    "phonetic": "/ˈkætəlɪst/",
+    "example_en": "Enzymes in the human body act as catalysts to speed up biochemical reactions.",
+    "example_cn": "人体内的酶充当催化剂，加速生化反应。"
+  },
+  {
+    "english": "combustion",
+    "chinese": "燃烧",
+    "phonetic": "/kəmˈbʌstʃən/",
+    "example_en": "The internal combustion engine converts fuel into mechanical energy.",
+    "example_cn": "内燃机将燃料转化为机械能。"
+  },
+  {
+    "english": "equilibrium",
+    "chinese": "平衡；均衡",
+    "phonetic": "/ˌiːkwɪˈlɪbriəm/",
+    "example_en": "The ecosystem maintains a delicate equilibrium among different species.",
+    "example_cn": "生态系统在不同物种之间保持着微妙的平衡。"
+  },
+  {
+    "english": "quantum",
+    "chinese": "量子",
+    "phonetic": "/ˈkwɒntəm/",
+    "example_en": "Quantum computing has the potential to revolutionize information processing.",
+    "example_cn": "量子计算有潜力彻底改变信息处理方式。"
+  },
+  {
+    "english": "relativity",
+    "chinese": "相对论；相对性",
+    "phonetic": "/ˌreləˈtɪvɪti/",
+    "example_en": "Einstein's theory of relativity transformed our understanding of space and time.",
+    "example_cn": "爱因斯坦的相对论改变了我们对空间和时间的理解。"
+  },
+  {
+    "english": "thermodynamics",
+    "chinese": "热力学",
+    "phonetic": "/ˌθɜːrmoʊdaɪˈnæmɪks/",
+    "example_en": "The first law of thermodynamics states that energy cannot be created or destroyed.",
+    "example_cn": "热力学第一定律指出能量既不能被创造也不能被消灭。"
+  },
+  {
+    "english": "photosynthesis",
+    "chinese": "光合作用",
+    "phonetic": "/ˌfoʊtəˈsɪnθəsɪs/",
+    "example_en": "Plants convert sunlight into chemical energy through the process of photosynthesis.",
+    "example_cn": "植物通过光合作用将阳光转化为化学能。"
+  },
+  {
+    "english": "pathogen",
+    "chinese": "病原体",
+    "phonetic": "/ˈpæθədʒən/",
+    "example_en": "The immune system is designed to defend the body against invading pathogens.",
+    "example_cn": "免疫系统旨在保护身体免受入侵病原体的侵害。"
+  },
+  {
+    "english": "epidemic",
+    "chinese": "流行病；蔓延",
+    "phonetic": "/ˌepɪˈdemɪk/",
+    "example_en": "The government took immediate measures to contain the epidemic from spreading further.",
+    "example_cn": "政府立即采取措施遏制流行病进一步蔓延。"
+  },
+  {
+    "english": "clinical",
+    "chinese": "临床的",
+    "phonetic": "/ˈklɪnɪkəl/",
+    "example_en": "The new drug is undergoing clinical trials to evaluate its safety and effectiveness.",
+    "example_cn": "这种新药正在进行临床试验以评估其安全性和有效性。"
+  },
+  {
+    "english": "symptom",
+    "chinese": "症状",
+    "phonetic": "/ˈsɪmptəm/",
+    "example_en": "Common symptoms of the flu include fever, cough, and body aches.",
+    "example_cn": "流感的常见症状包括发烧、咳嗽和身体疼痛。"
+  },
+  {
+    "english": "metaphor",
+    "chinese": "隐喻",
+    "phonetic": "/ˈmetəfɔːr/",
+    "example_en": "The poet used the metaphor of a journey to describe the course of life.",
+    "example_cn": "诗人用旅程的隐喻来描述生命的历程。"
+  },
+  {
+    "english": "simile",
+    "chinese": "明喻",
+    "phonetic": "/ˈsɪmɪli/",
+    "example_en": "A simile is a figure of speech that compares two things using 'like' or 'as'.",
+    "example_cn": "明喻是一种使用'像'或'如同'来比较两个事物的修辞手法。"
+  },
+  {
+    "english": "allegory",
+    "chinese": "寓言；讽喻",
+    "phonetic": "/ˈælɪɡɔːri/",
+    "example_en": "The novel is an allegory about the dangers of totalitarianism.",
+    "example_cn": "这部小说是关于极权主义危险的寓言。"
+  },
+  {
+    "english": "irony",
+    "chinese": "讽刺；反讽",
+    "phonetic": "/ˈaɪrəni/",
+    "example_en": "The irony of the situation was that the safety inspector's house caught fire.",
+    "example_cn": "具有讽刺意味的是，安全检查员的房子着火了。"
+  },
+  {
+    "english": "satire",
+    "chinese": "讽刺文学；讽刺",
+    "phonetic": "/ˈsætaɪər/",
+    "example_en": "Satire is often used as a powerful tool to criticize social and political issues.",
+    "example_cn": "讽刺常被用作批评社会和政治问题的有力工具。"
+  },
+  {
+    "english": "alliteration",
+    "chinese": "头韵",
+    "phonetic": "/əˌlɪtəˈreɪʃən/",
+    "example_en": "The phrase 'Peter Piper picked a peck of pickled peppers' is a classic example of alliteration.",
+    "example_cn": "短语'Peter Piper picked a peck of pickled peppers'是头韵的经典例子。"
+  },
+  {
+    "english": "imagery",
+    "chinese": "意象；形象描写",
+    "phonetic": "/ˈɪmɪdʒəri/",
+    "example_en": "The author's vivid imagery painted a magnificent picture of the sunset.",
+    "example_cn": "作者生动的意象描绘出了一幅壮丽的日落画面。"
+  },
+  {
+    "english": "symbolism",
+    "chinese": "象征主义；象征意义",
+    "phonetic": "/ˈsɪmbəlɪzəm/",
+    "example_en": "The use of darkness and light in the film is rich in symbolism.",
+    "example_cn": "电影中黑暗与光明的运用富有象征意义。"
+  },
+  {
+    "english": "narrative",
+    "chinese": "叙述；叙事",
+    "phonetic": "/ˈnærətɪv/",
+    "example_en": "The novel adopts a first-person narrative to draw readers into the story.",
+    "example_cn": "这部小说采用第一人称叙述来吸引读者进入故事。"
+  },
+  {
+    "english": "protagonist",
+    "chinese": "主角；主人公",
+    "phonetic": "/prəˈtæɡənɪst/",
+    "example_en": "The protagonist undergoes a remarkable transformation throughout the novel.",
+    "example_cn": "主人公在整部小说中经历了显著的转变。"
+  },
+  {
+    "english": "antagonist",
+    "chinese": "对立角色；对手",
+    "phonetic": "/ænˈtæɡənɪst/",
+    "example_en": "The antagonist in the story is not purely evil but has complex motivations.",
+    "example_cn": "故事中的对立角色并非纯粹邪恶，而是有复杂的动机。"
+  },
+  {
+    "english": "climax",
+    "chinese": "高潮",
+    "phonetic": "/ˈklaɪmæks/",
+    "example_en": "The story reaches its climax when the hero finally confronts his greatest fear.",
+    "example_cn": "当英雄最终面对他最大的恐惧时，故事达到了高潮。"
+  },
+  {
+    "english": "resolution",
+    "chinese": "结局；解决",
+    "phonetic": "/ˌrezəˈluːʃən/",
+    "example_en": "The resolution of the plot ties up all the loose ends in a satisfactory manner.",
+    "example_cn": "情节的结局以令人满意的方式收束了所有悬而未决的问题。"
+  },
+  {
+    "english": "genre",
+    "chinese": "体裁；类型",
+    "phonetic": "/ˈʒɑːnrə/",
+    "example_en": "Science fiction is a genre that explores futuristic concepts and technologies.",
+    "example_cn": "科幻小说是一种探索未来概念和技术的文学体裁。"
+  },
+  {
+    "english": "prose",
+    "chinese": "散文",
+    "phonetic": "/proʊz/",
+    "example_en": "His prose style is elegant and accessible to readers of all ages.",
+    "example_cn": "他的散文风格优雅，适合所有年龄段的读者。"
+  },
+  {
+    "english": "verse",
+    "chinese": "诗句；韵文",
+    "phonetic": "/vɜːrs/",
+    "example_en": "She composed a beautiful verse in memory of the fallen soldiers.",
+    "example_cn": "她创作了优美的诗句来纪念阵亡将士。"
+  },
+  {
+    "english": "stanza",
+    "chinese": "诗节",
+    "phonetic": "/ˈstænzə/",
+    "example_en": "Each stanza of the poem consists of four lines with a consistent rhyme scheme.",
+    "example_cn": "诗的每一节由四行组成，押韵格式一致。"
+  },
+  {
+    "english": "rhetoric",
+    "chinese": "修辞；雄辩术",
+    "phonetic": "/ˈretərɪk/",
+    "example_en": "The politician's speech was full of powerful rhetoric that moved the audience.",
+    "example_cn": "这位政治家的演讲充满了打动人心的有力修辞。"
+  },
+  {
+    "english": "eloquence",
+    "chinese": "口才；雄辩",
+    "phonetic": "/ˈeləkwəns/",
+    "example_en": "The lawyer's eloquence in the courtroom persuaded the jury to reach a favorable verdict.",
+    "example_cn": "律师在法庭上的雄辩说服了陪审团做出了有利的裁决。"
+  },
+  {
+    "english": "personification",
+    "chinese": "拟人",
+    "phonetic": "/pərˌsɒnɪfɪˈkeɪʃən/",
+    "example_en": "In the poem, the wind is given human qualities through personification.",
+    "example_cn": "在这首诗中，风通过拟人手法被赋予了人的特质。"
+  },
+  {
+    "english": "hyperbole",
+    "chinese": "夸张法",
+    "phonetic": "/haɪˈpɜːrbəli/",
+    "example_en": "The statement 'I have told you a million times' is a typical example of hyperbole.",
+    "example_cn": "'我已经告诉过你一百万次了'这句话是夸张法的典型例子。"
+  },
+  {
+    "english": "connotation",
+    "chinese": "内涵意义；隐含意义",
+    "phonetic": "/ˌkɒnəˈteɪʃən/",
+    "example_en": "The word 'home' has positive connotations of warmth and belonging.",
+    "example_cn": "'家'这个词带有温暖和归属感的正面内涵意义。"
+  },
+  {
+    "english": "macroeconomics",
+    "chinese": "宏观经济学",
+    "phonetic": "/ˌmækroʊˌiːkəˈnɒmɪks/",
+    "example_en": "Macroeconomics examines the behavior of an entire economy, including inflation and unemployment.",
+    "example_cn": "宏观经济学研究整个经济体的行为，包括通货膨胀和失业率。"
+  },
+  {
+    "english": "microeconomics",
+    "chinese": "微观经济学",
+    "phonetic": "/ˌmaɪkroʊˌiːkəˈnɒmɪks/",
+    "example_en": "Microeconomics focuses on the decisions of individual consumers and businesses.",
+    "example_cn": "微观经济学关注个体消费者和企业的决策。"
+  },
+  {
+    "english": "inflation",
+    "chinese": "通货膨胀",
+    "phonetic": "/ɪnˈfleɪʃən/",
+    "example_en": "The central bank raised interest rates to curb rising inflation.",
+    "example_cn": "中央银行提高了利率以遏制不断上升的通货膨胀。"
+  },
+  {
+    "english": "recession",
+    "chinese": "经济衰退",
+    "phonetic": "/rɪˈseʃən/",
+    "example_en": "Many businesses went bankrupt during the global economic recession.",
+    "example_cn": "许多企业在全球经济衰退期间破产了。"
+  },
+  {
+    "english": "investment",
+    "chinese": "投资",
+    "phonetic": "/ɪnˈvestmənt/",
+    "example_en": "Education is widely regarded as one of the most valuable long-term investments.",
+    "example_cn": "教育被广泛认为是最有价值的长期投资之一。"
+  },
+  {
+    "english": "dividend",
+    "chinese": "股息；红利",
+    "phonetic": "/ˈdɪvɪdend/",
+    "example_en": "The company paid a generous dividend to its shareholders this year.",
+    "example_cn": "该公司今年向其股东支付了丰厚的股息。"
+  },
+  {
+    "english": "portfolio",
+    "chinese": "投资组合；作品集",
+    "phonetic": "/pɔːrtˈfoʊlioʊ/",
+    "example_en": "A diversified investment portfolio helps reduce financial risk.",
+    "example_cn": "多元化的投资组合有助于降低金融风险。"
+  },
+  {
+    "english": "equity",
+    "chinese": "公平；股权",
+    "phonetic": "/ˈekwɪti/",
+    "example_en": "The company raised capital by issuing equity shares to investors.",
+    "example_cn": "该公司通过向投资者发行股权来筹集资金。"
+  },
+  {
+    "english": "asset",
+    "chinese": "资产",
+    "phonetic": "/ˈæset/",
+    "example_en": "Real estate is often considered a stable asset for long-term investment.",
+    "example_cn": "房地产常被视为长期投资的稳定资产。"
+  },
+  {
+    "english": "liability",
+    "chinese": "责任；负债",
+    "phonetic": "/ˌlaɪəˈbɪlɪti/",
+    "example_en": "The company's liabilities exceeded its assets, leading to financial difficulties.",
+    "example_cn": "该公司的负债超过了资产，导致了财务困难。"
+  },
+  {
+    "english": "revenue",
+    "chinese": "收入；税收",
+    "phonetic": "/ˈrevənjuː/",
+    "example_en": "The government's tax revenue increased significantly due to economic growth.",
+    "example_cn": "由于经济增长，政府的税收收入显著增加。"
+  },
+  {
+    "english": "expenditure",
+    "chinese": "支出；开支",
+    "phonetic": "/ɪkˈspendɪtʃər/",
+    "example_en": "The government needs to control public expenditure to maintain fiscal balance.",
+    "example_cn": "政府需要控制公共支出以维持财政平衡。"
+  },
+  {
+    "english": "budget",
+    "chinese": "预算",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "example_en": "The family planned a strict budget to save money for their child's education.",
+    "example_cn": "这个家庭制定了严格的预算，为孩子的教育存钱。"
+  },
+  {
+    "english": "fiscal",
+    "chinese": "财政的",
+    "phonetic": "/ˈfɪskəl/",
+    "example_en": "The government adopted expansionary fiscal policy to stimulate the sluggish economy.",
+    "example_cn": "政府采取了扩张性财政政策以刺激低迷的经济。"
+  },
+  {
+    "english": "monetary",
+    "chinese": "货币的；金融的",
+    "phonetic": "/ˈmʌnɪteri/",
+    "example_en": "The central bank implemented a tight monetary policy to combat inflation.",
+    "example_cn": "中央银行实施了紧缩的货币政策以应对通货膨胀。"
+  },
+  {
+    "english": "incentive",
+    "chinese": "激励；动机",
+    "phonetic": "/ɪnˈsentɪv/",
+    "example_en": "Tax incentives encourage businesses to invest in research and development.",
+    "example_cn": "税收激励措施鼓励企业投资于研发。"
+  },
+  {
+    "english": "entrepreneurship",
+    "chinese": "创业精神；企业家精神",
+    "phonetic": "/ˌɒntrəprəˈnɜːrʃɪp/",
+    "example_en": "Entrepreneurship drives innovation and creates job opportunities in the economy.",
+    "example_cn": "创业精神推动创新，并在经济中创造就业机会。"
+  },
+  {
+    "english": "monopoly",
+    "chinese": "垄断",
+    "phonetic": "/məˈnɒpəli/",
+    "example_en": "The government introduced antitrust laws to prevent monopolies from dominating the market.",
+    "example_cn": "政府出台了反垄断法以防止垄断企业主导市场。"
+  },
+  {
+    "english": "competition",
+    "chinese": "竞争",
+    "phonetic": "/ˌkɒmpəˈtɪʃən/",
+    "example_en": "Intense competition among tech companies drives rapid innovation and lower prices.",
+    "example_cn": "科技公司之间的激烈竞争推动了快速创新和价格下降。"
+  },
+  {
+    "english": "tariff",
+    "chinese": "关税",
+    "phonetic": "/ˈtærɪf/",
+    "example_en": "The trade war escalated as both countries imposed higher tariffs on each other's goods.",
+    "example_cn": "随着两国对彼此商品征收更高的关税，贸易战升级了。"
+  },
+  {
+    "english": "subsidy",
+    "chinese": "补贴；补助金",
+    "phonetic": "/ˈsʌbsɪdi/",
+    "example_en": "The government provides agricultural subsidies to support farmers' income.",
+    "example_cn": "政府提供农业补贴以支持农民的收入。"
+  },
+  {
+    "english": "depreciation",
+    "chinese": "贬值；折旧",
+    "phonetic": "/dɪˌpriːʃiˈeɪʃən/",
+    "example_en": "The depreciation of the currency made imported goods more expensive.",
+    "example_cn": "货币贬值使得进口商品更加昂贵。"
+  },
+  {
+    "english": "ecosystem",
+    "chinese": "生态系统",
+    "phonetic": "/ˈiːkoʊsɪstəm/",
+    "example_en": "The Amazon rainforest is one of the most biodiverse ecosystems on the planet.",
+    "example_cn": "亚马逊雨林是地球上生物多样性最丰富的生态系统之一。"
+  },
+  {
+    "english": "biodiversity",
+    "chinese": "生物多样性",
+    "phonetic": "/ˌbaɪoʊdaɪˈvɜːrsɪti/",
+    "example_en": "Conserving biodiversity is essential for maintaining the health of our planet.",
+    "example_cn": "保护生物多样性对于维持地球的健康至关重要。"
+  },
+  {
+    "english": "conservation",
+    "chinese": "保护；保存",
+    "phonetic": "/ˌkɒnsərˈveɪʃən/",
+    "example_en": "Wildlife conservation efforts have helped protect endangered species from extinction.",
+    "example_cn": "野生动物保护工作有助于保护濒危物种免于灭绝。"
+  },
+  {
+    "english": "renewable",
+    "chinese": "可再生的",
+    "phonetic": "/rɪˈnjuːəbəl/",
+    "example_en": "Solar and wind power are among the most promising renewable energy sources.",
+    "example_cn": "太阳能和风能是最有前景的可再生能源之一。"
+  },
+  {
+    "english": "sustainable",
+    "chinese": "可持续的",
+    "phonetic": "/səˈsteɪnəbəl/",
+    "example_en": "Sustainable development aims to meet present needs without compromising future generations.",
+    "example_cn": "可持续发展旨在满足当前需求而不损害后代人的利益。"
+  },
+  {
+    "english": "carbon",
+    "chinese": "碳",
+    "phonetic": "/ˈkɑːrbən/",
+    "example_en": "Many countries have committed to achieving carbon neutrality by the middle of the century.",
+    "example_cn": "许多国家已承诺在本世纪中叶前实现碳中和。"
+  },
+  {
+    "english": "emission",
+    "chinese": "排放",
+    "phonetic": "/ɪˈmɪʃən/",
+    "example_en": "Strict emission standards have been imposed on factories to reduce air pollution.",
+    "example_cn": "已对工厂实施了严格的排放标准以减少空气污染。"
+  },
+  {
+    "english": "greenhouse",
+    "chinese": "温室",
+    "phonetic": "/ˈɡriːnhaʊs/",
+    "example_en": "The greenhouse effect is exacerbated by the excessive emission of carbon dioxide.",
+    "example_cn": "二氧化碳的过量排放加剧了温室效应。"
+  },
+  {
+    "english": "deforestation",
+    "chinese": "森林砍伐",
+    "phonetic": "/diːˌfɒrɪˈsteɪʃən/",
+    "example_en": "Deforestation in tropical regions has accelerated the loss of wildlife habitats.",
+    "example_cn": "热带地区的森林砍伐加速了野生动物栖息地的丧失。"
+  },
+  {
+    "english": "desertification",
+    "chinese": "荒漠化",
+    "phonetic": "/dɪˌzɜːrtɪfɪˈkeɪʃən/",
+    "example_en": "Desertification threatens the livelihoods of millions of people in arid regions.",
+    "example_cn": "荒漠化威胁着干旱地区数百万人的生计。"
+  },
+  {
+    "english": "urbanization",
+    "chinese": "城市化",
+    "phonetic": "/ˌɜːrbənɪˈzeɪʃən/",
+    "example_en": "Rapid urbanization has led to numerous social and environmental challenges.",
+    "example_cn": "快速的城市化带来了许多社会和环境挑战。"
+  },
+  {
+    "english": "ecological",
+    "chinese": "生态的",
+    "phonetic": "/ˌiːkəˈlɒdʒɪkəl/",
+    "example_en": "The construction project underwent an ecological impact assessment before approval.",
+    "example_cn": "该建设项目在批准前进行了生态影响评估。"
+  },
+  {
+    "english": "footprint",
+    "chinese": "足迹；影响",
+    "phonetic": "/ˈfʊtprɪnt/",
+    "example_en": "Reducing our carbon footprint is a shared responsibility of every individual.",
+    "example_cn": "减少我们的碳足迹是每个人的共同责任。"
+  },
+  {
+    "english": "biodegradable",
+    "chinese": "可生物降解的",
+    "phonetic": "/ˌbaɪoʊdɪˈɡreɪdəbəl/",
+    "example_en": "Biodegradable materials break down naturally without harming the environment.",
+    "example_cn": "可生物降解的材料会自然分解，不会危害环境。"
+  },
+  {
+    "english": "pollutant",
+    "chinese": "污染物",
+    "phonetic": "/pəˈluːtənt/",
+    "example_en": "Industrial pollutants have contaminated the river, posing a threat to aquatic life.",
+    "example_cn": "工业污染物污染了河流，对水生生物构成了威胁。"
+  },
+  {
+    "english": "conservationist",
+    "chinese": "环保主义者；自然保护者",
+    "phonetic": "/ˌkɒnsərˈveɪʃənɪst/",
+    "example_en": "Conservationists are working tirelessly to protect the endangered species.",
+    "example_cn": "环保主义者正在不懈努力保护濒危物种。"
+  },
+  {
+    "english": "atmosphere",
+    "chinese": "大气层；气氛",
+    "phonetic": "/ˈætməsfɪər/",
+    "example_en": "The burning of fossil fuels releases large amounts of CO2 into the atmosphere.",
+    "example_cn": "化石燃料的燃烧向大气中释放了大量的二氧化碳。"
+  },
+  {
+    "english": "philosophy",
+    "chinese": "哲学",
+    "phonetic": "/fɪˈlɒsəfi/",
+    "example_en": "The study of philosophy encourages critical thinking and deep reflection on fundamental questions.",
+    "example_cn": "哲学研究鼓励批判性思维和对根本问题的深入思考。"
+  },
+  {
+    "english": "ethics",
+    "chinese": "伦理；道德规范",
+    "phonetic": "/ˈeθɪks/",
+    "example_en": "Medical ethics require doctors to prioritize the well-being of their patients.",
+    "example_cn": "医学伦理要求医生优先考虑患者的福祉。"
+  },
+  {
+    "english": "morality",
+    "chinese": "道德；道义",
+    "phonetic": "/məˈrælɪti/",
+    "example_en": "The morality of artificial intelligence raises complex questions that society must address.",
+    "example_cn": "人工智能的道德问题引发了社会必须面对的复杂问题。"
+  },
+  {
+    "english": "virtue",
+    "chinese": "美德；品德",
+    "phonetic": "/ˈvɜːrtʃuː/",
+    "example_en": "Honesty is a virtue that forms the foundation of trust in any relationship.",
+    "example_cn": "诚实是一种美德，是任何关系中信任的基础。"
+  },
+  {
+    "english": "principle",
+    "chinese": "原则；原理",
+    "phonetic": "/ˈprɪnsɪpəl/",
+    "example_en": "She adhered to the principle of treating others with respect and fairness.",
+    "example_cn": "她坚持尊重和公平对待他人的原则。"
+  },
+  {
+    "english": "obligation",
+    "chinese": "义务；责任",
+    "phonetic": "/ˌɒblɪˈɡeɪʃən/",
+    "example_en": "Citizens have a moral obligation to contribute to the welfare of their community.",
+    "example_cn": "公民有道德义务为社区的福祉做出贡献。"
+  },
+  {
+    "english": "conscience",
+    "chinese": "良心；良知",
+    "phonetic": "/ˈkɒnʃəns/",
+    "example_en": "He made the decision based on his conscience rather than popular opinion.",
+    "example_cn": "他凭良心而非公众舆论做出了决定。"
+  },
+  {
+    "english": "altruism",
+    "chinese": "利他主义",
+    "phonetic": "/ˈæltruːɪzəm/",
+    "example_en": "Acts of altruism, such as volunteering, benefit both the giver and the receiver.",
+    "example_cn": "利他主义行为，如志愿服务，对给予者和接受者都有益。"
+  },
+  {
+    "english": "utilitarianism",
+    "chinese": "功利主义",
+    "phonetic": "/juːˌtɪlɪˈteəriənɪzəm/",
+    "example_en": "Utilitarianism advocates for actions that maximize happiness for the greatest number of people.",
+    "example_cn": "功利主义主张采取能为最大多数人带来最大幸福的行为。"
+  },
+  {
+    "english": "existentialism",
+    "chinese": "存在主义",
+    "phonetic": "/ˌeɡzɪˈstenʃəlɪzəm/",
+    "example_en": "Existentialism emphasizes individual freedom, choice, and the search for meaning in life.",
+    "example_cn": "存在主义强调个体自由、选择和对生命意义的追寻。"
+  },
+  {
+    "english": "rationalism",
+    "chinese": "理性主义",
+    "phonetic": "/ˈræʃənəlɪzəm/",
+    "example_en": "Rationalism holds that reason is the primary source of knowledge and truth.",
+    "example_cn": "理性主义认为理性是知识和真理的主要来源。"
+  },
+  {
+    "english": "empiricism",
+    "chinese": "经验主义",
+    "phonetic": "/ɪmˈpɪrɪsɪzəm/",
+    "example_en": "Empiricism asserts that knowledge comes primarily through sensory experience.",
+    "example_cn": "经验主义主张知识主要来源于感官经验。"
+  },
+  {
+    "english": "skepticism",
+    "chinese": "怀疑论；怀疑态度",
+    "phonetic": "/ˈskeptɪsɪzəm/",
+    "example_en": "Scientific skepticism encourages questioning claims and seeking evidence before accepting them.",
+    "example_cn": "科学怀疑论鼓励质疑各种主张，并在接受之前寻找证据。"
+  },
+  {
+    "english": "ideology",
+    "chinese": "意识形态；思想体系",
+    "phonetic": "/ˌaɪdiˈɒlədʒi/",
+    "example_en": "The political ideology of a nation often shapes its foreign policy and domestic laws.",
+    "example_cn": "一个国家的政治意识形态常常影响其外交政策和国内法律。"
+  },
+  {
+    "english": "doctrine",
+    "chinese": "教义；学说",
+    "phonetic": "/ˈdɒktrɪn/",
+    "example_en": "The doctrine of human rights has been widely recognized in international law.",
+    "example_cn": "人权学说已在国际法中得到广泛承认。"
+  },
+  {
+    "english": "dialectic",
+    "chinese": "辩证法；辩证的",
+    "phonetic": "/ˌdaɪəˈlektɪk/",
+    "example_en": "The dialectic method involves examining opposing viewpoints to arrive at the truth.",
+    "example_cn": "辩证方法涉及审视对立的观点以达至真理。"
+  },
+  {
+    "english": "cognition",
+    "chinese": "认知",
+    "phonetic": "/kɒɡˈnɪʃən/",
+    "example_en": "Cognition encompasses mental processes such as thinking, memory, and problem-solving.",
+    "example_cn": "认知包括思维、记忆和解决问题等心理过程。"
+  },
+  {
+    "english": "perception",
+    "chinese": "感知；认知",
+    "phonetic": "/pərˈsepʃən/",
+    "example_en": "Our perception of reality is shaped by both sensory input and prior experience.",
+    "example_cn": "我们对现实的感知既受感官输入的影响，也受先前经验的影响。"
+  },
+  {
+    "english": "consciousness",
+    "chinese": "意识；自觉",
+    "phonetic": "/ˈkɒnʃəsnəs/",
+    "example_en": "The patient gradually regained consciousness after the surgery.",
+    "example_cn": "患者在手术后逐渐恢复了意识。"
+  },
+  {
+    "english": "subconscious",
+    "chinese": "潜意识的",
+    "phonetic": "/sʌbˈkɒnʃəs/",
+    "example_en": "Our subconscious mind often influences our decisions without us being aware of it.",
+    "example_cn": "我们的潜意识常常在我们没有意识到的情况下影响我们的决定。"
+  },
+  {
+    "english": "cognitive",
+    "chinese": "认知的",
+    "phonetic": "/ˈkɒɡnɪtɪv/",
+    "example_en": "Cognitive development in children is influenced by both genetics and environment.",
+    "example_cn": "儿童的认知发展受遗传和环境的共同影响。"
+  },
+  {
+    "english": "behavioral",
+    "chinese": "行为的",
+    "phonetic": "/bɪˈheɪvjərəl/",
+    "example_en": "Behavioral psychology focuses on observable actions rather than internal mental states.",
+    "example_cn": "行为心理学关注可观察的行为而非内在的心理状态。"
+  },
+  {
+    "english": "neuroscience",
+    "chinese": "神经科学",
+    "phonetic": "/ˈnjʊroʊˌsaɪəns/",
+    "example_en": "Advances in neuroscience have deepened our understanding of how the brain functions.",
+    "example_cn": "神经科学的进展加深了我们对大脑运作方式的理解。"
+  },
+  {
+    "english": "psychology",
+    "chinese": "心理学",
+    "phonetic": "/saɪˈkɒlədʒi/",
+    "example_en": "Psychology seeks to understand human behavior and mental processes through scientific methods.",
+    "example_cn": "心理学试图通过科学方法理解人类行为和心理过程。"
+  },
+  {
+    "english": "emotion",
+    "chinese": "情感；情绪",
+    "phonetic": "/ɪˈmoʊʃən/",
+    "example_en": "Emotions play a critical role in decision-making and interpersonal relationships.",
+    "example_cn": "情绪在决策和人际关系中起着关键作用。"
+  },
+  {
+    "english": "motivation",
+    "chinese": "动机；动力",
+    "phonetic": "/ˌmoʊtɪˈveɪʃən/",
+    "example_en": "Intrinsic motivation, such as curiosity, often leads to deeper learning than external rewards.",
+    "example_cn": "内在动机，如好奇心，往往比外部奖励带来更深入的学习。"
+  },
+  {
+    "english": "personality",
+    "chinese": "人格；个性",
+    "phonetic": "/ˌpɜːrsəˈnælɪti/",
+    "example_en": "Personality traits such as openness and conscientiousness influence academic success.",
+    "example_cn": "开放性和责任心等人格特质会影响学业成功。"
+  },
+  {
+    "english": "intelligence",
+    "chinese": "智力；智能",
+    "phonetic": "/ɪnˈtelɪdʒəns/",
+    "example_en": "Emotional intelligence is as important as intellectual ability in the workplace.",
+    "example_cn": "情商在工作场所中与智力和能力同样重要。"
+  },
+  {
+    "english": "memory",
+    "chinese": "记忆；记忆力",
+    "phonetic": "/ˈmeməri/",
+    "example_en": "Regular review and practice help consolidate information in long-term memory.",
+    "example_cn": "定期复习和练习有助于巩固长期记忆中的信息。"
+  },
+  {
+    "english": "learning",
+    "chinese": "学习",
+    "phonetic": "/ˈlɜːrnɪŋ/",
+    "example_en": "Lifelong learning has become essential in a rapidly changing world.",
+    "example_cn": "在快速变化的世界中，终身学习已成为必不可少的事情。"
+  },
+  {
+    "english": "conditioning",
+    "chinese": "条件作用；条件反射",
+    "phonetic": "/kənˈdɪʃənɪŋ/",
+    "example_en": "Classical conditioning explains how we develop certain automatic responses to stimuli.",
+    "example_cn": "经典条件作用解释了我们如何对刺激产生某些自动反应。"
+  },
+  {
+    "english": "depression",
+    "chinese": "抑郁；沮丧",
+    "phonetic": "/dɪˈpreʃən/",
+    "example_en": "Depression is a common mental health condition that affects millions of people worldwide.",
+    "example_cn": "抑郁症是一种常见的心理健康问题，影响着全球数百万人。"
+  },
+  {
+    "english": "anxiety",
+    "chinese": "焦虑；不安",
+    "phonetic": "/æŋˈzaɪɪti/",
+    "example_en": "Test anxiety can significantly impair students' academic performance.",
+    "example_cn": "考试焦虑会显著影响学生的学业表现。"
+  },
+  {
+    "english": "nevertheless",
+    "chinese": "然而；不过",
+    "phonetic": "/ˌnevərðəˈles/",
+    "example_en": "The experiment faced numerous challenges; nevertheless, the researchers persevered and obtained meaningful results.",
+    "example_cn": "实验面临了无数挑战；然而，研究者们坚持不懈，最终获得了有意义的结果。"
+  },
+  {
+    "english": "furthermore",
+    "chinese": "此外；而且",
+    "phonetic": "/ˈfɜːrðərmɔːr/",
+    "example_en": "The new policy will create more job opportunities; furthermore, it will boost economic growth.",
+    "example_cn": "新政策将创造更多就业机会；此外，它还将促进经济增长。"
+  },
+  {
+    "english": "consequently",
+    "chinese": "因此；结果",
+    "phonetic": "/ˈkɒnsɪkwəntli/",
+    "example_en": "Heavy rainfall caused severe flooding; consequently, many residents were forced to evacuate.",
+    "example_cn": "暴雨导致了严重的洪灾；因此，许多居民被迫撤离。"
+  },
+  {
+    "english": "subsequently",
+    "chinese": "随后；之后",
+    "phonetic": "/ˈsʌbsɪkwəntli/",
+    "example_en": "The company launched a new product and subsequently saw a significant increase in profits.",
+    "example_cn": "该公司推出了一款新产品，随后利润大幅增长。"
+  },
+  {
+    "english": "ultimately",
+    "chinese": "最终；根本上",
+    "phonetic": "/ˈʌltɪmətli/",
+    "example_en": "Ultimately, the success of the project depends on the dedication of the entire team.",
+    "example_cn": "最终，项目的成功取决于整个团队的奉献精神。"
+  },
+  {
+    "english": "inevitably",
+    "chinese": "不可避免地",
+    "phonetic": "/ɪnˈevɪtəbli/",
+    "example_en": "If we continue to consume resources at this rate, environmental degradation will inevitably accelerate.",
+    "example_cn": "如果我们继续以这种速度消耗资源，环境退化将不可避免地加速。"
+  },
+  {
+    "english": "predominantly",
+    "chinese": "主要地；占主导地位地",
+    "phonetic": "/prɪˈdɒmɪnəntli/",
+    "example_en": "The region's economy is predominantly agricultural, with rice as the main crop.",
+    "example_cn": "该地区的经济以农业为主，水稻是主要作物。"
+  },
+  {
+    "english": "theoretically",
+    "chinese": "理论上",
+    "phonetic": "/ˌθɪəˈretɪkəli/",
+    "example_en": "Theoretically, the plan is sound; however, practical implementation may prove challenging.",
+    "example_cn": "理论上，这个计划是可行的；然而，实际实施可能会面临挑战。"
+  },
+  {
+    "english": "empirically",
+    "chinese": "以经验为依据地",
+    "phonetic": "/ɪmˈpɪrɪkəli/",
+    "example_en": "The hypothesis needs to be tested empirically before it can be accepted as valid.",
+    "example_cn": "该假说在被接受为有效之前需要经过经验验证。"
+  },
+  {
+    "english": "simultaneously",
+    "chinese": "同时地",
+    "phonetic": "/ˌsɪməlˈteɪniəsli/",
+    "example_en": "It is challenging to focus on multiple tasks simultaneously without compromising quality.",
+    "example_cn": "在不影响质量的情况下同时专注于多项任务是有挑战性的。"
+  },
+  {
+    "english": "substantially",
+    "chinese": "大幅度地；实质上",
+    "phonetic": "/səbˈstænʃəli/",
+    "example_en": "The cost of living has increased substantially over the past decade.",
+    "example_cn": "过去十年间生活成本大幅上涨。"
+  },
+  {
+    "english": "comprehensively",
+    "chinese": "全面地；彻底地",
+    "phonetic": "/ˌkɒmprɪˈhensɪvli/",
+    "example_en": "The report comprehensively analyzes the factors contributing to climate change.",
+    "example_cn": "该报告全面分析了导致气候变化的各种因素。"
+  },
+  {
+    "english": "approximately",
+    "chinese": "大约；近似",
+    "phonetic": "/əˈprɒksɪmətli/",
+    "example_en": "Approximately two-thirds of the Earth's surface is covered by water.",
+    "example_cn": "地球表面大约三分之二被水覆盖。"
+  },
+  {
+    "english": "significantly",
+    "chinese": "显著地；重要地",
+    "phonetic": "/sɪɡˈnɪfɪkəntli/",
+    "example_en": "Regular physical exercise can significantly improve both physical and mental health.",
+    "example_cn": "定期体育锻炼可以显著改善身心健康。"
+  },
+  {
+    "english": "indispensable",
+    "chinese": "不可或缺的",
+    "phonetic": "/ˌɪndɪˈspensəbəl/",
+    "example_en": "The Internet has become an indispensable tool in modern education and communication.",
+    "example_cn": "互联网已成为现代教育和交流中不可或缺的工具。"
+  },
+  {
+    "english": "notwithstanding",
+    "chinese": "尽管；虽然",
+    "phonetic": "/ˌnɒtwɪðˈstændɪŋ/",
+    "example_en": "Notwithstanding the difficulties, the team managed to complete the project on time.",
+    "example_cn": "尽管困难重重，团队还是设法按时完成了项目。"
+  },
+  {
+    "english": "promote",
+    "chinese": "促进；推广",
+    "phonetic": "/prəˈmoʊt/",
+    "example_en": "The government has taken various measures to promote the development of renewable energy.",
+    "example_cn": "政府已采取多种措施来促进可再生能源的发展。"
+  },
+  {
+    "english": "enhance",
+    "chinese": "提高；增强",
+    "phonetic": "/ɪnˈhæns/",
+    "example_en": "Participating in extracurricular activities can enhance students' leadership skills.",
+    "example_cn": "参加课外活动可以提高学生的领导能力。"
+  },
+  {
+    "english": "strengthen",
+    "chinese": "加强；增强",
+    "phonetic": "/ˈstreŋkθən/",
+    "example_en": "International cooperation is essential to strengthen global public health systems.",
+    "example_cn": "国际合作对于加强全球公共卫生体系至关重要。"
+  },
+  {
+    "english": "broaden",
+    "chinese": "拓宽；扩大",
+    "phonetic": "/ˈbrɔːdən/",
+    "example_en": "Traveling abroad can broaden one's horizons and deepen cultural understanding.",
+    "example_cn": "出国旅行可以拓宽视野并加深文化理解。"
+  },
+  {
+    "english": "deepen",
+    "chinese": "加深；深化",
+    "phonetic": "/ˈdiːpən/",
+    "example_en": "The course is designed to deepen students' understanding of classical literature.",
+    "example_cn": "该课程旨在加深学生对古典文学的理解。"
+  },
+  {
+    "english": "enrich",
+    "chinese": "丰富；充实",
+    "phonetic": "/ɪnˈrɪtʃ/",
+    "example_en": "Reading a wide variety of books can enrich one's knowledge and vocabulary.",
+    "example_cn": "广泛阅读各类书籍可以丰富一个人的知识和词汇量。"
+  },
+  {
+    "english": "cultivate",
+    "chinese": "培养；培育",
+    "phonetic": "/ˈkʌltɪveɪt/",
+    "example_en": "Schools should cultivate students' critical thinking abilities rather than just focusing on exam scores.",
+    "example_cn": "学校应该培养学生的批判性思维能力，而不仅仅关注考试成绩。"
+  },
+  {
+    "english": "foster",
+    "chinese": "培养；促进",
+    "phonetic": "/ˈfɒstər/",
+    "example_en": "A positive learning environment fosters creativity and intellectual curiosity in students.",
+    "example_cn": "积极的学习环境能培养学生的创造力和求知欲。"
+  },
+  {
+    "english": "advocate",
+    "chinese": "提倡；主张",
+    "phonetic": "/ˈædvəkeɪt/",
+    "example_en": "Many environmental organizations advocate for the reduction of plastic waste.",
+    "example_cn": "许多环保组织提倡减少塑料废物。"
+  },
+  {
+    "english": "emphasize",
+    "chinese": "强调；着重",
+    "phonetic": "/ˈempfəsaɪz/",
+    "example_en": "The teacher emphasized the importance of reviewing lessons regularly.",
+    "example_cn": "老师强调了定期复习功课的重要性。"
+  },
+  {
+    "english": "highlight",
+    "chinese": "强调；突出",
+    "phonetic": "/ˈhaɪlaɪt/",
+    "example_en": "The report highlights the urgent need for action to address climate change.",
+    "example_cn": "该报告强调了采取行动应对气候变化的紧迫性。"
+  },
+  {
+    "english": "underline",
+    "chinese": "强调；在…下面划线",
+    "phonetic": "/ˌʌndərˈlaɪn/",
+    "example_en": "The recent disaster underlines the importance of disaster preparedness.",
+    "example_cn": "最近的灾难强调了备灾的重要性。"
+  },
+  {
+    "english": "undermine",
+    "chinese": "削弱；破坏",
+    "phonetic": "/ˌʌndərˈmaɪn/",
+    "example_en": "Spreading false information can undermine public trust in the media.",
+    "example_cn": "传播虚假信息会削弱公众对媒体的信任。"
+  },
+  {
+    "english": "jeopardize",
+    "chinese": "危及；损害",
+    "phonetic": "/ˈdʒepərdaɪz/",
+    "example_en": "Cutting corners on safety measures could jeopardize the lives of workers.",
+    "example_cn": "在安全措施上偷工减料可能会危及工人的生命。"
+  },
+  {
+    "english": "hinder",
+    "chinese": "阻碍；妨碍",
+    "phonetic": "/ˈhɪndər/",
+    "example_en": "Lack of funding hindered the progress of the scientific research project.",
+    "example_cn": "资金不足阻碍了科研项目的进展。"
+  },
+  {
+    "english": "prohibit",
+    "chinese": "禁止；阻止",
+    "phonetic": "/prəˈhɪbɪt/",
+    "example_en": "The law prohibits the use of mobile phones while driving.",
+    "example_cn": "法律禁止驾驶时使用手机。"
+  },
+  {
+    "english": "demonstrate",
+    "chinese": "证明；示范；展示",
+    "phonetic": "/ˈdemənstreɪt/",
+    "example_en": "The experiment demonstrates that temperature has a significant effect on chemical reactions.",
+    "example_cn": "该实验证明温度对化学反应有显著影响。"
+  },
+  {
+    "english": "illustrate",
+    "chinese": "说明；阐明",
+    "phonetic": "/ˈɪləstreɪt/",
+    "example_en": "The teacher used diagrams to illustrate the process of photosynthesis.",
+    "example_cn": "老师用图表来说明光合作用的过程。"
+  },
+  {
+    "english": "indicate",
+    "chinese": "表明；指示",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "example_en": "Recent data indicates that the economy is gradually recovering.",
+    "example_cn": "最近的数据表明经济正在逐步复苏。"
+  },
+  {
+    "english": "implement",
+    "chinese": "实施；执行",
+    "phonetic": "/ˈɪmplɪment/",
+    "example_en": "The school plans to implement a new curriculum to better prepare students for college.",
+    "example_cn": "学校计划实施新课程，以更好地帮助学生为大学做准备。"
+  },
+  {
+    "english": "facilitate",
+    "chinese": "促进；使便利",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "example_en": "Modern technology facilitates communication between people across the globe.",
+    "example_cn": "现代技术促进了全球各地人们之间的交流。"
+  },
+  {
+    "english": "undergo",
+    "chinese": "经历；遭受",
+    "phonetic": "/ˌʌndərˈɡoʊ/",
+    "example_en": "The city has undergone dramatic changes since the reform and opening-up policy.",
+    "example_cn": "自改革开放以来，这座城市经历了巨大的变化。"
+  },
+  {
+    "english": "abundant",
+    "chinese": "丰富的；充裕的",
+    "phonetic": "/əˈbʌndənt/",
+    "example_en": "The region is abundant in natural resources, including oil and minerals.",
+    "example_cn": "该地区自然资源丰富，包括石油和矿产。"
+  },
+  {
+    "english": "accommodate",
+    "chinese": "容纳；适应",
+    "phonetic": "/əˈkɒmədeɪt/",
+    "example_en": "The hotel can accommodate up to five hundred guests at the same time.",
+    "example_cn": "这家酒店最多可同时容纳五百位客人。"
+  },
+  {
+    "english": "acknowledge",
+    "chinese": "承认；感谢",
+    "phonetic": "/əkˈnɒlɪdʒ/",
+    "example_en": "The scientist acknowledged the contributions of his colleagues in the research paper.",
+    "example_cn": "这位科学家在研究论文中承认了同事们的贡献。"
+  },
+  {
+    "english": "acquisition",
+    "chinese": "获得；习得",
+    "phonetic": "/ˌækwɪˈzɪʃən/",
+    "example_en": "Language acquisition is a complex process that involves both nature and nurture.",
+    "example_cn": "语言习得是一个复杂的过程，涉及先天和后天因素。"
+  },
+  {
+    "english": "adverse",
+    "chinese": "不利的；有害的",
+    "phonetic": "/ˈædvɜːrs/",
+    "example_en": "The adverse weather conditions forced the cancellation of the outdoor event.",
+    "example_cn": "不利的天气条件迫使户外活动取消。"
+  },
+  {
+    "english": "aggregate",
+    "chinese": "总计；集合",
+    "phonetic": "/ˈæɡrɪɡeɪt/",
+    "example_en": "The aggregate of all the donations reached a record high this year.",
+    "example_cn": "所有捐款的总额今年达到了历史新高。"
+  },
+  {
+    "english": "allocate",
+    "chinese": "分配；划拨",
+    "phonetic": "/ˈæləkeɪt/",
+    "example_en": "The government allocated substantial funds to improve public transportation.",
+    "example_cn": "政府拨出大量资金用于改善公共交通。"
+  },
+  {
+    "english": "ambiguous",
+    "chinese": "模棱两可的",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "example_en": "The instructions were ambiguous, leading to confusion among the participants.",
+    "example_cn": "说明含糊不清，导致参与者感到困惑。"
+  },
+  {
+    "english": "appreciate",
+    "chinese": "感激；欣赏；增值",
+    "phonetic": "/əˈpriːʃieɪt/",
+    "example_en": "We deeply appreciate your generous support for our charitable foundation.",
+    "example_cn": "我们深切感谢您对我们慈善基金会的慷慨支持。"
+  },
+  {
+    "english": "articulate",
+    "chinese": "清晰地表达；有口才的",
+    "phonetic": "/ɑːrˈtɪkjʊleɪt/",
+    "example_en": "The professor articulated his arguments so clearly that everyone could follow.",
+    "example_cn": "教授如此清晰地阐述了他的论点，每个人都听得明白。"
+  },
+  {
+    "english": "assess",
+    "chinese": "评估；评定",
+    "phonetic": "/əˈses/",
+    "example_en": "Teachers use various methods to assess students' progress and understanding.",
+    "example_cn": "教师使用多种方法来评估学生的进步和理解程度。"
+  },
+  {
+    "english": "assumption",
+    "chinese": "假设；假定",
+    "phonetic": "/əˈsʌmpʃən/",
+    "example_en": "The whole theory is based on the assumption that all individuals act rationally.",
+    "example_cn": "整个理论基于所有个体都理性行事的假设。"
+  },
+  {
+    "english": "authentic",
+    "chinese": "真实的；可靠的",
+    "phonetic": "/ɔːˈθentɪk/",
+    "example_en": "The museum displays authentic artifacts from the Ming Dynasty.",
+    "example_cn": "博物馆展出了明朝的真品文物。"
+  },
+  {
+    "english": "beneficial",
+    "chinese": "有益的；有利的",
+    "phonetic": "/ˌbenɪˈfɪʃəl/",
+    "example_en": "Regular physical activity is beneficial to both physical and mental health.",
+    "example_cn": "定期体育锻炼对身心健康都有益。"
+  },
+  {
+    "english": "capacity",
+    "chinese": "能力；容量",
+    "phonetic": "/kəˈpæsɪti/",
+    "example_en": "The human brain has an extraordinary capacity for learning and adaptation.",
+    "example_cn": "人脑具有非凡的学习和适应能力。"
+  },
+  {
+    "english": "collapse",
+    "chinese": "倒塌；崩溃",
+    "phonetic": "/kəˈlæps/",
+    "example_en": "The bridge collapsed due to poor construction and lack of maintenance.",
+    "example_cn": "由于施工质量差和缺乏维护，这座桥倒塌了。"
+  },
+  {
+    "english": "commence",
+    "chinese": "开始；着手",
+    "phonetic": "/kəˈmens/",
+    "example_en": "The construction of the new airport will commence next spring.",
+    "example_cn": "新机场的建设将于明年春天开始。"
+  },
+  {
+    "english": "compel",
+    "chinese": "强迫；迫使",
+    "phonetic": "/kəmˈpel/",
+    "example_en": "The severe drought compelled farmers to seek alternative sources of water.",
+    "example_cn": "严重的干旱迫使农民寻找替代水源。"
+  },
+  {
+    "english": "complement",
+    "chinese": "补充；互补",
+    "phonetic": "/ˈkɒmplɪment/",
+    "example_en": "The two teaching methods complement each other, providing a well-rounded education.",
+    "example_cn": "这两种教学方法互为补充，提供全面的教育。"
+  },
+  {
+    "english": "compliment",
+    "chinese": "赞美；恭维",
+    "phonetic": "/ˈkɒmplɪmənt/",
+    "example_en": "She received many compliments on her outstanding performance in the debate.",
+    "example_cn": "她在辩论中的出色表现赢得了许多赞美。"
+  },
+  {
+    "english": "comply",
+    "chinese": "遵守；顺从",
+    "phonetic": "/kəmˈplaɪ/",
+    "example_en": "All companies must comply with safety regulations to protect their employees.",
+    "example_cn": "所有公司都必须遵守安全法规以保护员工。"
+  },
+  {
+    "english": "conceive",
+    "chinese": "构想；设想",
+    "phonetic": "/kənˈsiːv/",
+    "example_en": "The architect conceived a brilliant design for the new city library.",
+    "example_cn": "建筑师为新的市立图书馆构想了一个出色的设计。"
+  },
+  {
+    "english": "confine",
+    "chinese": "限制；局限",
+    "phonetic": "/kənˈfaɪn/",
+    "example_en": "The study confined its analysis to data collected from urban areas.",
+    "example_cn": "该研究将其分析限制在从城市地区收集的数据上。"
+  },
+  {
+    "english": "consensus",
+    "chinese": "共识；一致意见",
+    "phonetic": "/kənˈsensəs/",
+    "example_en": "After hours of discussion, the committee finally reached a consensus on the issue.",
+    "example_cn": "经过数小时的讨论，委员会终于就该问题达成了共识。"
+  },
+  {
+    "english": "consolidate",
+    "chinese": "巩固；合并",
+    "phonetic": "/kənˈsɒlɪdeɪt/",
+    "example_en": "The company consolidated its position in the market through strategic acquisitions.",
+    "example_cn": "该公司通过战略性收购巩固了其在市场中的地位。"
+  },
+  {
+    "english": "contemplate",
+    "chinese": "沉思；考虑",
+    "phonetic": "/ˈkɒntəmpleɪt/",
+    "example_en": "She sat by the window, contemplating the meaning of the poem.",
+    "example_cn": "她坐在窗边，沉思着这首诗的含义。"
+  },
+  {
+    "english": "contradict",
+    "chinese": "反驳；与…矛盾",
+    "phonetic": "/ˌkɒntrəˈdɪkt/",
+    "example_en": "The witness's testimony contradicted the evidence presented earlier.",
+    "example_cn": "证人的证词与之前提供的证据相矛盾。"
+  },
+  {
+    "english": "controversial",
+    "chinese": "有争议的",
+    "phonetic": "/ˌkɒntrəˈvɜːrʃəl/",
+    "example_en": "The policy of genetic modification remains highly controversial among the public.",
+    "example_cn": "基因改造政策在公众中仍然存在高度争议。"
+  },
+  {
+    "english": "conventional",
+    "chinese": "传统的；常规的",
+    "phonetic": "/kənˈvenʃənəl/",
+    "example_en": "Conventional farming methods often rely heavily on chemical fertilizers and pesticides.",
+    "example_cn": "传统耕作方法往往严重依赖化肥和农药。"
+  },
+  {
+    "english": "convict",
+    "chinese": "定罪；宣判有罪",
+    "phonetic": "/kənˈvɪkt/",
+    "example_en": "The defendant was convicted of fraud and sentenced to five years in prison.",
+    "example_cn": "被告被判欺诈罪，处以五年监禁。"
+  },
+  {
+    "english": "crucial",
+    "chinese": "至关重要的",
+    "phonetic": "/ˈkruːʃəl/",
+    "example_en": "Early childhood education plays a crucial role in a person's overall development.",
+    "example_cn": "早期教育在一个人的全面发展中起着至关重要的作用。"
+  },
+  {
+    "english": "accumulate",
+    "chinese": "积累；积聚",
+    "phonetic": "/əˈkjuːmjʊleɪt/",
+    "example_en": "Over the years, he accumulated a vast collection of ancient Chinese coins.",
+    "example_cn": "多年来，他积累了大量中国古代钱币的收藏。"
+  },
+  {
+    "english": "dedicate",
+    "chinese": "致力于；奉献",
+    "phonetic": "/ˈdedɪkeɪt/",
+    "example_en": "The scientist dedicated his entire life to finding a cure for the disease.",
+    "example_cn": "这位科学家毕生致力于寻找这种疾病的治疗方法。"
+  },
+  {
+    "english": "delegate",
+    "chinese": "委派；授权；代表",
+    "phonetic": "/ˈdelɪɡeɪt/",
+    "example_en": "The manager delegated the task of organizing the conference to her assistant.",
+    "example_cn": "经理把组织会议的任务委派给了她的助手。"
+  },
+  {
+    "english": "deliberate",
+    "chinese": "故意的；深思熟虑的",
+    "phonetic": "/dɪˈlɪbərɪt/",
+    "example_en": "The government took deliberate steps to address the housing crisis.",
+    "example_cn": "政府采取了深思熟虑的步骤来解决住房危机。"
+  },
+  {
+    "english": "deprive",
+    "chinese": "剥夺；使丧失",
+    "phonetic": "/dɪˈpraɪv/",
+    "example_en": "Lack of sleep can deprive students of the ability to concentrate in class.",
+    "example_cn": "睡眠不足会剥夺学生在课堂上集中注意力的能力。"
+  },
+  {
+    "english": "deteriorate",
+    "chinese": "恶化；退化",
+    "phonetic": "/dɪˈtɪəriəreɪt/",
+    "example_en": "The patient's condition deteriorated rapidly despite the doctor's best efforts.",
+    "example_cn": "尽管医生尽了最大努力，病人的情况还是迅速恶化了。"
+  },
+  {
+    "english": "discipline",
+    "chinese": "纪律；学科",
+    "phonetic": "/ˈdɪsɪplɪn/",
+    "example_en": "Self-discipline is a key factor in achieving long-term academic success.",
+    "example_cn": "自律是取得长期学业成功的关键因素。"
+  },
+  {
+    "english": "discrimination",
+    "chinese": "歧视；辨别",
+    "phonetic": "/dɪˌskrɪmɪˈneɪʃən/",
+    "example_en": "Laws against racial discrimination have been strengthened in recent years.",
+    "example_cn": "近年来，反对种族歧视的法律得到了加强。"
+  },
+  {
+    "english": "distinct",
+    "chinese": "明显的；不同的",
+    "phonetic": "/dɪˈstɪŋkt/",
+    "example_en": "There is a distinct difference between the two political systems.",
+    "example_cn": "这两种政治体制之间有明显的区别。"
+  },
+  {
+    "english": "distinguish",
+    "chinese": "区分；辨别",
+    "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+    "example_en": "It is important to distinguish between facts and opinions when reading news articles.",
+    "example_cn": "阅读新闻文章时，区分事实和观点很重要。"
+  },
+  {
+    "english": "domestic",
+    "chinese": "国内的；家庭的",
+    "phonetic": "/dəˈmestɪk/",
+    "example_en": "The company focuses primarily on the domestic market rather than international expansion.",
+    "example_cn": "这家公司主要专注于国内市场，而非国际扩张。"
+  },
+  {
+    "english": "dominant",
+    "chinese": "占主导地位的；支配的",
+    "phonetic": "/ˈdɒmɪnənt/",
+    "example_en": "English has become the dominant language in international business and academia.",
+    "example_cn": "英语已成为国际商业和学术界的主导语言。"
+  },
+  {
+    "english": "durable",
+    "chinese": "耐用的；持久的",
+    "phonetic": "/ˈdjʊrəbəl/",
+    "example_en": "The company is known for producing high-quality, durable electronic devices.",
+    "example_cn": "这家公司以生产高质量、耐用的电子设备而闻名。"
+  },
+  {
+    "english": "elaborate",
+    "chinese": "精心制作的；详细阐述",
+    "phonetic": "/ɪˈlæbərɪt/",
+    "example_en": "The architect presented an elaborate plan for the renovation of the historic building.",
+    "example_cn": "建筑师为历史建筑的翻新提出了一个精心设计的方案。"
+  },
+  {
+    "english": "eliminate",
+    "chinese": "消除；淘汰",
+    "phonetic": "/ɪˈlɪmɪneɪt/",
+    "example_en": "The government is trying to eliminate poverty through various social welfare programs.",
+    "example_cn": "政府正试图通过各种社会福利项目消除贫困。"
+  },
+  {
+    "english": "embrace",
+    "chinese": "拥抱；欣然接受",
+    "phonetic": "/ɪmˈbreɪs/",
+    "example_en": "We should embrace cultural differences and learn from each other.",
+    "example_cn": "我们应该欣然接受文化差异并互相学习。"
+  },
+  {
+    "english": "emerge",
+    "chinese": "出现；浮现",
+    "phonetic": "/ɪˈmɜːrdʒ/",
+    "example_en": "New challenges emerge as technology continues to advance at an unprecedented pace.",
+    "example_cn": "随着技术以前所未有的速度发展，新的挑战不断出现。"
+  },
+  {
+    "english": "enforce",
+    "chinese": "执行；实施",
+    "phonetic": "/ɪnˈfɔːrs/",
+    "example_en": "It is the duty of the police to enforce the law and maintain public order.",
+    "example_cn": "警察的职责是执行法律和维护公共秩序。"
+  },
+  {
+    "english": "enormous",
+    "chinese": "巨大的；庞大的",
+    "phonetic": "/ɪˈnɔːrməs/",
+    "example_en": "The construction of the Three Gorges Dam required an enormous investment of both money and labor.",
+    "example_cn": "三峡大坝的建设需要巨大的资金和劳动力投入。"
+  },
+  {
+    "english": "essential",
+    "chinese": "必不可少的；本质的",
+    "phonetic": "/ɪˈsenʃəl/",
+    "example_en": "Water is essential for all known forms of life on Earth.",
+    "example_cn": "水对地球上所有已知的生命形式都是必不可少的。"
+  },
+  {
+    "english": "evaluate",
+    "chinese": "评估；评价",
+    "phonetic": "/ɪˈvæljʊeɪt/",
+    "example_en": "It is necessary to evaluate the effectiveness of the new teaching methods regularly.",
+    "example_cn": "有必要定期评估新教学方法的效果。"
+  },
+  {
+    "english": "evolve",
+    "chinese": "进化；发展",
+    "phonetic": "/ɪˈvɒlv/",
+    "example_en": "Species evolve over time in response to changes in their environment.",
+    "example_cn": "物种会随着时间的推移而进化，以适应环境的变化。"
+  },
+  {
+    "english": "exceed",
+    "chinese": "超过；超越",
+    "phonetic": "/ɪkˈsiːd/",
+    "example_en": "The demand for the product has far exceeded the company's initial expectations.",
+    "example_cn": "对该产品的需求已远远超出了公司的初始预期。"
+  },
+  {
+    "english": "exclude",
+    "chinese": "排除；排斥",
+    "phonetic": "/ɪkˈskluːd/",
+    "example_en": "The study excluded participants who had pre-existing medical conditions.",
+    "example_cn": "该研究排除了有既往病史的参与者。"
+  },
+  {
+    "english": "execute",
+    "chinese": "执行；实施",
+    "phonetic": "/ˈeksɪkjuːt/",
+    "example_en": "The company executed a comprehensive marketing strategy to promote its new product.",
+    "example_cn": "该公司执行了一项全面的营销策略来推广其新产品。"
+  },
+  {
+    "english": "explicit",
+    "chinese": "明确的；清楚的",
+    "phonetic": "/ɪkˈsplɪsɪt/",
+    "example_en": "The teacher gave explicit instructions on how to complete the assignment.",
+    "example_cn": "老师就如何完成作业给出了明确的指示。"
+  },
+  {
+    "english": "exploit",
+    "chinese": "利用；开发；剥削",
+    "phonetic": "/ɪkˈsplɔɪt/",
+    "example_en": "Companies should not exploit natural resources without considering environmental consequences.",
+    "example_cn": "企业不应在不考虑环境后果的情况下开发自然资源。"
+  },
+  {
+    "english": "expose",
+    "chinese": "暴露；揭露",
+    "phonetic": "/ɪkˈspoʊz/",
+    "example_en": "The investigation exposed widespread corruption within the government agency.",
+    "example_cn": "调查揭露了该政府机构内部普遍存在的腐败现象。"
+  },
+  {
+    "english": "extensive",
+    "chinese": "广泛的；大量的",
+    "phonetic": "/ɪkˈstensɪv/",
+    "example_en": "The researcher conducted extensive fieldwork to gather data for the study.",
+    "example_cn": "研究者进行了广泛的实地调查来为研究收集数据。"
+  },
+  {
+    "english": "external",
+    "chinese": "外部的；对外的",
+    "phonetic": "/ɪkˈstɜːrnəl/",
+    "example_en": "The company hired an external consultant to evaluate its management system.",
+    "example_cn": "公司聘请了一位外部顾问来评估其管理系统。"
+  },
+  {
+    "english": "extract",
+    "chinese": "提取；摘录",
+    "phonetic": "/ˈekstrækt/",
+    "example_en": "Honey is extracted from beehives and processed for consumption.",
+    "example_cn": "蜂蜜是从蜂巢中提取并加工后供食用的。"
+  },
+  {
+    "english": "flexible",
+    "chinese": "灵活的；有弹性的",
+    "phonetic": "/ˈfleksɪbəl/",
+    "example_en": "The company offers flexible working hours to accommodate employees' needs.",
+    "example_cn": "公司提供灵活的工作时间来满足员工的需求。"
+  },
+  {
+    "english": "fluctuate",
+    "chinese": "波动；起伏",
+    "phonetic": "/ˈflʌktʃueɪt/",
+    "example_en": "Stock prices fluctuate constantly in response to market conditions.",
+    "example_cn": "股票价格随市场状况不断波动。"
+  },
+  {
+    "english": "formulate",
+    "chinese": "制定；构想",
+    "phonetic": "/ˈfɔːrmjʊleɪt/",
+    "example_en": "The government formulated a series of policies to boost economic growth.",
+    "example_cn": "政府制定了一系列政策来促进经济增长。"
+  },
+  {
+    "english": "frequent",
+    "chinese": "频繁的；经常的",
+    "phonetic": "/ˈfriːkwənt/",
+    "example_en": "Frequent exposure to sunlight can damage your skin over time.",
+    "example_cn": "频繁暴露在阳光下会逐渐损伤你的皮肤。"
+  },
+  {
+    "english": "fulfill",
+    "chinese": "履行；实现",
+    "phonetic": "/fʊlˈfɪl/",
+    "example_en": "She worked hard to fulfill her dream of becoming a professional musician.",
+    "example_cn": "她努力实现成为职业音乐家的梦想。"
+  },
+  {
+    "english": "genuine",
+    "chinese": "真正的；真诚的",
+    "phonetic": "/ˈdʒenjuɪn/",
+    "example_en": "The painting was confirmed to be a genuine work of the Ming Dynasty artist.",
+    "example_cn": "这幅画被确认为这位明代艺术家的真迹。"
+  },
+  {
+    "english": "guarantee",
+    "chinese": "保证；担保",
+    "phonetic": "/ˌɡærənˈtiː/",
+    "example_en": "Hard work does not guarantee success, but it certainly increases the chances.",
+    "example_cn": "努力工作并不能保证成功，但无疑会增加成功的几率。"
+  },
+  {
+    "english": "harmony",
+    "chinese": "和谐；融洽",
+    "phonetic": "/ˈhɑːrməni/",
+    "example_en": "Living in harmony with nature is a fundamental principle of traditional Chinese philosophy.",
+    "example_cn": "与自然和谐相处是中国传统哲学的基本原则。"
+  },
+  {
+    "english": "hesitate",
+    "chinese": "犹豫；迟疑",
+    "phonetic": "/ˈhezɪteɪt/",
+    "example_en": "If you have any questions, please do not hesitate to contact us.",
+    "example_cn": "如果您有任何问题，请随时联系我们。"
+  },
+  {
+    "english": "identical",
+    "chinese": "相同的；完全一样的",
+    "phonetic": "/aɪˈdentɪkəl/",
+    "example_en": "The two samples were almost identical in their chemical composition.",
+    "example_cn": "这两个样本的化学成分几乎完全相同。"
+  },
+  {
+    "english": "ignorant",
+    "chinese": "无知的；不了解的",
+    "phonetic": "/ˈɪɡnərənt/",
+    "example_en": "Many people remain ignorant of the serious consequences of climate change.",
+    "example_cn": "许多人仍然对气候变化的严重后果一无所知。"
+  },
+  {
+    "english": "illusion",
+    "chinese": "幻觉；错觉",
+    "phonetic": "/ɪˈluːʒən/",
+    "example_en": "The mirror creates an optical illusion that makes the room look much larger.",
+    "example_cn": "镜子制造了一种视觉错觉，使房间看起来大得多。"
+  },
+  {
+    "english": "immense",
+    "chinese": "巨大的；无限的",
+    "phonetic": "/ɪˈmens/",
+    "example_en": "The project required an immense amount of time, effort, and resources.",
+    "example_cn": "该项目需要大量的时间、精力和资源。"
+  },
+  {
+    "english": "immune",
+    "chinese": "免疫的；不受影响的",
+    "phonetic": "/ɪˈmjuːn/",
+    "example_en": "Vaccination helps the body build immunity against specific diseases.",
+    "example_cn": "疫苗接种帮助身体建立对特定疾病的免疫力。"
+  },
+  {
+    "english": "impose",
+    "chinese": "强加；征收",
+    "phonetic": "/ɪmˈpoʊz/",
+    "example_en": "The government imposed strict regulations on the use of plastic bags.",
+    "example_cn": "政府强制实施了关于塑料袋使用的严格规定。"
+  },
+  {
+    "english": "impulse",
+    "chinese": "冲动；推动",
+    "phonetic": "/ˈɪmpʌls/",
+    "example_en": "He bought the expensive watch on impulse without thinking about his budget.",
+    "example_cn": "他一时冲动买了那块昂贵的手表，没有考虑自己的预算。"
+  },
+  {
+    "english": "incredible",
+    "chinese": "难以置信的",
+    "phonetic": "/ɪnˈkredɪbəl/",
+    "example_en": "The technological advancements in recent decades have been truly incredible.",
+    "example_cn": "近几十年来的技术进步真是令人难以置信。"
+  },
+  {
+    "english": "indifferent",
+    "chinese": "漠不关心的；中立的",
+    "phonetic": "/ɪnˈdɪfərənt/",
+    "example_en": "Many young people seem indifferent to political issues in their country.",
+    "example_cn": "许多年轻人似乎对国家政治问题漠不关心。"
+  },
+  {
+    "english": "inevitable",
+    "chinese": "不可避免的",
+    "phonetic": "/ɪnˈevɪtəbəl/",
+    "example_en": "Change is inevitable in any dynamic and developing society.",
+    "example_cn": "在任何充满活力且不断发展的社会中，变化是不可避免的。"
+  },
+  {
+    "english": "infrastructure",
+    "chinese": "基础设施",
+    "phonetic": "/ˈɪnfrəstrʌktʃər/",
+    "example_en": "The government invested heavily in infrastructure projects such as highways and bridges.",
+    "example_cn": "政府在高速公路和桥梁等基础设施项目上投入了大量资金。"
+  },
+  {
+    "english": "initiative",
+    "chinese": "倡议；主动权",
+    "phonetic": "/ɪˈnɪʃɪətɪv/",
+    "example_en": "The Belt and Road Initiative has promoted economic cooperation among many countries.",
+    "example_cn": "一带一路倡议促进了许多国家之间的经济合作。"
+  },
+  {
+    "english": "innovation",
+    "chinese": "创新；革新",
+    "phonetic": "/ˌɪnəˈveɪʃən/",
+    "example_en": "Technological innovation is the driving force behind economic growth in the modern era.",
+    "example_cn": "技术创新是当今时代经济增长的驱动力。"
+  },
+  {
+    "english": "inspect",
+    "chinese": "检查；审视",
+    "phonetic": "/ɪnˈspekt/",
+    "example_en": "Health inspectors regularly visit restaurants to ensure food safety standards are met.",
+    "example_cn": "卫生检查员定期访问餐馆，确保符合食品安全标准。"
+  },
+  {
+    "english": "inspire",
+    "chinese": "激励；启发",
+    "phonetic": "/ɪnˈspaɪər/",
+    "example_en": "Great teachers inspire their students to pursue knowledge with passion and curiosity.",
+    "example_cn": "伟大的老师激励学生以热情和好奇心追求知识。"
+  },
+  {
+    "english": "instinct",
+    "chinese": "本能；直觉",
+    "phonetic": "/ˈɪnstɪŋkt/",
+    "example_en": "Birds have a natural instinct to migrate south during the winter.",
+    "example_cn": "鸟类有在冬季南迁的自然本能。"
+  },
+  {
+    "english": "institute",
+    "chinese": "机构；学院；建立",
+    "phonetic": "/ˈɪnstɪtjuːt/",
+    "example_en": "The research institute has made groundbreaking discoveries in the field of genetics.",
+    "example_cn": "该研究机构在遗传学领域取得了突破性发现。"
+  },
+  {
+    "english": "integrate",
+    "chinese": "整合；融入",
+    "phonetic": "/ˈɪntɪɡreɪt/",
+    "example_en": "The new curriculum integrates theory with practice to enhance learning outcomes.",
+    "example_cn": "新课程将理论与实践相结合，以提高学习效果。"
+  },
+  {
+    "english": "interfere",
+    "chinese": "干涉；干扰",
+    "phonetic": "/ˌɪntərˈfɪər/",
+    "example_en": "The government should not interfere with the freedom of the press.",
+    "example_cn": "政府不应干涉新闻自由。"
+  },
+  {
+    "english": "interpret",
+    "chinese": "解释；口译",
+    "phonetic": "/ɪnˈtɜːrprɪt/",
+    "example_en": "Different scholars interpret the same historical event in various ways.",
+    "example_cn": "不同的学者对同一历史事件有不同的解读。"
+  },
+  {
+    "english": "investigate",
+    "chinese": "调查；研究",
+    "phonetic": "/ɪnˈvestɪɡeɪt/",
+    "example_en": "The police are investigating the cause of the traffic accident.",
+    "example_cn": "警方正在调查这起交通事故的原因。"
+  },
+  {
+    "english": "isolate",
+    "chinese": "隔离；孤立",
+    "phonetic": "/ˈaɪsəleɪt/",
+    "example_en": "Patients with infectious diseases must be isolated to prevent the spread of the virus.",
+    "example_cn": "传染病患者必须被隔离以防止病毒传播。"
+  },
+  {
+    "english": "justify",
+    "chinese": "证明…正当；辩护",
+    "phonetic": "/ˈdʒʌstɪfaɪ/",
+    "example_en": "How can the government justify spending billions on the project while schools are underfunded?",
+    "example_cn": "在学校资金不足的情况下，政府如何证明在该项目上花费数十亿是正当的？"
+  },
+  {
+    "english": "legitimate",
+    "chinese": "合法的；正当的",
+    "phonetic": "/lɪˈdʒɪtɪmɪt/",
+    "example_en": "The court recognized the company's claim as legitimate and ruled in its favor.",
+    "example_cn": "法院认定该公司的诉求是合法的，并做出了有利的裁决。"
+  },
+  {
+    "english": "liberal",
+    "chinese": "自由的；开明的",
+    "phonetic": "/ˈlɪbərəl/",
+    "example_en": "A liberal education encourages students to think critically and explore diverse perspectives.",
+    "example_cn": "通识教育鼓励学生批判性思考并探索多元视角。"
+  },
+  {
+    "english": "magnificent",
+    "chinese": "壮丽的；宏伟的",
+    "phonetic": "/mæɡˈnɪfɪsənt/",
+    "example_en": "The Forbidden City is a magnificent architectural complex that attracts millions of visitors annually.",
+    "example_cn": "故宫是一座宏伟的建筑群，每年吸引数百万游客。"
+  },
+  {
+    "english": "maintain",
+    "chinese": "维持；维护；主张",
+    "phonetic": "/meɪnˈteɪn/",
+    "example_en": "It is essential to maintain a balanced diet for good health.",
+    "example_cn": "保持均衡饮食对健康至关重要。"
+  },
+  {
+    "english": "manipulate",
+    "chinese": "操纵；控制",
+    "phonetic": "/məˈnɪpjʊleɪt/",
+    "example_en": "Some media outlets manipulate information to influence public opinion.",
+    "example_cn": "一些媒体操纵信息以影响公众舆论。"
+  },
+  {
+    "english": "maximize",
+    "chinese": "最大化；充分利用",
+    "phonetic": "/ˈmæksɪmaɪz/",
+    "example_en": "Companies aim to maximize profits while minimizing costs.",
+    "example_cn": "企业旨在最大化利润的同时最小化成本。"
+  },
+  {
+    "english": "minimum",
+    "chinese": "最少的；最低限度",
+    "phonetic": "/ˈmɪnɪməm/",
+    "example_en": "The government has set a minimum wage to protect low-income workers.",
+    "example_cn": "政府设定了最低工资以保护低收入劳动者。"
+  },
+  {
+    "english": "modify",
+    "chinese": "修改；调整",
+    "phonetic": "/ˈmɒdɪfaɪ/",
+    "example_en": "The design was modified several times to meet the clients' requirements.",
+    "example_cn": "设计被修改了多次以满足客户的要求。"
+  },
+  {
+    "english": "monitor",
+    "chinese": "监控；监测",
+    "phonetic": "/ˈmɒnɪtər/",
+    "example_en": "Doctors monitor patients' vital signs closely after surgery.",
+    "example_cn": "医生在手术后密切监测患者的生命体征。"
+  },
+  {
+    "english": "mutual",
+    "chinese": "相互的；共同的",
+    "phonetic": "/ˈmjuːtʃuəl/",
+    "example_en": "The two countries signed a treaty based on mutual respect and shared interests.",
+    "example_cn": "两国基于相互尊重和共同利益签署了一项条约。"
+  },
+  {
+    "english": "neglect",
+    "chinese": "忽视；疏于照顾",
+    "phonetic": "/nɪˈɡlekt/",
+    "example_en": "Parents should not neglect their children's emotional needs.",
+    "example_cn": "父母不应忽视孩子的情感需求。"
+  },
+  {
+    "english": "negotiate",
+    "chinese": "谈判；协商",
+    "phonetic": "/nɪˈɡoʊʃieɪt/",
+    "example_en": "The union negotiated with management for better working conditions.",
+    "example_cn": "工会与管理层就改善工作条件进行了谈判。"
+  },
+  {
+    "english": "neutral",
+    "chinese": "中立的；中性的",
+    "phonetic": "/ˈnjuːtrəl/",
+    "example_en": "Switzerland has maintained a neutral position in international conflicts for centuries.",
+    "example_cn": "几个世纪以来，瑞士在国际冲突中一直保持中立立场。"
+  },
+  {
+    "english": "nominate",
+    "chinese": "提名；任命",
+    "phonetic": "/ˈnɒmɪneɪt/",
+    "example_en": "She was nominated for the Nobel Peace Prize for her humanitarian work.",
+    "example_cn": "她因人道主义工作而被提名诺贝尔和平奖。"
+  },
+  {
+    "english": "nonetheless",
+    "chinese": "尽管如此；然而",
+    "phonetic": "/ˌnʌnðəˈles/",
+    "example_en": "The task was extremely difficult; nonetheless, she managed to complete it on time.",
+    "example_cn": "任务极其困难；尽管如此，她还是设法按时完成了。"
+  },
+  {
+    "english": "normalize",
+    "chinese": "正常化；规范化",
+    "phonetic": "/ˈnɔːrməlaɪz/",
+    "example_en": "The two countries have taken steps to normalize their diplomatic relations.",
+    "example_cn": "两国已采取措施使外交关系正常化。"
+  },
+  {
+    "english": "notion",
+    "chinese": "概念；观念",
+    "phonetic": "/ˈnoʊʃən/",
+    "example_en": "The notion of beauty varies across different cultures and time periods.",
+    "example_cn": "美的概念在不同的文化和时代有所不同。"
+  },
+  {
+    "english": "numerous",
+    "chinese": "许多的；大量的",
+    "phonetic": "/ˈnjuːmərəs/",
+    "example_en": "Numerous studies have confirmed the link between smoking and lung cancer.",
+    "example_cn": "大量研究已证实吸烟与肺癌之间的联系。"
+  },
+  {
+    "english": "obstacle",
+    "chinese": "障碍；阻碍",
+    "phonetic": "/ˈɒbstəkəl/",
+    "example_en": "Lack of funding is the biggest obstacle to the research project's success.",
+    "example_cn": "缺乏资金是该研究项目成功的最大障碍。"
+  },
+  {
+    "english": "occupy",
+    "chinese": "占据；使忙碌",
+    "phonetic": "/ˈɒkjʊpaɪ/",
+    "example_en": "The construction work occupied most of the team's time and energy.",
+    "example_cn": "施工作业占据了团队大部分的时间和精力。"
+  },
+  {
+    "english": "offend",
+    "chinese": "冒犯；得罪",
+    "phonetic": "/əˈfend/",
+    "example_en": "He didn't mean to offend anyone with his remarks about the cultural tradition.",
+    "example_cn": "他关于文化传统的言论并非有意冒犯任何人。"
+  },
+  {
+    "english": "oppose",
+    "chinese": "反对；对抗",
+    "phonetic": "/əˈpoʊz/",
+    "example_en": "Many citizens strongly oppose the construction of the chemical plant near their homes.",
+    "example_cn": "许多市民强烈反对在他们家附近建造化工厂。"
+  },
+  {
+    "english": "optimistic",
+    "chinese": "乐观的",
+    "phonetic": "/ˌɒptɪˈmɪstɪk/",
+    "example_en": "Despite the challenges, she remains optimistic about the future of the project.",
+    "example_cn": "尽管面临挑战，她仍然对该项目的前景保持乐观。"
+  },
+  {
+    "english": "originate",
+    "chinese": "起源；发源",
+    "phonetic": "/əˈrɪdʒɪneɪt/",
+    "example_en": "The Silk Road originated in China during the Han Dynasty.",
+    "example_cn": "丝绸之路起源于中国的汉朝。"
+  },
+  {
+    "english": "outcome",
+    "chinese": "结果；成果",
+    "phonetic": "/ˈaʊtkʌm/",
+    "example_en": "The outcome of the election had a profound impact on the country's future.",
+    "example_cn": "选举的结果对该国的未来产生了深远影响。"
+  },
+  {
+    "english": "overcome",
+    "chinese": "克服；战胜",
+    "phonetic": "/ˌoʊvərˈkʌm/",
+    "example_en": "With determination and hard work, she overcame all the difficulties in her studies.",
+    "example_cn": "凭借决心和努力，她克服了学习中的所有困难。"
+  },
+  {
+    "english": "overlook",
+    "chinese": "忽视；俯瞰",
+    "phonetic": "/ˌoʊvərˈlʊk/",
+    "example_en": "We should not overlook the importance of mental health in overall well-being.",
+    "example_cn": "我们不应忽视心理健康在整体福祉中的重要性。"
+  },
+  {
+    "english": "participate",
+    "chinese": "参加；参与",
+    "phonetic": "/pɑːrˈtɪsɪpeɪt/",
+    "example_en": "Students are encouraged to actively participate in class discussions.",
+    "example_cn": "鼓励学生积极参与课堂讨论。"
+  },
+  {
+    "english": "passion",
+    "chinese": "热情；激情",
+    "phonetic": "/ˈpæʃən/",
+    "example_en": "Her passion for environmental protection led her to become an activist.",
+    "example_cn": "她对环境保护的热情使她成为了一名活动家。"
+  },
+  {
+    "english": "persist",
+    "chinese": "坚持；持续",
+    "phonetic": "/pərˈsɪst/",
+    "example_en": "If you persist in your efforts, you will eventually achieve your goals.",
+    "example_cn": "如果你坚持不懈地努力，最终会实现你的目标。"
+  },
+  {
+    "english": "persuade",
+    "chinese": "说服；劝说",
+    "phonetic": "/pərˈsweɪd/",
+    "example_en": "It took a lot of effort to persuade him to change his mind.",
+    "example_cn": "费了很大劲才说服他改变主意。"
+  },
+  {
+    "english": "pioneer",
+    "chinese": "先驱；开拓者",
+    "phonetic": "/ˌpaɪəˈnɪər/",
+    "example_en": "Marie Curie was a pioneer in the field of radioactivity research.",
+    "example_cn": "玛丽·居里是放射性研究领域的先驱。"
+  },
+  {
+    "english": "portion",
+    "chinese": "部分；一份",
+    "phonetic": "/ˈpɔːrʃən/",
+    "example_en": "A large portion of the budget was allocated to education and healthcare.",
+    "example_cn": "预算的很大一部分被分配给了教育和医疗保健。"
+  },
+  {
+    "english": "possess",
+    "chinese": "拥有；具有",
+    "phonetic": "/pəˈzes/",
+    "example_en": "The ancient artifact possesses great historical and cultural value.",
+    "example_cn": "这件古代文物具有巨大的历史和文化价值。"
+  },
+  {
+    "english": "potential",
+    "chinese": "潜力；潜在的",
+    "phonetic": "/pəˈtenʃəl/",
+    "example_en": "The young athlete has enormous potential to become a world champion.",
+    "example_cn": "这位年轻运动员具有成为世界冠军的巨大潜力。"
+  },
+  {
+    "english": "precede",
+    "chinese": "先于；在…之前",
+    "phonetic": "/prɪˈsiːd/",
+    "example_en": "The Industrial Revolution was preceded by a series of scientific discoveries.",
+    "example_cn": "工业革命之前有一系列的科学发现。"
+  },
+  {
+    "english": "predict",
+    "chinese": "预测；预言",
+    "phonetic": "/prɪˈdɪkt/",
+    "example_en": "It is difficult to predict how the global economy will evolve in the next decade.",
+    "example_cn": "很难预测全球经济在未来十年将如何演变。"
+  },
+  {
+    "english": "prejudice",
+    "chinese": "偏见；歧视",
+    "phonetic": "/ˈpredʒʊdɪs/",
+    "example_en": "We must overcome prejudice and treat everyone with respect and equality.",
+    "example_cn": "我们必须克服偏见，尊重和平等地对待每个人。"
+  },
+  {
+    "english": "preserve",
+    "chinese": "保护；保存",
+    "phonetic": "/prɪˈzɜːrv/",
+    "example_en": "Efforts are being made to preserve the ancient architectural heritage of the city.",
+    "example_cn": "正在努力保护这座城市的古建筑遗产。"
+  },
+  {
+    "english": "prevail",
+    "chinese": "盛行；占上风",
+    "phonetic": "/prɪˈveɪl/",
+    "example_en": "Justice will ultimately prevail over evil in any civilized society.",
+    "example_cn": "在任何文明社会中，正义终将战胜邪恶。"
+  },
+  {
+    "english": "privilege",
+    "chinese": "特权；荣幸",
+    "phonetic": "/ˈprɪvɪlɪdʒ/",
+    "example_en": "It is a great privilege to have the opportunity to study at this prestigious university.",
+    "example_cn": "有机会在这所著名的大学学习是一种莫大的荣幸。"
+  },
+  {
+    "english": "proceed",
+    "chinese": "继续进行",
+    "phonetic": "/prəˈsiːd/",
+    "example_en": "After receiving approval from the committee, the project proceeded as planned.",
+    "example_cn": "在获得委员会的批准后，该项目按计划继续进行。"
+  },
+  {
+    "english": "proclaim",
+    "chinese": "宣布；声明",
+    "phonetic": "/prəˈkleɪm/",
+    "example_en": "The president proclaimed a national holiday to celebrate the victory.",
+    "example_cn": "总统宣布全国放假以庆祝胜利。"
+  },
+  {
+    "english": "profound",
+    "chinese": "深刻的；深远的",
+    "phonetic": "/prəˈfaʊnd/",
+    "example_en": "The philosopher's ideas had a profound influence on Western thought.",
+    "example_cn": "这位哲学家的思想对西方思想产生了深远的影响。"
+  },
+  {
+    "english": "prominent",
+    "chinese": "突出的；著名的",
+    "phonetic": "/ˈprɒmɪnənt/",
+    "example_en": "She played a prominent role in the negotiations between the two companies.",
+    "example_cn": "她在两家公司的谈判中发挥了突出的作用。"
+  },
+  {
+    "english": "proportion",
+    "chinese": "比例；部分",
+    "phonetic": "/prəˈpɔːrʃən/",
+    "example_en": "A large proportion of the population lives in urban areas.",
+    "example_cn": "很大一部分人口居住在城市地区。"
+  },
+  {
+    "english": "prospect",
+    "chinese": "前景；展望",
+    "phonetic": "/ˈprɒspekt/",
+    "example_en": "The economic prospects for the region look promising due to recent investments.",
+    "example_cn": "由于近期的投资，该地区的经济前景看起来很有希望。"
+  },
+  {
+    "english": "prosperity",
+    "chinese": "繁荣；兴旺",
+    "phonetic": "/prɒˈsperɪti/",
+    "example_en": "The reform and opening-up policy brought unprecedented prosperity to China.",
+    "example_cn": "改革开放政策给中国带来了空前的繁荣。"
+  },
+  {
+    "english": "provoke",
+    "chinese": "激起；挑衅",
+    "phonetic": "/prəˈvoʊk/",
+    "example_en": "The controversial decision provoked strong reactions from the public.",
+    "example_cn": "这个有争议的决定激起了公众的强烈反应。"
+  },
+  {
+    "english": "pursue",
+    "chinese": "追求；追赶",
+    "phonetic": "/pərˈsjuː/",
+    "example_en": "She decided to pursue a career in scientific research after graduation.",
+    "example_cn": "她决定毕业后从事科学研究工作。"
+  },
+  {
+    "english": "radical",
+    "chinese": "根本的；激进的",
+    "phonetic": "/ˈrædɪkəl/",
+    "example_en": "The country underwent radical political and economic changes after the revolution.",
+    "example_cn": "这个国家在革命后经历了根本性的政治和经济变革。"
+  },
+  {
+    "english": "range",
+    "chinese": "范围；幅度",
+    "phonetic": "/reɪndʒ/",
+    "example_en": "The university offers a wide range of courses to meet students' diverse interests.",
+    "example_cn": "该大学提供广泛的课程以满足学生的不同兴趣。"
+  },
+  {
+    "english": "rational",
+    "chinese": "理性的；合理的",
+    "phonetic": "/ˈræʃənəl/",
+    "example_en": "It is important to make rational decisions based on facts rather than emotions.",
+    "example_cn": "基于事实而非情感做出理性决策是很重要的。"
+  },
+  {
+    "english": "rebel",
+    "chinese": "反叛；叛逆",
+    "phonetic": "/rɪˈbel/",
+    "example_en": "Teenagers often rebel against authority as part of their search for independence.",
+    "example_cn": "青少年经常反抗权威，这是他们寻求独立的一部分。"
+  },
+  {
+    "english": "recover",
+    "chinese": "恢复；康复",
+    "phonetic": "/rɪˈkʌvər/",
+    "example_en": "The economy is gradually recovering from the effects of the financial crisis.",
+    "example_cn": "经济正在逐渐从金融危机的影响中恢复。"
+  },
+  {
+    "english": "refer",
+    "chinese": "参考；提及；指代",
+    "phonetic": "/rɪˈfɜːr/",
+    "example_en": "The term 'globalization' refers to the increasing interconnectedness of the world.",
+    "example_cn": "'全球化'一词指的是世界日益增长的互联性。"
+  },
+  {
+    "english": "reflect",
+    "chinese": "反映；反射；反思",
+    "phonetic": "/rɪˈflekt/",
+    "example_en": "The novel reflects the social changes that took place in the early 20th century.",
+    "example_cn": "这部小说反映了20世纪初发生的社会变化。"
+  },
+  {
+    "english": "regulate",
+    "chinese": "调节；管控",
+    "phonetic": "/ˈreɡjʊleɪt/",
+    "example_en": "The government regulates the banking industry to ensure financial stability.",
+    "example_cn": "政府监管银行业以确保金融稳定。"
+  },
+  {
+    "english": "reject",
+    "chinese": "拒绝；否决",
+    "phonetic": "/rɪˈdʒekt/",
+    "example_en": "The committee rejected the proposal due to budget constraints.",
+    "example_cn": "委员会因预算限制否决了该提议。"
+  },
+  {
+    "english": "release",
+    "chinese": "释放；发布",
+    "phonetic": "/rɪˈliːs/",
+    "example_en": "The company released its annual report, showing a significant increase in profits.",
+    "example_cn": "该公司发布了年度报告，显示利润大幅增长。"
+  },
+  {
+    "english": "relevant",
+    "chinese": "相关的；切题的",
+    "phonetic": "/ˈrelɪvənt/",
+    "example_en": "The evidence presented in court was not relevant to the case.",
+    "example_cn": "法庭上出示的证据与该案无关。"
+  },
+  {
+    "english": "reluctant",
+    "chinese": "不情愿的；勉强的",
+    "phonetic": "/rɪˈlʌktənt/",
+    "example_en": "He was reluctant to share his personal experience with the public.",
+    "example_cn": "他不愿意与公众分享他的个人经历。"
+  },
+  {
+    "english": "remedy",
+    "chinese": "补救；治疗",
+    "phonetic": "/ˈremɪdi/",
+    "example_en": "The best remedy for stress is a combination of exercise and adequate sleep.",
+    "example_cn": "缓解压力的最佳方法是运动与充足睡眠相结合。"
+  },
+  {
+    "english": "remote",
+    "chinese": "遥远的；偏僻的",
+    "phonetic": "/rɪˈmoʊt/",
+    "example_en": "The village is located in a remote mountainous area with limited access to modern facilities.",
+    "example_cn": "这个村庄位于偏远的山区，现代设施有限。"
+  },
+  {
+    "english": "render",
+    "chinese": "使成为；提供",
+    "phonetic": "/ˈrendər/",
+    "example_en": "The new technology rendered many traditional methods obsolete.",
+    "example_cn": "新技术使许多传统方法变得过时了。"
+  },
+  {
+    "english": "represent",
+    "chinese": "代表；象征",
+    "phonetic": "/ˌreprɪˈzent/",
+    "example_en": "The dove represents peace in many cultures around the world.",
+    "example_cn": "鸽子在世界许多文化中代表和平。"
+  },
+  {
+    "english": "reproduce",
+    "chinese": "繁殖；复制",
+    "phonetic": "/ˌriːprəˈdjuːs/",
+    "example_en": "Cells reproduce by dividing into two identical daughter cells.",
+    "example_cn": "细胞通过分裂成两个相同的子细胞进行繁殖。"
+  },
+  {
+    "english": "reputation",
+    "chinese": "名誉；声望",
+    "phonetic": "/ˌrepjʊˈteɪʃən/",
+    "example_en": "The university has an excellent reputation for its research in engineering.",
+    "example_cn": "这所大学因其工程学研究而享有极高的声誉。"
+  },
+  {
+    "english": "resemble",
+    "chinese": "类似于；像",
+    "phonetic": "/rɪˈzembəl/",
+    "example_en": "The newly discovered fossil resembles a species that lived millions of years ago.",
+    "example_cn": "新发现的化石类似于生活在数百万年前的物种。"
+  },
+  {
+    "english": "reserve",
+    "chinese": "保留；预订；储备",
+    "phonetic": "/rɪˈzɜːrv/",
+    "example_en": "We should reserve judgement until we have all the facts.",
+    "example_cn": "在掌握所有事实之前，我们应该保留判断。"
+  },
+  {
+    "english": "resign",
+    "chinese": "辞职；顺从",
+    "phonetic": "/rɪˈzaɪn/",
+    "example_en": "The CEO resigned from his position following the financial scandal.",
+    "example_cn": "首席执行官在财务丑闻后辞去了职务。"
+  },
+  {
+    "english": "resolve",
+    "chinese": "解决；决心",
+    "phonetic": "/rɪˈzɒlv/",
+    "example_en": "The two countries resolved their territorial disputes through peaceful negotiations.",
+    "example_cn": "两国通过和平谈判解决了领土争端。"
+  },
+  {
+    "english": "respective",
+    "chinese": "各自的；分别的",
+    "phonetic": "/rɪˈspektɪv/",
+    "example_en": "The students returned to their respective classrooms after the assembly.",
+    "example_cn": "学生们在集会结束后回到了各自的教室。"
+  },
+  {
+    "english": "respond",
+    "chinese": "回应；反应",
+    "phonetic": "/rɪˈspɒnd/",
+    "example_en": "The government must respond quickly to the needs of the affected population.",
+    "example_cn": "政府必须迅速回应受灾群众的需求。"
+  },
+  {
+    "english": "restore",
+    "chinese": "恢复；修复",
+    "phonetic": "/rɪˈstɔːr/",
+    "example_en": "Efforts are being made to restore the historic building to its original condition.",
+    "example_cn": "正在努力将这座历史建筑恢复原貌。"
+  },
+  {
+    "english": "restrict",
+    "chinese": "限制；约束",
+    "phonetic": "/rɪˈstrɪkt/",
+    "example_en": "The new law restricts the use of plastic bags to protect the environment.",
+    "example_cn": "新法律限制塑料袋的使用以保护环境。"
+  },
+  {
+    "english": "reveal",
+    "chinese": "揭示；透露",
+    "phonetic": "/rɪˈviːl/",
+    "example_en": "The investigation revealed shocking details about the corruption scandal.",
+    "example_cn": "调查揭示了这起腐败丑闻令人震惊的细节。"
+  },
+  {
+    "english": "reverse",
+    "chinese": "逆转；反向",
+    "phonetic": "/rɪˈvɜːrs/",
+    "example_en": "The new policy aims to reverse the trend of environmental degradation.",
+    "example_cn": "新政策旨在逆转环境退化的趋势。"
+  },
+  {
+    "english": "revise",
+    "chinese": "修订；复习",
+    "phonetic": "/rɪˈvaɪz/",
+    "example_en": "The textbook was revised to include the latest research findings.",
+    "example_cn": "教科书经过修订，纳入了最新的研究发现。"
+  },
+  {
+    "english": "revolution",
+    "chinese": "革命；变革",
+    "phonetic": "/ˌrevəˈluːʃən/",
+    "example_en": "The Industrial Revolution transformed the way goods were produced and consumed.",
+    "example_cn": "工业革命改变了商品的生产和消费方式。"
+  },
+  {
+    "english": "rigid",
+    "chinese": "僵硬的；严格的",
+    "phonetic": "/ˈrɪdʒɪd/",
+    "example_en": "The school's rigid rules left little room for creativity and individual expression.",
+    "example_cn": "学校僵化的规定几乎没有为创造力和个人表达留下空间。"
+  },
+  {
+    "english": "rural",
+    "chinese": "农村的；乡村的",
+    "phonetic": "/ˈrʊrəl/",
+    "example_en": "The gap between rural and urban education remains a significant challenge.",
+    "example_cn": "城乡教育之间的差距仍然是一个重大挑战。"
+  },
+  {
+    "english": "sacrifice",
+    "chinese": "牺牲；献祭",
+    "phonetic": "/ˈsækrɪfaɪs/",
+    "example_en": "Many parents sacrifice their own comfort to provide a better life for their children.",
+    "example_cn": "许多父母牺牲自己的舒适来为孩子提供更好的生活。"
+  },
+  {
+    "english": "scatter",
+    "chinese": "分散；散开",
+    "phonetic": "/ˈskætər/",
+    "example_en": "The wind scattered the leaves across the entire courtyard.",
+    "example_cn": "风把树叶吹散到整个院子里。"
+  },
+  {
+    "english": "schedule",
+    "chinese": "时间表；日程安排",
+    "phonetic": "/ˈʃedjuːl/",
+    "example_en": "The project is running ahead of schedule thanks to the team's hard work.",
+    "example_cn": "由于团队的努力，项目进度提前了。"
+  },
+  {
+    "english": "secure",
+    "chinese": "安全的；获得",
+    "phonetic": "/sɪˈkjʊr/",
+    "example_en": "The company secured a significant investment from a venture capital firm.",
+    "example_cn": "该公司从一家风险投资公司获得了一笔可观的投资。"
+  },
+  {
+    "english": "sensitive",
+    "chinese": "敏感的；灵敏的",
+    "phonetic": "/ˈsensɪtɪv/",
+    "example_en": "We need to be sensitive to the cultural differences when communicating with people from other countries.",
+    "example_cn": "在与来自其他国家的人交流时，我们需要对文化差异保持敏感。"
+  },
+  {
+    "english": "sophisticated",
+    "chinese": "精密的；复杂的；老练的",
+    "phonetic": "/səˈfɪstɪkeɪtɪd/",
+    "example_en": "The laboratory is equipped with sophisticated instruments for advanced scientific research.",
+    "example_cn": "该实验室配备了用于高级科学研究的精密仪器。"
+  },
+  {
+    "english": "source",
+    "chinese": "来源；源头",
+    "phonetic": "/sɔːrs/",
+    "example_en": "Renewable energy sources such as solar and wind power are becoming increasingly important.",
+    "example_cn": "太阳能和风能等可再生能源正变得越来越重要。"
+  },
+  {
+    "english": "species",
+    "chinese": "物种；种类",
+    "phonetic": "/ˈspiːʃiːz/",
+    "example_en": "Thousands of species are at risk of extinction due to habitat loss.",
+    "example_cn": "由于栖息地丧失，成千上万的物种面临灭绝的危险。"
+  },
+  {
+    "english": "sponsor",
+    "chinese": "赞助；资助",
+    "phonetic": "/ˈspɒnsər/",
+    "example_en": "Several major companies sponsored the international environmental conference.",
+    "example_cn": "几家大公司赞助了这次国际环境会议。"
+  },
+  {
+    "english": "stable",
+    "chinese": "稳定的；稳固的",
+    "phonetic": "/ˈsteɪbəl/",
+    "example_en": "A stable political environment is essential for economic growth.",
+    "example_cn": "稳定的政治环境对经济增长至关重要。"
+  },
+  {
+    "english": "stimulate",
+    "chinese": "刺激；激发",
+    "phonetic": "/ˈstɪmjʊleɪt/",
+    "example_en": "The government cut taxes to stimulate consumer spending and boost the economy.",
+    "example_cn": "政府减税以刺激消费支出并促进经济发展。"
+  },
+  {
+    "english": "strategy",
+    "chinese": "策略；战略",
+    "phonetic": "/ˈstrætədʒi/",
+    "example_en": "The company developed a comprehensive marketing strategy to expand its market share.",
+    "example_cn": "该公司制定了全面的营销策略以扩大市场份额。"
+  },
+  {
+    "english": "struggle",
+    "chinese": "挣扎；奋斗",
+    "phonetic": "/ˈstrʌɡəl/",
+    "example_en": "Many families struggle to make ends meet in the face of rising living costs.",
+    "example_cn": "面对不断上涨的生活成本，许多家庭努力维持生计。"
+  },
+  {
+    "english": "substitute",
+    "chinese": "替代；替补",
+    "phonetic": "/ˈsʌbstɪtjuːt/",
+    "example_en": "Nothing can substitute for the experience of learning from real-life situations.",
+    "example_cn": "没有什么能替代从真实情境中学习的经验。"
+  },
+  {
+    "english": "sufficient",
+    "chinese": "足够的；充分的",
+    "phonetic": "/səˈfɪʃənt/",
+    "example_en": "The evidence gathered was not sufficient to support the hypothesis.",
+    "example_cn": "收集到的证据不足以支持该假说。"
+  },
+  {
+    "english": "summarize",
+    "chinese": "总结；概述",
+    "phonetic": "/ˈsʌməraɪz/",
+    "example_en": "The report summarizes the main findings of the three-year research project.",
+    "example_cn": "该报告总结了这项三年研究项目的主要发现。"
+  },
+  {
+    "english": "superior",
+    "chinese": "优越的；上级的",
+    "phonetic": "/suːˈpɪriər/",
+    "example_en": "The product's superior quality justifies its higher price.",
+    "example_cn": "该产品优越的质量证明了其较高价格的合理性。"
+  },
+  {
+    "english": "supplement",
+    "chinese": "补充；增补",
+    "phonetic": "/ˈsʌplɪmənt/",
+    "example_en": "Many people take vitamin supplements to maintain their health.",
+    "example_cn": "许多人服用维生素补充剂来维持健康。"
+  },
+  {
+    "english": "suppress",
+    "chinese": "压制；抑制",
+    "phonetic": "/səˈpres/",
+    "example_en": "The government attempted to suppress the spread of false information.",
+    "example_cn": "政府试图抑制虚假信息的传播。"
+  },
+  {
+    "english": "surplus",
+    "chinese": "过剩；盈余",
+    "phonetic": "/ˈsɜːrpləs/",
+    "example_en": "The country enjoys a trade surplus, exporting more than it imports.",
+    "example_cn": "该国享有贸易顺差，出口大于进口。"
+  },
+  {
+    "english": "surrender",
+    "chinese": "投降；放弃",
+    "phonetic": "/səˈrendər/",
+    "example_en": "The army refused to surrender despite being surrounded by enemy forces.",
+    "example_cn": "尽管被敌军包围，这支军队拒绝投降。"
+  },
+  {
+    "english": "survey",
+    "chinese": "调查；勘测",
+    "phonetic": "/ˈsɜːrveɪ/",
+    "example_en": "A recent survey revealed that 80% of residents support the new environmental policy.",
+    "example_cn": "最近的一项调查显示，80%的居民支持新的环境政策。"
+  },
+  {
+    "english": "survive",
+    "chinese": "幸存；生存",
+    "phonetic": "/sərˈvaɪv/",
+    "example_en": "Only the strongest companies can survive during an economic recession.",
+    "example_cn": "只有最强大的公司才能在经济衰退期间生存下来。"
+  },
+  {
+    "english": "suspect",
+    "chinese": "怀疑；嫌疑犯",
+    "phonetic": "/səˈspekt/",
+    "example_en": "The police suspect that the fire was caused by an electrical fault.",
+    "example_cn": "警方怀疑火灾是由电路故障引起的。"
+  },
+  {
+    "english": "suspend",
+    "chinese": "暂停；悬挂",
+    "phonetic": "/səˈspend/",
+    "example_en": "The school decided to suspend the student for violating the code of conduct.",
+    "example_cn": "学校决定因该学生违反行为准则而给予停学处分。"
+  },
+  {
+    "english": "sustain",
+    "chinese": "维持；支撑",
+    "phonetic": "/səˈsteɪn/",
+    "example_en": "The ecosystem cannot sustain such rapid levels of industrial development.",
+    "example_cn": "该生态系统无法承受如此快速的工业发展。"
+  },
+  {
+    "english": "symbol",
+    "chinese": "象征；符号",
+    "phonetic": "/ˈsɪmbəl/",
+    "example_en": "The Great Wall is a symbol of Chinese civilization and national strength.",
+    "example_cn": "长城是中华文明和国家力量的象征。"
+  },
+  {
+    "english": "tackle",
+    "chinese": "解决；处理",
+    "phonetic": "/ˈtækəl/",
+    "example_en": "The government must take effective measures to tackle the problem of air pollution.",
+    "example_cn": "政府必须采取有效措施来解决空气污染问题。"
+  },
+  {
+    "english": "temporary",
+    "chinese": "暂时的；临时的",
+    "phonetic": "/ˈtempərəri/",
+    "example_en": "The bridge was a temporary structure built to facilitate transportation during the construction.",
+    "example_cn": "这座桥是施工期间为方便交通而建的临时结构。"
+  },
+  {
+    "english": "tendency",
+    "chinese": "趋势；倾向",
+    "phonetic": "/ˈtendənsi/",
+    "example_en": "There is a growing tendency for young people to pursue higher education.",
+    "example_cn": "年轻人追求高等教育的趋势日益增长。"
+  },
+  {
+    "english": "tension",
+    "chinese": "紧张；张力",
+    "phonetic": "/ˈtenʃən/",
+    "example_en": "The tension between the two countries has eased following diplomatic talks.",
+    "example_cn": "经过外交对话，两国之间的紧张关系有所缓和。"
+  },
+  {
+    "english": "terminal",
+    "chinese": "终端的；末期的",
+    "phonetic": "/ˈtɜːrmɪnəl/",
+    "example_en": "The patient was diagnosed with a terminal illness and given six months to live.",
+    "example_cn": "该患者被诊断出患有绝症，只有六个月的生命。"
+  },
+  {
+    "english": "territory",
+    "chinese": "领土；领域",
+    "phonetic": "/ˈterɪtɔːri/",
+    "example_en": "The country claimed sovereignty over the disputed territory.",
+    "example_cn": "该国声称对争议领土拥有主权。"
+  },
+  {
+    "english": "thorough",
+    "chinese": "彻底的；全面的",
+    "phonetic": "/ˈθʌrə/",
+    "example_en": "The researcher conducted a thorough analysis of the experimental data.",
+    "example_cn": "研究者对实验数据进行了彻底的分析。"
+  },
+  {
+    "english": "tolerate",
+    "chinese": "容忍；宽容",
+    "phonetic": "/ˈtɒləreɪt/",
+    "example_en": "A democratic society should tolerate diverse opinions and beliefs.",
+    "example_cn": "民主社会应该容忍不同的意见和信仰。"
+  },
+  {
+    "english": "transform",
+    "chinese": "转变；改造",
+    "phonetic": "/trænsˈfɔːrm/",
+    "example_en": "The Internet has transformed the way we communicate and access information.",
+    "example_cn": "互联网改变了我们交流和获取信息的方式。"
+  },
+  {
+    "english": "transmit",
+    "chinese": "传输；传播",
+    "phonetic": "/trænzˈmɪt/",
+    "example_en": "The disease is transmitted through direct contact with infected individuals.",
+    "example_cn": "这种疾病通过与感染者的直接接触传播。"
+  },
+  {
+    "english": "transparent",
+    "chinese": "透明的；清晰的",
+    "phonetic": "/trænsˈpærənt/",
+    "example_en": "The government promised to make the decision-making process more transparent.",
+    "example_cn": "政府承诺使决策过程更加透明。"
+  },
+  {
+    "english": "tremendous",
+    "chinese": "巨大的；惊人的",
+    "phonetic": "/trɪˈmendəs/",
+    "example_en": "The construction of the high-speed railway required tremendous effort and investment.",
+    "example_cn": "高速铁路的建设需要巨大的努力和投资。"
+  },
+  {
+    "english": "triumph",
+    "chinese": "胜利；成功",
+    "phonetic": "/ˈtraɪəmf/",
+    "example_en": "The successful landing on the moon was a great triumph of human ingenuity.",
+    "example_cn": "成功登月是人类智慧的伟大胜利。"
+  },
+  {
+    "english": "universal",
+    "chinese": "普遍的；全体的",
+    "phonetic": "/ˌjuːnɪˈvɜːrsəl/",
+    "example_en": "Education is recognized as a universal human right by the international community.",
+    "example_cn": "教育被国际社会公认为一项普遍的人权。"
+  },
+  {
+    "english": "utilize",
+    "chinese": "利用；使用",
+    "phonetic": "/ˈjuːtɪlaɪz/",
+    "example_en": "We should utilize renewable energy resources to reduce our dependence on fossil fuels.",
+    "example_cn": "我们应该利用可再生能源来减少对化石燃料的依赖。"
+  },
+  {
+    "english": "valid",
+    "chinese": "有效的；合理的",
+    "phonetic": "/ˈvælɪd/",
+    "example_en": "The research findings are based on valid data and rigorous scientific methods.",
+    "example_cn": "这些研究发现基于有效的数据和严谨的科学方法。"
+  },
+  {
+    "english": "vanish",
+    "chinese": "消失；消散",
+    "phonetic": "/ˈvænɪʃ/",
+    "example_en": "Many traditional crafts have vanished as a result of modernization.",
+    "example_cn": "许多传统工艺因现代化而消失了。"
+  },
+  {
+    "english": "variable",
+    "chinese": "可变的；变量",
+    "phonetic": "/ˈveəriəbəl/",
+    "example_en": "Temperature and pressure are important variables in the chemical experiment.",
+    "example_cn": "温度和压力是化学实验中的重要变量。"
+  },
+  {
+    "english": "venture",
+    "chinese": "冒险；风险项目",
+    "phonetic": "/ˈventʃər/",
+    "example_en": "The joint venture between the two companies proved to be highly profitable.",
+    "example_cn": "两家公司的合资企业被证明是利润丰厚的。"
+  },
+  {
+    "english": "verify",
+    "chinese": "验证；核实",
+    "phonetic": "/ˈverɪfaɪ/",
+    "example_en": "The results of the experiment need to be verified by independent researchers.",
+    "example_cn": "实验的结果需要由独立研究者进行验证。"
+  },
+  {
+    "english": "versatile",
+    "chinese": "多才多艺的；多功能的",
+    "phonetic": "/ˈvɜːrsətaɪl/",
+    "example_en": "This versatile tool can be used for a wide variety of purposes.",
+    "example_cn": "这种多功能工具可用于各种不同的用途。"
+  },
+  {
+    "english": "violate",
+    "chinese": "违反；侵犯",
+    "phonetic": "/ˈvaɪəleɪt/",
+    "example_en": "Companies that violate environmental regulations will face heavy fines.",
+    "example_cn": "违反环境法规的公司将面临巨额罚款。"
+  },
+  {
+    "english": "virtual",
+    "chinese": "虚拟的；实质上的",
+    "phonetic": "/ˈvɜːrtʃuəl/",
+    "example_en": "Virtual reality technology is revolutionizing the gaming and entertainment industry.",
+    "example_cn": "虚拟现实技术正在彻底改变游戏和娱乐行业。"
+  },
+  {
+    "english": "visible",
+    "chinese": "可见的；明显的",
+    "phonetic": "/ˈvɪzɪbəl/",
+    "example_en": "The effects of climate change are becoming increasingly visible around the world.",
+    "example_cn": "气候变化的影响在世界各地正变得越来越明显。"
+  },
+  {
+    "english": "vital",
+    "chinese": "至关重要的；有活力的",
+    "phonetic": "/ˈvaɪtəl/",
+    "example_en": "Clean water is vital for the survival of all living organisms.",
+    "example_cn": "清洁的水对所有生物的生存都至关重要。"
+  },
+  {
+    "english": "vivid",
+    "chinese": "生动的；鲜明的",
+    "phonetic": "/ˈvɪvɪd/",
+    "example_en": "The author's vivid description of the landscape made readers feel as if they were there.",
+    "example_cn": "作者对风景的生动描述让读者仿佛身临其境。"
+  },
+  {
+    "english": "voluntary",
+    "chinese": "自愿的；志愿的",
+    "phonetic": "/ˈvɒləntəri/",
+    "example_en": "Many students participate in voluntary community service during their summer vacation.",
+    "example_cn": "许多学生在暑假期间参加志愿社区服务。"
+  },
+  {
+    "english": "welfare",
+    "chinese": "福利；幸福",
+    "phonetic": "/ˈwelfeər/",
+    "example_en": "The government provides welfare programs to support low-income families.",
+    "example_cn": "政府提供福利计划来支持低收入家庭。"
+  },
+  {
+    "english": "withdraw",
+    "chinese": "撤回；退出；提款",
+    "phonetic": "/wɪðˈdrɔː/",
+    "example_en": "The company decided to withdraw its investment from the risky project.",
+    "example_cn": "公司决定从那个风险项目中撤回投资。"
+  },
+  {
+    "english": "yield",
+    "chinese": "产量；屈服；产生",
+    "phonetic": "/jiːld/",
+    "example_en": "The new farming techniques have significantly increased crop yields.",
+    "example_cn": "新的耕作技术大大提高了作物产量。"
+  }
+]
