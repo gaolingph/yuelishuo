@@ -1,0 +1,2228 @@
+[
+  {
+    "english": "hello",
+    "chinese": "你好",
+    "phonetic": "/həˈləʊ/",
+    "example_en": "Hello, everyone! Welcome to class.",
+    "example_cn": "大家好！欢迎来上课。"
+  },
+  {
+    "english": "good",
+    "chinese": "好的；良好的",
+    "phonetic": "/ɡʊd/",
+    "example_en": "This is a good book.",
+    "example_cn": "这是一本好书。"
+  },
+  {
+    "english": "morning",
+    "chinese": "早晨；上午",
+    "phonetic": "/ˈmɔːnɪŋ/",
+    "example_en": "Good morning, Miss Wang.",
+    "example_cn": "王老师，早上好。"
+  },
+  {
+    "english": "afternoon",
+    "chinese": "下午",
+    "phonetic": "/ˌɑːftəˈnuːn/",
+    "example_en": "Good afternoon, class.",
+    "example_cn": "同学们，下午好。"
+  },
+  {
+    "english": "evening",
+    "chinese": "傍晚；晚上",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "example_en": "Good evening, Dad.",
+    "example_cn": "爸爸，晚上好。"
+  },
+  {
+    "english": "goodbye",
+    "chinese": "再见",
+    "phonetic": "/ɡʊdˈbaɪ/",
+    "example_en": "Goodbye, see you tomorrow!",
+    "example_cn": "再见，明天见！"
+  },
+  {
+    "english": "class",
+    "chinese": "班级；课",
+    "phonetic": "/klɑːs/",
+    "example_en": "We have English class every morning.",
+    "example_cn": "我们每天早上有英语课。"
+  },
+  {
+    "english": "teacher",
+    "chinese": "老师",
+    "phonetic": "/ˈtiːtʃə/",
+    "example_en": "Our English teacher is very kind.",
+    "example_cn": "我们的英语老师很和蔼。"
+  },
+  {
+    "english": "student",
+    "chinese": "学生",
+    "phonetic": "/ˈstjuːdənt/",
+    "example_en": "There are forty students in my class.",
+    "example_cn": "我们班有四十个学生。"
+  },
+  {
+    "english": "friend",
+    "chinese": "朋友",
+    "phonetic": "/frend/",
+    "example_en": "Tom is my best friend.",
+    "example_cn": "汤姆是我最好的朋友。"
+  },
+  {
+    "english": "classroom",
+    "chinese": "教室",
+    "phonetic": "/ˈklɑːsruːm/",
+    "example_en": "Please clean the classroom after school.",
+    "example_cn": "放学后请打扫教室。"
+  },
+  {
+    "english": "desk",
+    "chinese": "书桌；课桌",
+    "phonetic": "/desk/",
+    "example_en": "There is a pencil on the desk.",
+    "example_cn": "书桌上有一支铅笔。"
+  },
+  {
+    "english": "chair",
+    "chinese": "椅子",
+    "phonetic": "/tʃeə/",
+    "example_en": "Please sit on your chair.",
+    "example_cn": "请坐在你的椅子上。"
+  },
+  {
+    "english": "book",
+    "chinese": "书；书本",
+    "phonetic": "/bʊk/",
+    "example_en": "Open your book and read the text.",
+    "example_cn": "打开书，朗读课文。"
+  },
+  {
+    "english": "pen",
+    "chinese": "钢笔",
+    "phonetic": "/pen/",
+    "example_en": "May I borrow your pen?",
+    "example_cn": "我可以借你的钢笔吗？"
+  },
+  {
+    "english": "pencil",
+    "chinese": "铅笔",
+    "phonetic": "/ˈpensl/",
+    "example_en": "Please write your name with a pencil.",
+    "example_cn": "请用铅笔写下你的名字。"
+  },
+  {
+    "english": "ruler",
+    "chinese": "尺子",
+    "phonetic": "/ˈruːlə/",
+    "example_en": "My ruler is twenty centimetres long.",
+    "example_cn": "我的尺子有二十厘米长。"
+  },
+  {
+    "english": "bag",
+    "chinese": "书包；袋子",
+    "phonetic": "/bæɡ/",
+    "example_en": "Put your books in your bag.",
+    "example_cn": "把书放进书包里。"
+  },
+  {
+    "english": "map",
+    "chinese": "地图",
+    "phonetic": "/mæp/",
+    "example_en": "There is a map of China on the wall.",
+    "example_cn": "墙上有一张中国地图。"
+  },
+  {
+    "english": "colour",
+    "chinese": "颜色",
+    "phonetic": "/ˈkʌlə/",
+    "example_en": "What colour is your new bag?",
+    "example_cn": "你的新书包是什么颜色的？"
+  },
+  {
+    "english": "red",
+    "chinese": "红色的",
+    "phonetic": "/red/",
+    "example_en": "The Chinese flag is red.",
+    "example_cn": "中国国旗是红色的。"
+  },
+  {
+    "english": "yellow",
+    "chinese": "黄色的",
+    "phonetic": "/ˈjeləʊ/",
+    "example_en": "Bananas are yellow.",
+    "example_cn": "香蕉是黄色的。"
+  },
+  {
+    "english": "blue",
+    "chinese": "蓝色的",
+    "phonetic": "/bluː/",
+    "example_en": "The sky is blue.",
+    "example_cn": "天空是蓝色的。"
+  },
+  {
+    "english": "green",
+    "chinese": "绿色的",
+    "phonetic": "/ɡriːn/",
+    "example_en": "The grass is green in spring.",
+    "example_cn": "春天草地是绿色的。"
+  },
+  {
+    "english": "black",
+    "chinese": "黑色的",
+    "phonetic": "/blæk/",
+    "example_en": "My cat has black fur.",
+    "example_cn": "我的猫有黑色的毛。"
+  },
+  {
+    "english": "white",
+    "chinese": "白色的",
+    "phonetic": "/waɪt/",
+    "example_en": "Snow is white.",
+    "example_cn": "雪是白色的。"
+  },
+  {
+    "english": "orange",
+    "chinese": "橙色的；橙子",
+    "phonetic": "/ˈɒrɪndʒ/",
+    "example_en": "She is wearing an orange dress.",
+    "example_cn": "她穿着一件橙色的连衣裙。"
+  },
+  {
+    "english": "brown",
+    "chinese": "棕色的",
+    "phonetic": "/braʊn/",
+    "example_en": "I have brown eyes.",
+    "example_cn": "我有棕色的眼睛。"
+  },
+  {
+    "english": "number",
+    "chinese": "数字；号码",
+    "phonetic": "/ˈnʌmbə/",
+    "example_en": "What is your phone number?",
+    "example_cn": "你的电话号码是多少？"
+  },
+  {
+    "english": "one",
+    "chinese": "一",
+    "phonetic": "/wʌn/",
+    "example_en": "I have one brother.",
+    "example_cn": "我有一个哥哥。"
+  },
+  {
+    "english": "two",
+    "chinese": "二",
+    "phonetic": "/tuː/",
+    "example_en": "There are two cats under the table.",
+    "example_cn": "桌子下面有两只猫。"
+  },
+  {
+    "english": "three",
+    "chinese": "三",
+    "phonetic": "/θriː/",
+    "example_en": "I have three pencils.",
+    "example_cn": "我有三支铅笔。"
+  },
+  {
+    "english": "four",
+    "chinese": "四",
+    "phonetic": "/fɔː/",
+    "example_en": "There are four seasons in a year.",
+    "example_cn": "一年有四个季节。"
+  },
+  {
+    "english": "five",
+    "chinese": "五",
+    "phonetic": "/faɪv/",
+    "example_en": "I get up at five o'clock every day.",
+    "example_cn": "我每天五点钟起床。"
+  },
+  {
+    "english": "six",
+    "chinese": "六",
+    "phonetic": "/sɪks/",
+    "example_en": "We have six classes every day.",
+    "example_cn": "我们每天有六节课。"
+  },
+  {
+    "english": "seven",
+    "chinese": "七",
+    "phonetic": "/ˈsevn/",
+    "example_en": "There are seven days in a week.",
+    "example_cn": "一周有七天。"
+  },
+  {
+    "english": "eight",
+    "chinese": "八",
+    "phonetic": "/eɪt/",
+    "example_en": "School starts at eight o'clock.",
+    "example_cn": "学校八点钟上课。"
+  },
+  {
+    "english": "nine",
+    "chinese": "九",
+    "phonetic": "/naɪn/",
+    "example_en": "My sister is nine years old.",
+    "example_cn": "我妹妹九岁了。"
+  },
+  {
+    "english": "ten",
+    "chinese": "十",
+    "phonetic": "/ten/",
+    "example_en": "There are ten apples on the tree.",
+    "example_cn": "树上有十个苹果。"
+  },
+  {
+    "english": "family",
+    "chinese": "家庭；家人",
+    "phonetic": "/ˈfæməli/",
+    "example_en": "There are four people in my family.",
+    "example_cn": "我家有四口人。"
+  },
+  {
+    "english": "father",
+    "chinese": "父亲；爸爸",
+    "phonetic": "/ˈfɑːðə/",
+    "example_en": "My father is a doctor.",
+    "example_cn": "我爸爸是一名医生。"
+  },
+  {
+    "english": "mother",
+    "chinese": "母亲；妈妈",
+    "phonetic": "/ˈmʌðə/",
+    "example_en": "My mother cooks delicious food for us.",
+    "example_cn": "我妈妈为我们做美味的食物。"
+  },
+  {
+    "english": "brother",
+    "chinese": "兄弟",
+    "phonetic": "/ˈbrʌðə/",
+    "example_en": "My brother and I share a bedroom.",
+    "example_cn": "我和哥哥共用一间卧室。"
+  },
+  {
+    "english": "sister",
+    "chinese": "姐妹",
+    "phonetic": "/ˈsɪstə/",
+    "example_en": "My sister likes dancing.",
+    "example_cn": "我妹妹喜欢跳舞。"
+  },
+  {
+    "english": "grandfather",
+    "chinese": "（外）祖父",
+    "phonetic": "/ˈɡrænfɑːðə/",
+    "example_en": "My grandfather takes me to the park every Sunday.",
+    "example_cn": "我爷爷每个星期天带我去公园。"
+  },
+  {
+    "english": "grandmother",
+    "chinese": "（外）祖母",
+    "phonetic": "/ˈɡrænmʌðə/",
+    "example_en": "My grandmother tells me stories at night.",
+    "example_cn": "我奶奶晚上给我讲故事。"
+  },
+  {
+    "english": "son",
+    "chinese": "儿子",
+    "phonetic": "/sʌn/",
+    "example_en": "Mr Li has a son and a daughter.",
+    "example_cn": "李先生有一个儿子和一个女儿。"
+  },
+  {
+    "english": "daughter",
+    "chinese": "女儿",
+    "phonetic": "/ˈdɔːtə/",
+    "example_en": "My aunt's daughter is my cousin.",
+    "example_cn": "我姑姑的女儿是我的表姐。"
+  },
+  {
+    "english": "uncle",
+    "chinese": "叔叔；舅舅；伯父",
+    "phonetic": "/ˈʌŋkl/",
+    "example_en": "My uncle lives in Shanghai.",
+    "example_cn": "我叔叔住在上海。"
+  },
+  {
+    "english": "aunt",
+    "chinese": "阿姨；姑姑；舅妈",
+    "phonetic": "/ɑːnt/",
+    "example_en": "My aunt bought me a birthday present.",
+    "example_cn": "我阿姨给我买了一份生日礼物。"
+  },
+  {
+    "english": "cousin",
+    "chinese": "堂/表兄弟姐妹",
+    "phonetic": "/ˈkʌzn/",
+    "example_en": "My cousin and I play football together.",
+    "example_cn": "我和表弟一起踢足球。"
+  },
+  {
+    "english": "meet",
+    "chinese": "遇见；结识",
+    "phonetic": "/miːt/",
+    "example_en": "Nice to meet you, Li Ming.",
+    "example_cn": "李明，很高兴认识你。"
+  },
+  {
+    "english": "first",
+    "chinese": "第一的；首先",
+    "phonetic": "/fɜːst/",
+    "example_en": "What is your first name?",
+    "example_cn": "你的名字是什么？"
+  },
+  {
+    "english": "last",
+    "chinese": "最后的；上一个的",
+    "phonetic": "/lɑːst/",
+    "example_en": "My last name is Wang.",
+    "example_cn": "我姓王。"
+  },
+  {
+    "english": "name",
+    "chinese": "名字；姓名",
+    "phonetic": "/neɪm/",
+    "example_en": "Please write your name on the paper.",
+    "example_cn": "请在纸上写下你的名字。"
+  },
+  {
+    "english": "everyone",
+    "chinese": "每个人；大家",
+    "phonetic": "/ˈevriwʌn/",
+    "example_en": "Good morning, everyone!",
+    "example_cn": "大家早上好！"
+  },
+  {
+    "english": "nice",
+    "chinese": "令人愉快的；友好的",
+    "phonetic": "/naɪs/",
+    "example_en": "It's nice to see you again.",
+    "example_cn": "很高兴再次见到你。"
+  },
+  {
+    "english": "see",
+    "chinese": "看见；明白",
+    "phonetic": "/siː/",
+    "example_en": "I can see a bird in the tree.",
+    "example_cn": "我能看见树上有一只鸟。"
+  },
+  {
+    "english": "these",
+    "chinese": "这些",
+    "phonetic": "/ðiːz/",
+    "example_en": "These are my books.",
+    "example_cn": "这些是我的书。"
+  },
+  {
+    "english": "those",
+    "chinese": "那些",
+    "phonetic": "/ðəʊz/",
+    "example_en": "Those apples are very sweet.",
+    "example_cn": "那些苹果很甜。"
+  },
+  {
+    "english": "parent",
+    "chinese": "父亲或母亲",
+    "phonetic": "/ˈpeərənt/",
+    "example_en": "My parents are both teachers.",
+    "example_cn": "我的父母都是老师。"
+  },
+  {
+    "english": "picture",
+    "chinese": "图片；照片",
+    "phonetic": "/ˈpɪktʃə/",
+    "example_en": "Please draw a picture of your family.",
+    "example_cn": "请画一张你家的图片。"
+  },
+  {
+    "english": "woman",
+    "chinese": "女人；妇女",
+    "phonetic": "/ˈwʊmən/",
+    "example_en": "The woman in the red dress is my aunt.",
+    "example_cn": "穿红色裙子的女士是我姑姑。"
+  },
+  {
+    "english": "man",
+    "chinese": "男人；成年男子",
+    "phonetic": "/mæn/",
+    "example_en": "The man next to my father is my uncle.",
+    "example_cn": "我父亲旁边的男人是我叔叔。"
+  },
+  {
+    "english": "next",
+    "chinese": "下一个的；紧邻的",
+    "phonetic": "/nekst/",
+    "example_en": "The library is next to the classroom.",
+    "example_cn": "图书馆在教室旁边。"
+  },
+  {
+    "english": "building",
+    "chinese": "建筑物；楼房",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "example_en": "Our school has a tall building.",
+    "example_cn": "我们学校有一栋高楼。"
+  },
+  {
+    "english": "library",
+    "chinese": "图书馆",
+    "phonetic": "/ˈlaɪbrəri/",
+    "example_en": "I often borrow books from the library.",
+    "example_cn": "我经常从图书馆借书。"
+  },
+  {
+    "english": "office",
+    "chinese": "办公室",
+    "phonetic": "/ˈɒfɪs/",
+    "example_en": "The teachers' office is on the second floor.",
+    "example_cn": "教师办公室在二楼。"
+  },
+  {
+    "english": "playground",
+    "chinese": "操场",
+    "phonetic": "/ˈpleɪɡraʊnd/",
+    "example_en": "We play basketball on the playground.",
+    "example_cn": "我们在操场上打篮球。"
+  },
+  {
+    "english": "lab",
+    "chinese": "实验室",
+    "phonetic": "/læb/",
+    "example_en": "We have science class in the lab.",
+    "example_cn": "我们在实验室上科学课。"
+  },
+  {
+    "english": "room",
+    "chinese": "房间；空间",
+    "phonetic": "/ruːm/",
+    "example_en": "This is my bedroom.",
+    "example_cn": "这是我的卧室。"
+  },
+  {
+    "english": "behind",
+    "chinese": "在……后面",
+    "phonetic": "/bɪˈhaɪnd/",
+    "example_en": "The school is behind the park.",
+    "example_cn": "学校在公园后面。"
+  },
+  {
+    "english": "between",
+    "chinese": "在……之间",
+    "phonetic": "/bɪˈtwiːn/",
+    "example_en": "I sit between Tom and Lily.",
+    "example_cn": "我坐在汤姆和莉莉之间。"
+  },
+  {
+    "english": "middle",
+    "chinese": "中间；中部",
+    "phonetic": "/ˈmɪdl/",
+    "example_en": "There is a fountain in the middle of the square.",
+    "example_cn": "广场中间有一个喷泉。"
+  },
+  {
+    "english": "near",
+    "chinese": "在……附近",
+    "phonetic": "/nɪə/",
+    "example_en": "There is a supermarket near my home.",
+    "example_cn": "我家附近有一家超市。"
+  },
+  {
+    "english": "healthy",
+    "chinese": "健康的",
+    "phonetic": "/ˈhelθi/",
+    "example_en": "Eating vegetables is good for a healthy body.",
+    "example_cn": "吃蔬菜对身体有好处。"
+  },
+  {
+    "english": "delicious",
+    "chinese": "美味的",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "example_en": "My mother's cooking is very delicious.",
+    "example_cn": "我妈妈做的饭菜非常美味。"
+  },
+  {
+    "english": "fruit",
+    "chinese": "水果",
+    "phonetic": "/fruːt/",
+    "example_en": "I like eating fresh fruit every day.",
+    "example_cn": "我喜欢每天吃新鲜水果。"
+  },
+  {
+    "english": "vegetable",
+    "chinese": "蔬菜",
+    "phonetic": "/ˈvedʒtəbl/",
+    "example_en": "We should eat more vegetables.",
+    "example_cn": "我们应该多吃蔬菜。"
+  },
+  {
+    "english": "meat",
+    "chinese": "肉",
+    "phonetic": "/miːt/",
+    "example_en": "There is too much meat in my lunchbox.",
+    "example_cn": "我的午餐盒里肉太多了。"
+  },
+  {
+    "english": "chicken",
+    "chinese": "鸡；鸡肉",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "example_en": "I like fried chicken very much.",
+    "example_cn": "我非常喜欢炸鸡。"
+  },
+  {
+    "english": "fish",
+    "chinese": "鱼；鱼肉",
+    "phonetic": "/fɪʃ/",
+    "example_en": "My father can swim like a fish.",
+    "example_cn": "我爸爸像鱼一样会游泳。"
+  },
+  {
+    "english": "rice",
+    "chinese": "米饭；大米",
+    "phonetic": "/raɪs/",
+    "example_en": "We eat rice for lunch every day.",
+    "example_cn": "我们每天午饭吃米饭。"
+  },
+  {
+    "english": "bread",
+    "chinese": "面包",
+    "phonetic": "/bred/",
+    "example_en": "I have bread and milk for breakfast.",
+    "example_cn": "我早餐吃面包喝牛奶。"
+  },
+  {
+    "english": "milk",
+    "chinese": "牛奶",
+    "phonetic": "/mɪlk/",
+    "example_en": "Drinking milk every day is good for you.",
+    "example_cn": "每天喝牛奶对你有好处。"
+  },
+  {
+    "english": "water",
+    "chinese": "水",
+    "phonetic": "/ˈwɔːtə/",
+    "example_en": "Please give me a glass of water.",
+    "example_cn": "请给我一杯水。"
+  },
+  {
+    "english": "juice",
+    "chinese": "果汁",
+    "phonetic": "/dʒuːs/",
+    "example_en": "Apple juice is my favourite drink.",
+    "example_cn": "苹果汁是我最喜欢的饮料。"
+  },
+  {
+    "english": "drink",
+    "chinese": "喝；饮料",
+    "phonetic": "/drɪŋk/",
+    "example_en": "You should drink more water every day.",
+    "example_cn": "你应该每天多喝水。"
+  },
+  {
+    "english": "eat",
+    "chinese": "吃",
+    "phonetic": "/iːt/",
+    "example_en": "We eat lunch at twelve o'clock.",
+    "example_cn": "我们十二点吃午饭。"
+  },
+  {
+    "english": "have",
+    "chinese": "有；吃；喝",
+    "phonetic": "/hæv/",
+    "example_en": "I have breakfast at seven o'clock.",
+    "example_cn": "我七点吃早餐。"
+  },
+  {
+    "english": "favourite",
+    "chinese": "最喜欢的",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "example_en": "My favourite subject is English.",
+    "example_cn": "我最喜欢的科目是英语。"
+  },
+  {
+    "english": "supermarket",
+    "chinese": "超市",
+    "phonetic": "/ˈsuːpəmɑːkɪt/",
+    "example_en": "We buy food at the supermarket.",
+    "example_cn": "我们在超市买食物。"
+  },
+  {
+    "english": "shopping",
+    "chinese": "购物",
+    "phonetic": "/ˈʃɒpɪŋ/",
+    "example_en": "Let's go shopping this weekend.",
+    "example_cn": "我们这个周末去购物吧。"
+  },
+  {
+    "english": "buy",
+    "chinese": "买",
+    "phonetic": "/baɪ/",
+    "example_en": "I want to buy a new dictionary.",
+    "example_cn": "我想买一本新词典。"
+  },
+  {
+    "english": "list",
+    "chinese": "清单；列表",
+    "phonetic": "/lɪst/",
+    "example_en": "Please make a shopping list before you go.",
+    "example_cn": "去之前请列一个购物清单。"
+  },
+  {
+    "english": "thing",
+    "chinese": "东西；事情",
+    "phonetic": "/θɪŋ/",
+    "example_en": "Don't forget to bring your things.",
+    "example_cn": "别忘了带上你的东西。"
+  },
+  {
+    "english": "need",
+    "chinese": "需要",
+    "phonetic": "/niːd/",
+    "example_en": "I need a new pen for the exam.",
+    "example_cn": "我需要一支新笔考试。"
+  },
+  {
+    "english": "many",
+    "chinese": "许多（修饰可数名词）",
+    "phonetic": "/ˈmeni/",
+    "example_en": "There are many books in the library.",
+    "example_cn": "图书馆里有许多书。"
+  },
+  {
+    "english": "some",
+    "chinese": "一些；若干",
+    "phonetic": "/sʌm/",
+    "example_en": "I have some good friends at school.",
+    "example_cn": "我在学校有一些好朋友。"
+  },
+  {
+    "english": "any",
+    "chinese": "任何；一些（用于否定/疑问句）",
+    "phonetic": "/ˈeni/",
+    "example_en": "Do you have any questions?",
+    "example_cn": "你有什么问题吗？"
+  },
+  {
+    "english": "much",
+    "chinese": "许多（修饰不可数名词）",
+    "phonetic": "/mʌtʃ/",
+    "example_en": "How much milk do you want?",
+    "example_cn": "你想要多少牛奶？"
+  },
+  {
+    "english": "money",
+    "chinese": "钱；金钱",
+    "phonetic": "/ˈmʌni/",
+    "example_en": "I save my pocket money to buy a gift.",
+    "example_cn": "我存零花钱买礼物。"
+  },
+  {
+    "english": "cheap",
+    "chinese": "便宜的",
+    "phonetic": "/tʃiːp/",
+    "example_en": "This pen is very cheap.",
+    "example_cn": "这支钢笔很便宜。"
+  },
+  {
+    "english": "expensive",
+    "chinese": "昂贵的",
+    "phonetic": "/ɪkˈspensɪv/",
+    "example_en": "The computer is too expensive for me.",
+    "example_cn": "这台电脑对我来说太贵了。"
+  },
+  {
+    "english": "trip",
+    "chinese": "旅行；旅程",
+    "phonetic": "/trɪp/",
+    "example_en": "We went on a school trip to the zoo.",
+    "example_cn": "我们去了动物园秋游。"
+  },
+  {
+    "english": "visit",
+    "chinese": "参观；拜访",
+    "phonetic": "/ˈvɪzɪt/",
+    "example_en": "We will visit the science museum tomorrow.",
+    "example_cn": "我们明天将参观科学博物馆。"
+  },
+  {
+    "english": "museum",
+    "chinese": "博物馆",
+    "phonetic": "/mjuːˈziːəm/",
+    "example_en": "There is a history museum in our city.",
+    "example_cn": "我们市有一个历史博物馆。"
+  },
+  {
+    "english": "animal",
+    "chinese": "动物",
+    "phonetic": "/ˈænɪml/",
+    "example_en": "I like animals, especially pandas.",
+    "example_cn": "我喜欢动物，尤其是熊猫。"
+  },
+  {
+    "english": "tiger",
+    "chinese": "老虎",
+    "phonetic": "/ˈtaɪɡə/",
+    "example_en": "Tigers are the kings of the forest.",
+    "example_cn": "老虎是森林之王。"
+  },
+  {
+    "english": "elephant",
+    "chinese": "大象",
+    "phonetic": "/ˈelɪfənt/",
+    "example_en": "An elephant has a long nose and big ears.",
+    "example_cn": "大象有长长的鼻子和大大的耳朵。"
+  },
+  {
+    "english": "monkey",
+    "chinese": "猴子",
+    "phonetic": "/ˈmʌŋki/",
+    "example_en": "The monkeys are climbing the trees.",
+    "example_cn": "猴子们正在爬树。"
+  },
+  {
+    "english": "panda",
+    "chinese": "熊猫",
+    "phonetic": "/ˈpændə/",
+    "example_en": "Pandas live in China and eat bamboo.",
+    "example_cn": "熊猫生活在中国，吃竹子。"
+  },
+  {
+    "english": "lion",
+    "chinese": "狮子",
+    "phonetic": "/ˈlaɪən/",
+    "example_en": "The lion is very strong and brave.",
+    "example_cn": "狮子非常强壮和勇敢。"
+  },
+  {
+    "english": "giraffe",
+    "chinese": "长颈鹿",
+    "phonetic": "/dʒəˈrɑːf/",
+    "example_en": "Giraffes have very long necks.",
+    "example_cn": "长颈鹿有非常长的脖子。"
+  },
+  {
+    "english": "zoo",
+    "chinese": "动物园",
+    "phonetic": "/zuː/",
+    "example_en": "We saw many animals at the zoo.",
+    "example_cn": "我们在动物园看到了许多动物。"
+  },
+  {
+    "english": "guide",
+    "chinese": "导游；向导",
+    "phonetic": "/ɡaɪd/",
+    "example_en": "The guide showed us around the museum.",
+    "example_cn": "导游带我们参观了博物馆。"
+  },
+  {
+    "english": "excellent",
+    "chinese": "极好的；优秀的",
+    "phonetic": "/ˈeksələnt/",
+    "example_en": "You did an excellent job on the test!",
+    "example_cn": "你考试考得非常出色！"
+  },
+  {
+    "english": "computer",
+    "chinese": "电脑；计算机",
+    "phonetic": "/kəmˈpjuːtə/",
+    "example_en": "I use the computer for my homework.",
+    "example_cn": "我用电脑做作业。"
+  },
+  {
+    "english": "keyboard",
+    "chinese": "键盘",
+    "phonetic": "/ˈkiːbɔːd/",
+    "example_en": "Please type your name on the keyboard.",
+    "example_cn": "请在键盘上打出你的名字。"
+  },
+  {
+    "english": "mouse",
+    "chinese": "鼠标；老鼠",
+    "phonetic": "/maʊs/",
+    "example_en": "You need a mouse to click on the icon.",
+    "example_cn": "你需要鼠标点击图标。"
+  },
+  {
+    "english": "screen",
+    "chinese": "屏幕",
+    "phonetic": "/skriːn/",
+    "example_en": "Please look at the screen and read after me.",
+    "example_cn": "请看屏幕跟我读。"
+  },
+  {
+    "english": "print",
+    "chinese": "打印",
+    "phonetic": "/prɪnt/",
+    "example_en": "I need to print my homework for tomorrow.",
+    "example_cn": "我需要打印明天的作业。"
+  },
+  {
+    "english": "document",
+    "chinese": "文件；文档",
+    "phonetic": "/ˈdɒkjumənt/",
+    "example_en": "Please save the document before closing it.",
+    "example_cn": "关闭前请保存文档。"
+  },
+  {
+    "english": "save",
+    "chinese": "保存；节省",
+    "phonetic": "/seɪv/",
+    "example_en": "Remember to save your work every ten minutes.",
+    "example_cn": "记住每十分钟保存一次你的作品。"
+  },
+  {
+    "english": "open",
+    "chinese": "打开",
+    "phonetic": "/ˈəʊpən/",
+    "example_en": "Open the door, please.",
+    "example_cn": "请开门。"
+  },
+  {
+    "english": "click",
+    "chinese": "点击",
+    "phonetic": "/klɪk/",
+    "example_en": "Click the mouse to open the file.",
+    "example_cn": "点击鼠标打开文件。"
+  },
+  {
+    "english": "use",
+    "chinese": "使用；用",
+    "phonetic": "/juːz/",
+    "example_en": "Can I use your dictionary?",
+    "example_cn": "我可以用一下你的词典吗？"
+  },
+  {
+    "english": "connect",
+    "chinese": "连接",
+    "phonetic": "/kəˈnekt/",
+    "example_en": "Connect the keyboard to the computer.",
+    "example_cn": "把键盘连接到电脑上。"
+  },
+  {
+    "english": "turn on",
+    "chinese": "打开（电源）",
+    "phonetic": "/tɜːn ɒn/",
+    "example_en": "Turn on the computer and wait for it to start.",
+    "example_cn": "打开电脑，等待启动。"
+  },
+  {
+    "english": "turn off",
+    "chinese": "关掉（电源）",
+    "phonetic": "/tɜːn ɒf/",
+    "example_en": "Please turn off the lights when you leave.",
+    "example_cn": "离开时请关灯。"
+  },
+  {
+    "english": "birthday",
+    "chinese": "生日",
+    "phonetic": "/ˈbɜːθdeɪ/",
+    "example_en": "Happy birthday to you!",
+    "example_cn": "祝你生日快乐！"
+  },
+  {
+    "english": "party",
+    "chinese": "聚会；晚会",
+    "phonetic": "/ˈpɑːti/",
+    "example_en": "We had a big birthday party for Lily.",
+    "example_cn": "我们为莉莉举办了一个盛大的生日聚会。"
+  },
+  {
+    "english": "present",
+    "chinese": "礼物；现在",
+    "phonetic": "/ˈpreznt/",
+    "example_en": "I got a nice present from my parents.",
+    "example_cn": "我收到了父母给的一份好礼物。"
+  },
+  {
+    "english": "card",
+    "chinese": "卡片；贺卡",
+    "phonetic": "/kɑːd/",
+    "example_en": "I made a birthday card for my mother.",
+    "example_cn": "我给我妈妈做了一张生日贺卡。"
+  },
+  {
+    "english": "cake",
+    "chinese": "蛋糕",
+    "phonetic": "/keɪk/",
+    "example_en": "My grandmother made a chocolate cake for us.",
+    "example_cn": "我奶奶给我们做了一个巧克力蛋糕。"
+  },
+  {
+    "english": "candle",
+    "chinese": "蜡烛",
+    "phonetic": "/ˈkændl/",
+    "example_en": "Blow out the candles and make a wish.",
+    "example_cn": "吹灭蜡烛，许个愿。"
+  },
+  {
+    "english": "balloon",
+    "chinese": "气球",
+    "phonetic": "/bəˈluːn/",
+    "example_en": "The room is full of colourful balloons.",
+    "example_cn": "房间里满是五颜六色的气球。"
+  },
+  {
+    "english": "celebrate",
+    "chinese": "庆祝",
+    "phonetic": "/ˈselɪbreɪt/",
+    "example_en": "We celebrate the Spring Festival every year.",
+    "example_cn": "我们每年庆祝春节。"
+  },
+  {
+    "english": "sing",
+    "chinese": "唱；唱歌",
+    "phonetic": "/sɪŋ/",
+    "example_en": "Let's sing a song together.",
+    "example_cn": "我们一起唱首歌吧。"
+  },
+  {
+    "english": "dance",
+    "chinese": "跳舞",
+    "phonetic": "/dɑːns/",
+    "example_en": "The girls are dancing on the stage.",
+    "example_cn": "女孩们在舞台上跳舞。"
+  },
+  {
+    "english": "happy",
+    "chinese": "快乐的；高兴的",
+    "phonetic": "/ˈhæpi/",
+    "example_en": "I am very happy to see my old friends.",
+    "example_cn": "我很高兴见到我的老朋友。"
+  },
+  {
+    "english": "person",
+    "chinese": "人",
+    "phonetic": "/ˈpɜːsn/",
+    "example_en": "That person is my English teacher.",
+    "example_cn": "那个人是我的英语老师。"
+  },
+  {
+    "english": "tall",
+    "chinese": "高的",
+    "phonetic": "/tɔːl/",
+    "example_en": "My brother is tall and thin.",
+    "example_cn": "我哥哥又高又瘦。"
+  },
+  {
+    "english": "short",
+    "chinese": "矮的；短的",
+    "phonetic": "/ʃɔːt/",
+    "example_en": "She has short black hair.",
+    "example_cn": "她有一头黑色短发。"
+  },
+  {
+    "english": "young",
+    "chinese": "年轻的；年幼的",
+    "phonetic": "/jʌŋ/",
+    "example_en": "Our English teacher is very young.",
+    "example_cn": "我们的英语老师很年轻。"
+  },
+  {
+    "english": "old",
+    "chinese": "年老的；旧的",
+    "phonetic": "/əʊld/",
+    "example_en": "This is an old photo of my family.",
+    "example_cn": "这是我家的老照片。"
+  },
+  {
+    "english": "beautiful",
+    "chinese": "美丽的；漂亮的",
+    "phonetic": "/ˈbjuːtɪfl/",
+    "example_en": "The flowers in the garden are very beautiful.",
+    "example_cn": "花园里的花非常漂亮。"
+  },
+  {
+    "english": "handsome",
+    "chinese": "英俊的（通常指男性）",
+    "phonetic": "/ˈhænsəm/",
+    "example_en": "My father is tall and handsome.",
+    "example_cn": "我爸爸又高又英俊。"
+  },
+  {
+    "english": "clever",
+    "chinese": "聪明的",
+    "phonetic": "/ˈklevə/",
+    "example_en": "Tom is a clever student and always gets good grades.",
+    "example_cn": "汤姆是个聪明的学生，总是取得好成绩。"
+  },
+  {
+    "english": "funny",
+    "chinese": "有趣的；好笑的",
+    "phonetic": "/ˈfʌni/",
+    "example_en": "My grandpa tells funny stories.",
+    "example_cn": "我爷爷讲有趣的故事。"
+  },
+  {
+    "english": "friendly",
+    "chinese": "友好的",
+    "phonetic": "/ˈfrendli/",
+    "example_en": "The people in this city are very friendly.",
+    "example_cn": "这个城市的人非常友好。"
+  },
+  {
+    "english": "shy",
+    "chinese": "害羞的；腼腆的",
+    "phonetic": "/ʃaɪ/",
+    "example_en": "My little sister is shy with strangers.",
+    "example_cn": "我的小妹妹在陌生人面前很害羞。"
+  },
+  {
+    "english": "festival",
+    "chinese": "节日",
+    "phonetic": "/ˈfestɪvl/",
+    "example_en": "Spring Festival is the most important festival in China.",
+    "example_cn": "春节是中国最重要的节日。"
+  },
+  {
+    "english": "Spring Festival",
+    "chinese": "春节",
+    "phonetic": "/sprɪŋ ˈfestɪvl/",
+    "example_en": "We eat dumplings during the Spring Festival.",
+    "example_cn": "春节期间我们吃饺子。"
+  },
+  {
+    "english": "Christmas",
+    "chinese": "圣诞节",
+    "phonetic": "/ˈkrɪsməs/",
+    "example_en": "Merry Christmas and Happy New Year!",
+    "example_cn": "圣诞快乐，新年快乐！"
+  },
+  {
+    "english": "New Year",
+    "chinese": "新年",
+    "phonetic": "/njuː jɪə/",
+    "example_en": "Happy New Year to you and your family!",
+    "example_cn": "祝你和家人新年快乐！"
+  },
+  {
+    "english": "important",
+    "chinese": "重要的",
+    "phonetic": "/ɪmˈpɔːtnt/",
+    "example_en": "English is an important subject at school.",
+    "example_cn": "英语在学校是一门重要的科目。"
+  },
+  {
+    "english": "tradition",
+    "chinese": "传统",
+    "phonetic": "/trəˈdɪʃn/",
+    "example_en": "It is a Chinese tradition to have a big family dinner.",
+    "example_cn": "吃团圆饭是中国人的传统。"
+  },
+  {
+    "english": "together",
+    "chinese": "一起；共同",
+    "phonetic": "/təˈɡeðə/",
+    "example_en": "Let's go to the park together.",
+    "example_cn": "我们一起去公园吧。"
+  },
+  {
+    "english": "dinner",
+    "chinese": "正餐；晚餐",
+    "phonetic": "/ˈdɪnə/",
+    "example_en": "We have dinner at seven in the evening.",
+    "example_cn": "我们晚上七点吃晚餐。"
+  },
+  {
+    "english": "gift",
+    "chinese": "礼物；赠品",
+    "phonetic": "/ɡɪft/",
+    "example_en": "I received many gifts on my birthday.",
+    "example_cn": "我生日那天收到了很多礼物。"
+  },
+  {
+    "english": "firework",
+    "chinese": "烟花；烟火",
+    "phonetic": "/ˈfaɪəwɜːk/",
+    "example_en": "We set off fireworks on New Year's Eve.",
+    "example_cn": "我们在除夕夜放烟花。"
+  },
+  {
+    "english": "be (am/is/are)",
+    "chinese": "是",
+    "phonetic": "/biː/ /æm/ /ɪz/ /ɑː/",
+    "example_en": "I am a student from Beijing.",
+    "example_cn": "我是一名来自北京的学生。"
+  },
+  {
+    "english": "do/does",
+    "chinese": "做；（助动词）",
+    "phonetic": "/duː/ /dʌz/",
+    "example_en": "Do you like playing football?",
+    "example_cn": "你喜欢踢足球吗？"
+  },
+  {
+    "english": "go",
+    "chinese": "去；走",
+    "phonetic": "/ɡəʊ/",
+    "example_en": "I go to school by bus every day.",
+    "example_cn": "我每天坐公交车去上学。"
+  },
+  {
+    "english": "come",
+    "chinese": "来",
+    "phonetic": "/kʌm/",
+    "example_en": "Come to the blackboard, please.",
+    "example_cn": "请到黑板前面来。"
+  },
+  {
+    "english": "like",
+    "chinese": "喜欢",
+    "phonetic": "/laɪk/",
+    "example_en": "I like reading books about history.",
+    "example_cn": "我喜欢读历史书。"
+  },
+  {
+    "english": "love",
+    "chinese": "爱；热爱",
+    "phonetic": "/lʌv/",
+    "example_en": "I love my family very much.",
+    "example_cn": "我非常爱我的家人。"
+  },
+  {
+    "english": "want",
+    "chinese": "想要",
+    "phonetic": "/wɒnt/",
+    "example_en": "I want to be a doctor when I grow up.",
+    "example_cn": "我长大后想当医生。"
+  },
+  {
+    "english": "know",
+    "chinese": "知道；认识",
+    "phonetic": "/nəʊ/",
+    "example_en": "Do you know the answer to this question?",
+    "example_cn": "你知道这个问题的答案吗？"
+  },
+  {
+    "english": "think",
+    "chinese": "想；认为",
+    "phonetic": "/θɪŋk/",
+    "example_en": "I think English is very interesting.",
+    "example_cn": "我认为英语很有趣。"
+  },
+  {
+    "english": "look",
+    "chinese": "看；看起来",
+    "phonetic": "/lʊk/",
+    "example_en": "Look at the blackboard, please.",
+    "example_cn": "请看黑板。"
+  },
+  {
+    "english": "watch",
+    "chinese": "观看；注视",
+    "phonetic": "/wɒtʃ/",
+    "example_en": "We watch TV after dinner.",
+    "example_cn": "我们晚饭后看电视。"
+  },
+  {
+    "english": "read",
+    "chinese": "阅读；读",
+    "phonetic": "/riːd/",
+    "example_en": "Please read the text aloud.",
+    "example_cn": "请大声朗读课文。"
+  },
+  {
+    "english": "write",
+    "chinese": "写",
+    "phonetic": "/raɪt/",
+    "example_en": "Please write a short passage about your family.",
+    "example_cn": "请写一篇关于你家庭的短文。"
+  },
+  {
+    "english": "listen",
+    "chinese": "听",
+    "phonetic": "/ˈlɪsn/",
+    "example_en": "Listen carefully to the teacher.",
+    "example_cn": "认真听老师讲。"
+  },
+  {
+    "english": "speak",
+    "chinese": "说；讲",
+    "phonetic": "/spiːk/",
+    "example_en": "Can you speak English well?",
+    "example_cn": "你英语说得好吗？"
+  },
+  {
+    "english": "talk",
+    "chinese": "谈话；说话",
+    "phonetic": "/tɔːk/",
+    "example_en": "Don't talk in class, please.",
+    "example_cn": "课堂上请不要说话。"
+  },
+  {
+    "english": "say",
+    "chinese": "说",
+    "phonetic": "/seɪ/",
+    "example_en": "Please say it again in English.",
+    "example_cn": "请用英语再说一遍。"
+  },
+  {
+    "english": "tell",
+    "chinese": "告诉；讲述",
+    "phonetic": "/tel/",
+    "example_en": "My grandfather tells me stories at night.",
+    "example_cn": "我爷爷晚上给我讲故事。"
+  },
+  {
+    "english": "ask",
+    "chinese": "问；请求",
+    "phonetic": "/ɑːsk/",
+    "example_en": "May I ask you a question?",
+    "example_cn": "我可以问你一个问题吗？"
+  },
+  {
+    "english": "answer",
+    "chinese": "回答；答案",
+    "phonetic": "/ˈɑːnsə/",
+    "example_en": "Please answer the question in English.",
+    "example_cn": "请用英语回答这个问题。"
+  },
+  {
+    "english": "thank",
+    "chinese": "感谢；谢谢",
+    "phonetic": "/θæŋk/",
+    "example_en": "Thank you for your help.",
+    "example_cn": "谢谢你的帮助。"
+  },
+  {
+    "english": "help",
+    "chinese": "帮助",
+    "phonetic": "/help/",
+    "example_en": "Can you help me with my maths homework?",
+    "example_cn": "你能帮我做数学作业吗？"
+  },
+  {
+    "english": "play",
+    "chinese": "玩；打（球）；演奏",
+    "phonetic": "/pleɪ/",
+    "example_en": "Let's play football after school.",
+    "example_cn": "放学后我们踢足球吧。"
+  },
+  {
+    "english": "run",
+    "chinese": "跑；跑步",
+    "phonetic": "/rʌn/",
+    "example_en": "We run on the playground every morning.",
+    "example_cn": "我们每天早上在操场上跑步。"
+  },
+  {
+    "english": "swim",
+    "chinese": "游泳",
+    "phonetic": "/swɪm/",
+    "example_en": "I swim with my father every summer.",
+    "example_cn": "我每年夏天和爸爸一起游泳。"
+  },
+  {
+    "english": "walk",
+    "chinese": "走；散步",
+    "phonetic": "/wɔːk/",
+    "example_en": "Let's walk to the park together.",
+    "example_cn": "我们一起去散步到公园吧。"
+  },
+  {
+    "english": "sit",
+    "chinese": "坐",
+    "phonetic": "/sɪt/",
+    "example_en": "Please sit down and open your books.",
+    "example_cn": "请坐下，打开书。"
+  },
+  {
+    "english": "stand",
+    "chinese": "站；站立",
+    "phonetic": "/stænd/",
+    "example_en": "Please stand up when the teacher comes in.",
+    "example_cn": "老师进来时请起立。"
+  },
+  {
+    "english": "get",
+    "chinese": "得到；到达",
+    "phonetic": "/ɡet/",
+    "example_en": "I get up at six o'clock every morning.",
+    "example_cn": "我每天早上六点起床。"
+  },
+  {
+    "english": "put",
+    "chinese": "放；放置",
+    "phonetic": "/pʊt/",
+    "example_en": "Please put your hand up if you know the answer.",
+    "example_cn": "如果你知道答案，请举手。"
+  },
+  {
+    "english": "take",
+    "chinese": "拿；取；花费",
+    "phonetic": "/teɪk/",
+    "example_en": "Please take a seat.",
+    "example_cn": "请坐。"
+  },
+  {
+    "english": "give",
+    "chinese": "给；给予",
+    "phonetic": "/ɡɪv/",
+    "example_en": "Please give me a glass of water.",
+    "example_cn": "请给我一杯水。"
+  },
+  {
+    "english": "make",
+    "chinese": "做；制作",
+    "phonetic": "/meɪk/",
+    "example_en": "I want to make a card for my mother.",
+    "example_cn": "我想给我妈妈做一张贺卡。"
+  },
+  {
+    "english": "find",
+    "chinese": "找到；发现",
+    "phonetic": "/faɪnd/",
+    "example_en": "I can't find my pencil case.",
+    "example_cn": "我找不到我的铅笔盒了。"
+  },
+  {
+    "english": "call",
+    "chinese": "打电话；称呼",
+    "phonetic": "/kɔːl/",
+    "example_en": "Please call me when you arrive.",
+    "example_cn": "你到了请给我打电话。"
+  },
+  {
+    "english": "show",
+    "chinese": "展示；出示",
+    "phonetic": "/ʃəʊ/",
+    "example_en": "Please show me your new bag.",
+    "example_cn": "请给我看看你的新书包。"
+  },
+  {
+    "english": "try",
+    "chinese": "尝试；努力",
+    "phonetic": "/traɪ/",
+    "example_en": "Please try to speak English in class.",
+    "example_cn": "请尽量在课上讲英语。"
+  },
+  {
+    "english": "school",
+    "chinese": "学校",
+    "phonetic": "/skuːl/",
+    "example_en": "I go to school at seven thirty.",
+    "example_cn": "我七点半上学。"
+  },
+  {
+    "english": "home",
+    "chinese": "家",
+    "phonetic": "/həʊm/",
+    "example_en": "I go home at five o'clock.",
+    "example_cn": "我五点钟回家。"
+  },
+  {
+    "english": "city",
+    "chinese": "城市",
+    "phonetic": "/ˈsɪti/",
+    "example_en": "Beijing is a very big city.",
+    "example_cn": "北京是一个非常大的城市。"
+  },
+  {
+    "english": "country",
+    "chinese": "国家；乡村",
+    "phonetic": "/ˈkʌntri/",
+    "example_en": "China is a great country with a long history.",
+    "example_cn": "中国是一个历史悠久的伟大国家。"
+  },
+  {
+    "english": "world",
+    "chinese": "世界",
+    "phonetic": "/wɜːld/",
+    "example_en": "There are many interesting places in the world.",
+    "example_cn": "世界上有很多有趣的地方。"
+  },
+  {
+    "english": "people",
+    "chinese": "人们；人民",
+    "phonetic": "/ˈpiːpl/",
+    "example_en": "Many people like travelling during the holiday.",
+    "example_cn": "许多人喜欢在假期旅行。"
+  },
+  {
+    "english": "time",
+    "chinese": "时间；次",
+    "phonetic": "/taɪm/",
+    "example_en": "What time is it now?",
+    "example_cn": "现在几点了？"
+  },
+  {
+    "english": "day",
+    "chinese": "天；日",
+    "phonetic": "/deɪ/",
+    "example_en": "Every day I get up at six o'clock.",
+    "example_cn": "我每天六点起床。"
+  },
+  {
+    "english": "year",
+    "chinese": "年",
+    "phonetic": "/jɪə/",
+    "example_en": "There are twelve months in a year.",
+    "example_cn": "一年有十二个月。"
+  },
+  {
+    "english": "week",
+    "chinese": "周；星期",
+    "phonetic": "/wiːk/",
+    "example_en": "We have seven days in a week.",
+    "example_cn": "一周有七天。"
+  },
+  {
+    "english": "month",
+    "chinese": "月份",
+    "phonetic": "/mʌnθ/",
+    "example_en": "January is the first month of the year.",
+    "example_cn": "一月是一年中的第一个月。"
+  },
+  {
+    "english": "weather",
+    "chinese": "天气",
+    "phonetic": "/ˈweðə/",
+    "example_en": "What is the weather like today?",
+    "example_cn": "今天天气怎么样？"
+  },
+  {
+    "english": "sun",
+    "chinese": "太阳",
+    "phonetic": "/sʌn/",
+    "example_en": "The sun rises in the east.",
+    "example_cn": "太阳从东方升起。"
+  },
+  {
+    "english": "moon",
+    "chinese": "月亮",
+    "phonetic": "/muːn/",
+    "example_en": "We can see the moon at night.",
+    "example_cn": "我们晚上能看到月亮。"
+  },
+  {
+    "english": "star",
+    "chinese": "星星",
+    "phonetic": "/stɑː/",
+    "example_en": "There are many stars in the sky.",
+    "example_cn": "天空中有很多星星。"
+  },
+  {
+    "english": "flower",
+    "chinese": "花",
+    "phonetic": "/ˈflaʊə/",
+    "example_en": "The flowers bloom in spring.",
+    "example_cn": "花儿在春天开放。"
+  },
+  {
+    "english": "tree",
+    "chinese": "树",
+    "phonetic": "/triː/",
+    "example_en": "There are many trees in our school.",
+    "example_cn": "我们学校里有很多树。"
+  },
+  {
+    "english": "river",
+    "chinese": "河流",
+    "phonetic": "/ˈrɪvə/",
+    "example_en": "The Yellow River is a long river.",
+    "example_cn": "黄河是一条长河。"
+  },
+  {
+    "english": "lesson",
+    "chinese": "课；功课",
+    "phonetic": "/ˈlesn/",
+    "example_en": "We have four lessons in the morning.",
+    "example_cn": "我们上午有四节课。"
+  },
+  {
+    "english": "story",
+    "chinese": "故事",
+    "phonetic": "/ˈstɔːri/",
+    "example_en": "My grandmother tells me a story every night.",
+    "example_cn": "我奶奶每晚给我讲一个故事。"
+  },
+  {
+    "english": "song",
+    "chinese": "歌曲",
+    "phonetic": "/sɒŋ/",
+    "example_en": "Let's sing an English song together.",
+    "example_cn": "我们一起唱首英文歌吧。"
+  },
+  {
+    "english": "game",
+    "chinese": "游戏；比赛",
+    "phonetic": "/ɡeɪm/",
+    "example_en": "The children are playing games in the park.",
+    "example_cn": "孩子们在公园里玩游戏。"
+  },
+  {
+    "english": "sport",
+    "chinese": "运动",
+    "phonetic": "/spɔːt/",
+    "example_en": "My favourite sport is basketball.",
+    "example_cn": "我最喜欢的运动是篮球。"
+  },
+  {
+    "english": "football",
+    "chinese": "足球",
+    "phonetic": "/ˈfʊtbɔːl/",
+    "example_en": "The boys are playing football on the playground.",
+    "example_cn": "男孩们在操场上踢足球。"
+  },
+  {
+    "english": "basketball",
+    "chinese": "篮球",
+    "phonetic": "/ˈbɑːskɪtbɔːl/",
+    "example_en": "Yao Ming is a famous basketball player.",
+    "example_cn": "姚明是一位著名的篮球运动员。"
+  },
+  {
+    "english": "big",
+    "chinese": "大的",
+    "phonetic": "/bɪɡ/",
+    "example_en": "There is a big tree in front of our school.",
+    "example_cn": "我们学校前面有一棵大树。"
+  },
+  {
+    "english": "small",
+    "chinese": "小的",
+    "phonetic": "/smɔːl/",
+    "example_en": "The mouse is a small animal.",
+    "example_cn": "老鼠是一种小动物。"
+  },
+  {
+    "english": "long",
+    "chinese": "长的",
+    "phonetic": "/lɒŋ/",
+    "example_en": "The Yangtze River is very long.",
+    "example_cn": "长江非常长。"
+  },
+  {
+    "english": "new",
+    "chinese": "新的",
+    "phonetic": "/njuː/",
+    "example_en": "I have a new schoolbag.",
+    "example_cn": "我有一个新书包。"
+  },
+  {
+    "english": "great",
+    "chinese": "伟大的；很棒的",
+    "phonetic": "/ɡreɪt/",
+    "example_en": "That's a great idea!",
+    "example_cn": "好主意！"
+  },
+  {
+    "english": "easy",
+    "chinese": "容易的",
+    "phonetic": "/ˈiːzi/",
+    "example_en": "The maths problem is very easy.",
+    "example_cn": "这道数学题很容易。"
+  },
+  {
+    "english": "difficult",
+    "chinese": "困难的",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "example_en": "English is not difficult if you practise every day.",
+    "example_cn": "如果你每天练习，英语并不难。"
+  },
+  {
+    "english": "right",
+    "chinese": "正确的；右边的",
+    "phonetic": "/raɪt/",
+    "example_en": "Your answer is right.",
+    "example_cn": "你的答案是正确的。"
+  },
+  {
+    "english": "wrong",
+    "chinese": "错误的；不对的",
+    "phonetic": "/rɒŋ/",
+    "example_en": "Sorry, you are wrong.",
+    "example_cn": "对不起，你错了。"
+  },
+  {
+    "english": "same",
+    "chinese": "相同的",
+    "phonetic": "/seɪm/",
+    "example_en": "We are in the same class.",
+    "example_cn": "我们在同一个班。"
+  },
+  {
+    "english": "different",
+    "chinese": "不同的",
+    "phonetic": "/ˈdɪfrənt/",
+    "example_en": "We have different hobbies.",
+    "example_cn": "我们有不同的爱好。"
+  },
+  {
+    "english": "sad",
+    "chinese": "难过的；伤心的",
+    "phonetic": "/sæd/",
+    "example_en": "She feels sad because her cat is lost.",
+    "example_cn": "她因为猫丢了而难过。"
+  },
+  {
+    "english": "cold",
+    "chinese": "冷的；寒冷的",
+    "phonetic": "/kəʊld/",
+    "example_en": "It is cold in winter in Harbin.",
+    "example_cn": "哈尔滨冬天很冷。"
+  },
+  {
+    "english": "hot",
+    "chinese": "热的；炎热的",
+    "phonetic": "/hɒt/",
+    "example_en": "It is very hot in summer in Chongqing.",
+    "example_cn": "重庆夏天很热。"
+  },
+  {
+    "english": "warm",
+    "chinese": "温暖的",
+    " phonetic": "/wɔːm/",
+    "example_en": "Spring is warm and the flowers bloom.",
+    "example_cn": "春天很温暖，花儿开了。"
+  },
+  {
+    "english": "cool",
+    "chinese": "凉爽的；酷的",
+    "phonetic": "/kuːl/",
+    "example_en": "It's cool in autumn.",
+    "example_cn": "秋天很凉爽。"
+  },
+  {
+    "english": "in",
+    "chinese": "在……里面；在……时候",
+    "phonetic": "/ɪn/",
+    "example_en": "The pen is in the pencil case.",
+    "example_cn": "钢笔在铅笔盒里。"
+  },
+  {
+    "english": "on",
+    "chinese": "在……上面；关于",
+    "phonetic": "/ɒn/",
+    "example_en": "There is a book on the desk.",
+    "example_cn": "书桌上有一本书。"
+  },
+  {
+    "english": "at",
+    "chinese": "在（某地/某时）",
+    "phonetic": "/æt/",
+    "example_en": "I get up at six in the morning.",
+    "example_cn": "我早上六点起床。"
+  },
+  {
+    "english": "to",
+    "chinese": "到；向；给",
+    "phonetic": "/tuː/",
+    "example_en": "Let's go to the park.",
+    "example_cn": "我们去公园吧。"
+  },
+  {
+    "english": "from",
+    "chinese": "从……；来自……",
+    "phonetic": "/frɒm/",
+    "example_en": "I come from China.",
+    "example_cn": "我来自中国。"
+  },
+  {
+    "english": "of",
+    "chinese": "……的",
+    "phonetic": "/ɒv/",
+    "example_en": "This is a picture of my family.",
+    "example_cn": "这是一张我家人的照片。"
+  },
+  {
+    "english": "for",
+    "chinese": "为了；给；因为",
+    "phonetic": "/fɔː/",
+    "example_en": "This gift is for you.",
+    "example_cn": "这个礼物是给你的。"
+  },
+  {
+    "english": "with",
+    "chinese": "和……一起；用",
+    "phonetic": "/wɪð/",
+    "example_en": "I go to school with my friend.",
+    "example_cn": "我和朋友一起去上学。"
+  },
+  {
+    "english": "about",
+    "chinese": "关于；大约",
+    "phonetic": "/əˈbaʊt/",
+    "example_en": "Tell me about your school, please.",
+    "example_cn": "请给我讲讲你的学校。"
+  },
+  {
+    "english": "under",
+    "chinese": "在……下面",
+    " phonetic": "/ˈʌndə/",
+    "example_en": "The cat is under the table.",
+    "example_cn": "猫在桌子下面。"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "phonetic": "/aɪ/",
+    "example_en": "I am a middle school student.",
+    "example_cn": "我是一名中学生。"
+  },
+  {
+    "english": "you",
+    "chinese": "你；你们",
+    "phonetic": "/juː/",
+    "example_en": "You are a good student.",
+    "example_cn": "你是个好学生。"
+  },
+  {
+    "english": "he",
+    "chinese": "他",
+    "phonetic": "/hiː/",
+    "example_en": "He is my best friend.",
+    "example_cn": "他是我最好的朋友。"
+  },
+  {
+    "english": "she",
+    "chinese": "她",
+    "phonetic": "/ʃiː/",
+    "example_en": "She is from Shanghai.",
+    "example_cn": "她来自上海。"
+  },
+  {
+    "english": "it",
+    "chinese": "它",
+    "phonetic": "/ɪt/",
+    "example_en": "It is a lovely dog.",
+    "example_cn": "它是一只可爱的狗。"
+  },
+  {
+    "english": "we",
+    "chinese": "我们",
+    "phonetic": "/wiː/",
+    "example_en": "We are in the same class.",
+    "example_cn": "我们在同一个班。"
+  },
+  {
+    "english": "they",
+    "chinese": "他们；她们；它们",
+    "phonetic": "/ðeɪ/",
+    "example_en": "They are my classmates.",
+    "example_cn": "他们是我的同学。"
+  },
+  {
+    "english": "my",
+    "chinese": "我的",
+    "phonetic": "/maɪ/",
+    "example_en": "This is my book.",
+    "example_cn": "这是我的书。"
+  },
+  {
+    "english": "your",
+    "chinese": "你的；你们的",
+    "phonetic": "/jɔː/",
+    "example_en": "Is this your pencil?",
+    "example_cn": "这是你的铅笔吗？"
+  },
+  {
+    "english": "his",
+    "chinese": "他的",
+    "phonetic": "/hɪz/",
+    "example_en": "His name is Li Ming.",
+    "example_cn": "他的名字是李明。"
+  },
+  {
+    "english": "her",
+    "chinese": "她的",
+    "phonetic": "/hɜː/",
+    "example_en": "Her bag is red.",
+    "example_cn": "她的包是红色的。"
+  },
+  {
+    "english": "what",
+    "chinese": "什么",
+    "phonetic": "/wɒt/",
+    "example_en": "What is your name?",
+    "example_cn": "你叫什么名字？"
+  },
+  {
+    "english": "who",
+    "chinese": "谁",
+    "phonetic": "/huː/",
+    "example_en": "Who is your English teacher?",
+    "example_cn": "谁是你们的英语老师？"
+  },
+  {
+    "english": "when",
+    "chinese": "什么时候",
+    "phonetic": "/wen/",
+    "example_en": "When is your birthday?",
+    "example_cn": "你的生日是什么时候？"
+  },
+  {
+    "english": "where",
+    "chinese": "在哪里",
+    "phonetic": "/weə/",
+    "example_en": "Where is the library?",
+    "example_cn": "图书馆在哪里？"
+  },
+  {
+    "english": "why",
+    "chinese": "为什么",
+    "phonetic": "/waɪ/",
+    "example_en": "Why are you late for school?",
+    "example_cn": "你为什么上学迟到？"
+  },
+  {
+    "english": "how",
+    "chinese": "怎样；如何",
+    "phonetic": "/haʊ/",
+    "example_en": "How do you go to school?",
+    "example_cn": "你怎么去上学？"
+  },
+  {
+    "english": "which",
+    "chinese": "哪一个",
+    "phonetic": "/wɪtʃ/",
+    "example_en": "Which colour do you like best?",
+    "example_cn": "你最喜欢哪个颜色？"
+  },
+  {
+    "english": "and",
+    "chinese": "和；并且",
+    "phonetic": "/ænd/",
+    "example_en": "I like apples and oranges.",
+    "example_cn": "我喜欢苹果和橙子。"
+  },
+  {
+    "english": "but",
+    "chinese": "但是",
+    "phonetic": "/bʌt/",
+    "example_en": "I like sports, but I don't like running.",
+    "example_cn": "我喜欢运动，但我不喜欢跑步。"
+  },
+  {
+    "english": "or",
+    "chinese": "或者；否则",
+    "phonetic": "/ɔː/",
+    "example_en": "Is this your book or his?",
+    "example_cn": "这是你的书还是他的？"
+  },
+  {
+    "english": "so",
+    "chinese": "所以；如此",
+    "phonetic": "/səʊ/",
+    "example_en": "It's raining, so I stay at home.",
+    "example_cn": "下雨了，所以我待在家里。"
+  },
+  {
+    "english": "because",
+    "chinese": "因为",
+    "phonetic": "/bɪˈkɒz/",
+    "example_en": "I am happy because I got a gift.",
+    "example_cn": "我很高兴因为我收到了一份礼物。"
+  },
+  {
+    "english": "if",
+    "chinese": "如果；假如",
+    "phonetic": "/ɪf/",
+    "example_en": "If you study hard, you will get good grades.",
+    "example_cn": "如果你努力学习，就会取得好成绩。"
+  },
+  {
+    "english": "can",
+    "chinese": "能；会；可以",
+    "phonetic": "/kæn/",
+    "example_en": "I can swim and play basketball.",
+    "example_cn": "我会游泳和打篮球。"
+  },
+  {
+    "english": "could",
+    "chinese": "可以；可能（can的过去式）",
+    "phonetic": "/kʊd/",
+    "example_en": "Could you please pass me the book?",
+    "example_cn": "你能把书递给我吗？"
+  },
+  {
+    "english": "may",
+    "chinese": "可以；可能",
+    "phonetic": "/meɪ/",
+    "example_en": "May I come in, please?",
+    "example_cn": "请问我可以进来吗？"
+  },
+  {
+    "english": "must",
+    "chinese": "必须",
+    "phonetic": "/mʌst/",
+    "example_en": "We must finish our homework on time.",
+    "example_cn": "我们必须按时完成作业。"
+  },
+  {
+    "english": "should",
+    "chinese": "应该",
+    "phonetic": "/ʃʊd/",
+    "example_en": "You should drink more water every day.",
+    "example_cn": "你应该每天多喝水。"
+  },
+  {
+    "english": "will",
+    "chinese": "将；会",
+    "phonetic": "/wɪl/",
+    "example_en": "I will visit my grandparents this weekend.",
+    "example_cn": "我这个周末将去看望爷爷奶奶。"
+  },
+  {
+    "english": "very",
+    "chinese": "非常；很",
+    "phonetic": "/ˈveri/",
+    "example_en": "This book is very interesting.",
+    "example_cn": "这本书非常有趣。"
+  },
+  {
+    "english": "too",
+    "chinese": "太；也",
+    "phonetic": "/tuː/",
+    "example_en": "This shirt is too small for me.",
+    "example_cn": "这件衬衫对我来说太小了。"
+  },
+  {
+    "english": "also",
+    "chinese": "也；同样",
+    "phonetic": "/ˈɔːlsəʊ/",
+    "example_en": "I like English. I also like maths.",
+    "example_cn": "我喜欢英语。我也喜欢数学。"
+  },
+  {
+    "english": "always",
+    "chinese": "总是；一直",
+    "phonetic": "/ˈɔːlweɪz/",
+    "example_en": "My mother always cooks breakfast for me.",
+    "example_cn": "我妈妈总是为我做早餐。"
+  },
+  {
+    "english": "usually",
+    "chinese": "通常",
+    "phonetic": "/ˈjuːʒuəli/",
+    "example_en": "I usually get up at six thirty.",
+    "example_cn": "我通常六点半起床。"
+  },
+  {
+    "english": "often",
+    "chinese": "经常",
+    "phonetic": "/ˈɒfn/",
+    "example_en": "We often play basketball after school.",
+    "example_cn": "我们放学后经常打篮球。"
+  },
+  {
+    "english": "sometimes",
+    "chinese": "有时",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "example_en": "Sometimes I go to the library on weekends.",
+    "example_cn": "周末我有时去图书馆。"
+  },
+  {
+    "english": "never",
+    "chinese": "从不；绝不",
+    "phonetic": "/ˈnevə/",
+    "example_en": "I never eat junk food.",
+    "example_cn": "我从不吃垃圾食品。"
+  },
+  {
+    "english": "now",
+    "chinese": "现在",
+    "phonetic": "/naʊ/",
+    "example_en": "It's eight o'clock now.",
+    "example_cn": "现在八点了。"
+  },
+  {
+    "english": "then",
+    "chinese": "然后；那时",
+    "phonetic": "/ðen/",
+    "example_en": "First do your homework, then you can watch TV.",
+    "example_cn": "先做作业，然后你可以看电视。"
+  },
+  {
+    "english": "here",
+    "chinese": "这里；在这儿",
+    "phonetic": "/hɪə/",
+    "example_en": "Come here, please.",
+    "example_cn": "请到这儿来。"
+  },
+  {
+    "english": "there",
+    "chinese": "那里；在那儿",
+    "phonetic": "/ðeə/",
+    "example_en": "There is a park near my home.",
+    "example_cn": "我家附近有一个公园。"
+  },
+  {
+    "english": "today",
+    "chinese": "今天",
+    "phonetic": "/təˈdeɪ/",
+    "example_en": "Today is Monday.",
+    "example_cn": "今天是星期一。"
+  },
+  {
+    "english": "tomorrow",
+    "chinese": "明天",
+    "phonetic": "/təˈmɒrəʊ/",
+    "example_en": "Tomorrow is my father's birthday.",
+    "example_cn": "明天是我爸爸的生日。"
+  },
+  {
+    "english": "yesterday",
+    "chinese": "昨天",
+    "phonetic": "/ˈjestədeɪ/",
+    "example_en": "I went to the zoo yesterday.",
+    "example_cn": "我昨天去了动物园。"
+  },
+  {
+    "english": "only",
+    "chinese": "只；仅仅",
+    "phonetic": "/ˈəʊnli/",
+    "example_en": "I have only one sister.",
+    "example_cn": "我只有一个妹妹。"
+  },
+  {
+    "english": "well",
+    "chinese": "好地；很好地",
+    "phonetic": "/wel/",
+    "example_en": "She speaks English very well.",
+    "example_cn": "她英语说得很好。"
+  },
+  {
+    "english": "holiday",
+    "chinese": "假日；假期",
+    "phonetic": "/ˈhɒlədeɪ/",
+    "example_en": "What do you do during the summer holiday?",
+    "example_cn": "你暑假做什么？"
+  },
+  {
+    "english": "homework",
+    "chinese": "家庭作业",
+    "phonetic": "/ˈhəʊmwɜːk/",
+    "example_en": "I have a lot of homework today.",
+    "example_cn": "我今天有很多家庭作业。"
+  },
+  {
+    "english": "breakfast",
+    "chinese": "早餐",
+    "phonetic": "/ˈbrekfəst/",
+    "example_en": "What do you have for breakfast?",
+    "example_cn": "你早餐吃什么？"
+  },
+  {
+    "english": "lunch",
+    "chinese": "午餐",
+    "phonetic": "/lʌntʃ/",
+    "example_en": "We have lunch at school.",
+    "example_cn": "我们在学校吃午餐。"
+  },
+  {
+    "english": "begin",
+    "chinese": "开始",
+    "phonetic": "/bɪˈɡɪn/",
+    "example_en": "School begins at eight o'clock.",
+    "example_cn": "学校八点开始上课。"
+  },
+  {
+    "english": "finish",
+    "chinese": "完成；结束",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "example_en": "I finish my homework at nine o'clock.",
+    "example_cn": "我九点完成作业。"
+  },
+  {
+    "english": "study",
+    "chinese": "学习；研究",
+    "phonetic": "/ˈstʌdi/",
+    "example_en": "I study English every day.",
+    "example_cn": "我每天学习英语。"
+  },
+  {
+    "english": "learn",
+    "chinese": "学习；学会",
+    "phonetic": "/lɜːn/",
+    "example_en": "We learn new words in English class.",
+    "example_cn": "我们在英语课上学习新单词。"
+  },
+  {
+    "english": "teach",
+    "chinese": "教；教授",
+    "phonetic": "/tiːtʃ/",
+    "example_en": "Miss Wang teaches us English.",
+    "example_cn": "王老师教我们英语。"
+  },
+  {
+    "english": "practise",
+    "chinese": "练习",
+    "phonetic": "/ˈpræktɪs/",
+    "example_en": "You should practise speaking English every day.",
+    "example_cn": "你应该每天练习说英语。"
+  },
+  {
+    "english": "remember",
+    "chinese": "记住；记得",
+    "phonetic": "/rɪˈmembə/",
+    "example_en": "Please remember to bring your book tomorrow.",
+    "example_cn": "请记住明天带书来。"
+  },
+  {
+    "english": "forget",
+    "chinese": "忘记",
+    "phonetic": "/fəˈɡet/",
+    "example_en": "Don't forget to do your homework.",
+    "example_cn": "别忘了做作业。"
+  },
+  {
+    "english": "bring",
+    "chinese": "带来",
+    "phonetic": "/brɪŋ/",
+    "example_en": "Please bring your dictionary to class.",
+    "example_cn": "请把词典带到课堂上来。"
+  },
+  {
+    "english": "leave",
+    "chinese": "离开；留下",
+    "phonetic": "/liːv/",
+    "example_en": "Don't leave your bag in the classroom.",
+    "example_cn": "别把书包留在教室里。"
+  },
+  {
+    "english": "keep",
+    "chinese": "保持；保留",
+    "phonetic": "/kiːp/",
+    "example_en": "Please keep your room clean.",
+    "example_cn": "请保持房间干净。"
+  },
+  {
+    "english": "let",
+    "chinese": "让",
+    "phonetic": "/let/",
+    "example_en": "Let's go to the library.",
+    "example_cn": "我们去图书馆吧。"
+  },
+  {
+    "english": "welcome",
+    "chinese": "欢迎",
+    "phonetic": "/ˈwelkəm/",
+    "example_en": "Welcome to our school!",
+    "example_cn": "欢迎来到我们学校！"
+  },
+  {
+    "english": "problem",
+    "chinese": "问题；难题",
+    "phonetic": "/ˈprɒbləm/",
+    "example_en": "Can you help me with this maths problem?",
+    "example_cn": "你能帮我做这道数学题吗？"
+  },
+  {
+    "english": "question",
+    "chinese": "问题",
+    "phonetic": "/ˈkwestʃən/",
+    "example_en": "Please raise your hand if you have a question.",
+    "example_cn": "有问题请举手。"
+  },
+  {
+    "english": "idea",
+    "chinese": "主意；想法",
+    "phonetic": "/aɪˈdɪə/",
+    "example_en": "Good idea! Let's go swimming.",
+    "example_cn": "好主意！我们去游泳吧。"
+  },
+  {
+    "english": "way",
+    "chinese": "路；方式；方法",
+    "phonetic": "/weɪ/",
+    "example_en": "This is the way to the post office.",
+    "example_cn": "这是去邮局的路。"
+  }
+]
