@@ -1,0 +1,1 @@
+{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMiwicm9sZSI6InN0dWRlbnQiLCJleHAiOjE3ODcwMjE4NTd9.qRligU4rmDaNud0uKWg1H2mm22PKRMM1V9V5IbmgA04","token_type":"bearer","user":{"id":12,"username":"test_employee","nickname":"test_employee","avatar":"","phone":null,"role":"student","group_id":null,"campus_id":null,"created_at":"2026-07-19T02:33:53.938839"}}
