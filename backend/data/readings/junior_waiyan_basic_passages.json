@@ -1,0 +1,86 @@
+[
+  {
+    "id": 101,
+    "pack_id": 14,
+    "level": "basic",
+    "title": "My School Life",
+    "text": "I am a junior high school student. Every morning, I go to school by bus. My school is not far from my home, but I enjoy the bus ride because I can talk with my classmates. We have many subjects this term, such as Chinese, maths, English, history and science. My favourite subject is English. I think it is very useful. Our English teacher is Miss Wang. She is kind and patient. She always encourages us to speak English in class. I have made a lot of progress this term. Last week, I took an exam. I was a little nervous at first, but I tried my best. Today, the teacher announced the results. I got an A! I was so excited. I called my mother to share the good news. She was proud of me. I believe that if I work hard, I can achieve anything.",
+    "vocabulary": [
+      {"word": "junior", "chinese": "初中的；初级的", "phonetic": "/ˈdʒuːniər/"},
+      {"word": "subject", "chinese": "科目；主题", "phonetic": "/ˈsʌbdʒɪkt/"},
+      {"word": "progress", "chinese": "进步", "phonetic": "/ˈprəʊɡres/"},
+      {"word": "exam", "chinese": "考试", "phonetic": "/ɪɡˈzæm/"},
+      {"word": "nervous", "chinese": "紧张的", "phonetic": "/ˈnɜːrvəs/"},
+      {"word": "announce", "chinese": "宣布", "phonetic": "/əˈnaʊns/"},
+      {"word": "excited", "chinese": "兴奋的", "phonetic": "/ɪkˈsaɪtɪd/"},
+      {"word": "achieve", "chinese": "实现；达成", "phonetic": "/əˈtʃiːv/"}
+    ],
+    "questions": [
+      {
+        "question": "How does the student go to school?",
+        "options": ["On foot", "By bus", "By bike", "By car"],
+        "correct_index": 1
+      },
+      {
+        "question": "What is the student's favourite subject?",
+        "options": ["Chinese", "Maths", "English", "History"],
+        "correct_index": 2
+      },
+      {
+        "question": "How did the student feel before the exam?",
+        "options": ["Confident", "Nervous", "Happy", "Angry"],
+        "correct_index": 1
+      },
+      {
+        "question": "What did the student get in the exam?",
+        "options": ["A B", "A C", "An A", "A D"],
+        "correct_index": 2
+      }
+    ],
+    "word_count": 28,
+    "sort_order": 1
+  },
+  {
+    "id": 102,
+    "pack_id": 14,
+    "level": "basic",
+    "title": "Keeping Healthy",
+    "text": "Health is very important for everyone. As students, we need to stay healthy so that we can study well. First, we should have a balanced diet. We need to eat more vegetables and fruit. They provide vitamins that our bodies need. We should avoid eating too much junk food because it is bad for our health. Second, regular exercise is necessary. I usually play basketball with my friends after school. It keeps me active and strong. Third, we must get enough sleep. Many students stay up late to play computer games, but this is not a good habit. Lack of sleep can affect our attention in class. Finally, we should manage our stress. Sometimes we feel anxious about exams. It is important to stay calm and positive. If we follow these habits, we can enjoy a healthy and happy life.",
+    "vocabulary": [
+      {"word": "health", "chinese": "健康", "phonetic": "/helθ/"},
+      {"word": "balanced", "chinese": "平衡的", "phonetic": "/ˈbælənst/"},
+      {"word": "diet", "chinese": "饮食", "phonetic": "/ˈdaɪət/"},
+      {"word": "provide", "chinese": "提供", "phonetic": "/prəˈvaɪd/"},
+      {"word": "avoid", "chinese": "避免", "phonetic": "/əˈvɔɪd/"},
+      {"word": "necessary", "chinese": "必要的", "phonetic": "/ˈnesəseri/"},
+      {"word": "active", "chinese": "积极的；活跃的", "phonetic": "/ˈæktɪv/"},
+      {"word": "habit", "chinese": "习惯", "phonetic": "/ˈhæbɪt/"},
+      {"word": "stress", "chinese": "压力", "phonetic": "/stres/"},
+      {"word": "anxious", "chinese": "焦虑的", "phonetic": "/ˈæŋkʃəs/"}
+    ],
+    "questions": [
+      {
+        "question": "Why should we eat vegetables and fruit?",
+        "options": ["They taste good", "They provide vitamins", "They are cheap", "They are easy to cook"],
+        "correct_index": 1
+      },
+      {
+        "question": "What does the student do after school for exercise?",
+        "options": ["Run", "Swim", "Play basketball", "Do yoga"],
+        "correct_index": 2
+      },
+      {
+        "question": "What can affect our attention in class?",
+        "options": ["Eating too much", "Lack of sleep", "Playing sports", "Drinking water"],
+        "correct_index": 1
+      },
+      {
+        "question": "How should we deal with exam anxiety?",
+        "options": ["Ignore it", "Stay calm and positive", "Give up", "Study all night"],
+        "correct_index": 1
+      }
+    ],
+    "word_count": 30,
+    "sort_order": 2
+  }
+]
