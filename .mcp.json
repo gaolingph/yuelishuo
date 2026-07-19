@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "tokst": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@tokst/mcp-server"
+      ]
+    }
+  }
+}
