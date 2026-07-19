@@ -1,0 +1,108 @@
+[
+  {
+    "id": 107,
+    "pack_id": 17,
+    "level": "advanced",
+    "title": "The Pursuit of Sustainable Development",
+    "text": "Sustainable development has emerged as one of the most critical issues of our time. It refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. This concept encompasses three fundamental pillars: economic growth, social inclusion and environmental protection. In recent years, many countries have made significant commitments to reducing carbon emissions and transitioning to renewable energy sources. However, the implementation of these policies often faces obstacles. Economic interests sometimes conflict with environmental objectives, creating a complex dilemma for policymakers. For instance, developing nations argue that they should not be held to the same environmental standards as wealthy countries that have already benefited from industrialisation. Despite these challenges, there is a growing consensus that sustainable practices are not merely ethical choices but also economic necessities. Companies that ignore sustainability risk losing consumer trust and market share. Moreover, technological innovations have made green alternatives more accessible and affordable than ever before. As citizens of a shared planet, we all have a role to play in fostering a sustainable future. Individual actions, when multiplied across millions of people, can drive substantial change.",
+    "vocabulary": [
+      {"word": "sustainable", "chinese": "可持续的", "phonetic": "/səˈsteɪnəbl/"},
+      {"word": "emerged", "chinese": "出现；浮现", "phonetic": "/ɪˈmɜːrdʒd/"},
+      {"word": "critical", "chinese": "关键的；批判的", "phonetic": "/ˈkrɪtɪkl/"},
+      {"word": "compromise", "chinese": "妥协；损害", "phonetic": "/ˈkɒmprəmaɪz/"},
+      {"word": "fundamental", "chinese": "根本的；基础的", "phonetic": "/ˌfʌndəˈmentl/"},
+      {"word": "implementation", "chinese": "实施；执行", "phonetic": "/ˌɪmplɪmenˈteɪʃn/"},
+      {"word": "obstacle", "chinese": "障碍", "phonetic": "/ˈɒbstəkl/"},
+      {"word": "dilemma", "chinese": "困境；两难", "phonetic": "/dɪˈlemə/"},
+      {"word": "consensus", "chinese": "共识", "phonetic": "/kənˈsensəs/"},
+      {"word": "substantial", "chinese": "大量的；实质的", "phonetic": "/səbˈstænʃl/"}
+    ],
+    "questions": [
+      {
+        "question": "What does sustainable development refer to?",
+        "options": ["Economic growth at any cost", "Meeting present needs without harming future generations", "Protecting the environment only", "Maximising industrial production"],
+        "correct_index": 1
+      },
+      {
+        "question": "What are the three pillars of sustainable development?",
+        "options": ["Education, healthcare and housing", "Economic growth, social inclusion and environmental protection", "Technology, innovation and research", "Agriculture, industry and services"],
+        "correct_index": 1
+      },
+      {
+        "question": "What argument do developing nations make regarding environmental standards?",
+        "options": ["They want stricter standards", "They should not be held to the same standards as wealthy countries", "They don't believe in climate change", "They have already met all standards"],
+        "correct_index": 1
+      },
+      {
+        "question": "What risk do companies face if they ignore sustainability?",
+        "options": ["Legal punishment only", "Losing consumer trust and market share", "Higher taxes", "Immediate closure"],
+        "correct_index": 1
+      },
+      {
+        "question": "What does the writer say about individual actions?",
+        "options": ["They are meaningless", "They can drive substantial change when multiplied", "Only government action matters", "They are too expensive"],
+        "correct_index": 1
+      },
+      {
+        "question": "What has made green alternatives more accessible according to the passage?",
+        "options": ["Government subsidies", "Technological innovations", "International agreements", "Consumer demand"],
+        "correct_index": 1
+      }
+    ],
+    "word_count": 38,
+    "sort_order": 1
+  },
+  {
+    "id": 108,
+    "pack_id": 17,
+    "level": "advanced",
+    "title": "The Role of Literature in Understanding Humanity",
+    "text": "Literature has always served as a mirror to society, reflecting our collective hopes, fears and aspirations. From ancient epics to contemporary novels, stories have the unique ability to transcend time and space, allowing readers to experience lives dramatically different from their own. This capacity for empathy cultivation is perhaps literature's most valuable contribution to human development. When we read a novel, we temporarily inhabit the consciousness of another person. We feel their joy, sorrow, frustration and triumph. This process nurtures our capacity for emotional intelligence and deepens our understanding of human nature. Moreover, literature challenges our assumptions and broadens our perspectives. A well-crafted narrative can expose the flaws in our thinking and encourage us to reconsider deeply held beliefs. In an era dominated by quick information and superficial engagement, literature demands patience and reflection. It rewards those who invest time with profound insights that cannot be obtained through any other medium. For students of English, reading literary works also provides exposure to sophisticated vocabulary and complex sentence structures, enhancing both linguistic competence and cultural awareness.",
+    "vocabulary": [
+      {"word": "literature", "chinese": "文学", "phonetic": "/ˈlɪtrətʃər/"},
+      {"word": "contemporary", "chinese": "当代的", "phonetic": "/kənˈtempəreri/"},
+      {"word": "transcend", "chinese": "超越", "phonetic": "/trænˈsend/"},
+      {"word": "capacity", "chinese": "能力；容量", "phonetic": "/kəˈpæsəti/"},
+      {"word": "empathy", "chinese": "同理心", "phonetic": "/ˈempəθi/"},
+      {"word": "consciousness", "chinese": "意识", "phonetic": "/ˈkɒnʃəsnəs/"},
+      {"word": "nurtures", "chinese": "培养；滋养", "phonetic": "/ˈnɜːrtʃərz/"},
+      {"word": "assumption", "chinese": "假设；假定", "phonetic": "/əˈsʌmpʃn/"},
+      {"word": "superficial", "chinese": "肤浅的；表面的", "phonetic": "/ˌsuːpərˈfɪʃl/"},
+      {"word": "linguistic", "chinese": "语言的", "phonetic": "/lɪŋˈɡwɪstɪk/"}
+    ],
+    "questions": [
+      {
+        "question": "What does the writer say literature reflects?",
+        "options": ["Only happy moments", "Collective hopes, fears and aspirations", "Political opinions only", "Historical facts"],
+        "correct_index": 1
+      },
+      {
+        "question": "What is literature's most valuable contribution according to the passage?",
+        "options": ["Entertainment value", "Empathy cultivation", "Language learning", "Historical record"],
+        "correct_index": 1
+      },
+      {
+        "question": "What happens when we read a novel according to the passage?",
+        "options": ["We escape reality", "We inhabit another person's consciousness", "We memorise facts", "We become passive"],
+        "correct_index": 1
+      },
+      {
+        "question": "What does literature demand in an era of quick information?",
+        "options": ["Speed and efficiency", "Patience and reflection", "Critical thinking only", "Group discussion"],
+        "correct_index": 1
+      },
+      {
+        "question": "What benefit does reading literature provide for English students?",
+        "options": ["Faster reading speed", "Exposure to sophisticated vocabulary", "Better handwriting", "More speaking practice"],
+        "correct_index": 1
+      },
+      {
+        "question": "What does literature challenge according to the passage?",
+        "options": ["Our reading speed", "Our assumptions and beliefs", "Our memory", "Our writing skills"],
+        "correct_index": 1
+      }
+    ],
+    "word_count": 36,
+    "sort_order": 2
+  }
+]
