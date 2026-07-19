@@ -1,0 +1,22 @@
+{
+  "name": "乐说邦英语",
+  "short_name": "乐说邦",
+  "description": "快乐学英语，自信说英语 — 外研社小学英语教材同步学习",
+  "start_url": "/login",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait",
+  "theme_color": "#1FA576",
+  "background_color": "#FFFFFF",
+  "categories": ["education", "language"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
