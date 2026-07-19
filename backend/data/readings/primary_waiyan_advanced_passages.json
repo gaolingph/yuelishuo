@@ -1,0 +1,146 @@
+[
+  {
+    "id": 4,
+    "pack_id": 13,
+    "level": "advanced",
+    "title": "My Weekend Adventure",
+    "text": "Last weekend, my family and I went to the beach. It was a wonderful experience. We usually go to school from Monday to Friday, so weekends are always special. The weather was perfect — warm and sunny. I saw different kinds of sea animals. Crabs were crawling on the sand. I carefully collected some beautiful shells. My father taught me how to swim in the sea. At first, I was afraid, but he encouraged me. Slowly, I became more confident. I think practice is very important for learning new skills. We also built a large sandcastle together. Everyone was laughing and having fun. This was truly an unforgettable day. I can't wait for our next adventure!",
+    "vocabulary": [
+      {"word": "weekend", "chinese": "周末", "phonetic": "/ˌwiːkˈend/"},
+      {"word": "beach", "chinese": "海滩", "phonetic": "/biːtʃ/"},
+      {"word": "experience", "chinese": "经历；经验", "phonetic": "/ɪkˈspɪriəns/"},
+      {"word": "usually", "chinese": "通常", "phonetic": "/ˈjuːʒuəli/"},
+      {"word": "special", "chinese": "特别的", "phonetic": "/ˈspeʃl/"},
+      {"word": "perfect", "chinese": "完美的", "phonetic": "/ˈpɜːrfɪkt/"},
+      {"word": "warm", "chinese": "温暖的", "phonetic": "/wɔːrm/"},
+      {"word": "different", "chinese": "不同的", "phonetic": "/ˈdɪfrənt/"},
+      {"word": "animal", "chinese": "动物", "phonetic": "/ˈænɪml/"},
+      {"word": "carefully", "chinese": "小心地", "phonetic": "/ˈkerəfəli/"},
+      {"word": "collect", "chinese": "收集", "phonetic": "/kəˈlekt/"},
+      {"word": "beautiful", "chinese": "美丽的", "phonetic": "/ˈbjuːtɪfl/"},
+      {"word": "teach", "chinese": "教", "phonetic": "/tiːtʃ/"},
+      {"word": "afraid", "chinese": "害怕的", "phonetic": "/əˈfreɪd/"},
+      {"word": "encourage", "chinese": "鼓励", "phonetic": "/ɪnˈkɜːrɪdʒ/"},
+      {"word": "confident", "chinese": "自信的", "phonetic": "/ˈkɒnfɪdənt/"},
+      {"word": "important", "chinese": "重要的", "phonetic": "/ɪmˈpɔːrtnt/"},
+      {"word": "skill", "chinese": "技能", "phonetic": "/skɪl/"},
+      {"word": "large", "chinese": "大的", "phonetic": "/lɑːrdʒ/"},
+      {"word": "together", "chinese": "一起", "phonetic": "/təˈɡeðər/"}
+    ],
+    "questions": [
+      {
+        "question": "Where did the family go last weekend?",
+        "options": ["To the mountain", "To the beach", "To the park", "To the library"],
+        "correct_index": 1
+      },
+      {
+        "question": "How did the writer feel about swimming at first?",
+        "options": ["Excited", "Afraid", "Bored", "Angry"],
+        "correct_index": 1
+      },
+      {
+        "question": "What did the writer learn is important?",
+        "options": ["Practice", "Winning", "Running", "Sleeping"],
+        "correct_index": 0
+      }
+    ],
+    "word_count": 20,
+    "sort_order": 1
+  },
+  {
+    "id": 5,
+    "pack_id": 13,
+    "level": "advanced",
+    "title": "My Favorite Subject",
+    "text": "Among all the subjects at school, English is my favorite. I began learning English three years ago. At that time, I could only say simple words. Now I can read stories and write short essays. I practice English every day. In class, I always listen carefully and answer questions actively. My English teacher is very patient and humorous. She often tells us interesting stories in English. I think learning a foreign language opens a new world. It allows me to communicate with people from different countries. I want to travel around the world in the future. I believe I can achieve my dream if I keep working hard. Nothing is impossible if you put your heart into it!",
+    "vocabulary": [
+      {"word": "favorite", "chinese": "最喜欢的", "phonetic": "/ˈfeɪvərɪt/"},
+      {"word": "subject", "chinese": "科目", "phonetic": "/ˈsʌbdʒɪkt/"},
+      {"word": "begin", "chinese": "开始", "phonetic": "/bɪˈɡɪn/"},
+      {"word": "ago", "chinese": "以前", "phonetic": "/əˈɡoʊ/"},
+      {"word": "simple", "chinese": "简单的", "phonetic": "/ˈsɪmpl/"},
+      {"word": "story", "chinese": "故事", "phonetic": "/ˈstɔːri/"},
+      {"word": "essay", "chinese": "短文", "phonetic": "/ˈeseɪ/"},
+      {"word": "practice", "chinese": "练习", "phonetic": "/ˈpræktɪs/"},
+      {"word": "listen", "chinese": "听", "phonetic": "/ˈlɪsn/"},
+      {"word": "patient", "chinese": "耐心的", "phonetic": "/ˈpeɪʃnt/"},
+      {"word": "humorous", "chinese": "幽默的", "phonetic": "/ˈhjuːmərəs/"},
+      {"word": "interesting", "chinese": "有趣的", "phonetic": "/ˈɪntrəstɪŋ/"},
+      {"word": "foreign", "chinese": "外国的", "phonetic": "/ˈfɒrən/"},
+      {"word": "language", "chinese": "语言", "phonetic": "/ˈlæŋɡwɪdʒ/"},
+      {"word": "communicate", "chinese": "交流", "phonetic": "/kəˈmjuːnɪkeɪt/"},
+      {"word": "country", "chinese": "国家", "phonetic": "/ˈkʌntri/"},
+      {"word": "travel", "chinese": "旅行", "phonetic": "/ˈtrævl/"},
+      {"word": "future", "chinese": "未来", "phonetic": "/ˈfjuːtʃər/"},
+      {"word": "achieve", "chinese": "实现", "phonetic": "/əˈtʃiːv/"},
+      {"word": "possible", "chinese": "可能的", "phonetic": "/ˈpɒsəbl/"}
+    ],
+    "questions": [
+      {
+        "question": "When did the writer begin learning English?",
+        "options": ["One year ago", "Two years ago", "Three years ago", "Four years ago"],
+        "correct_index": 2
+      },
+      {
+        "question": "What is the English teacher like?",
+        "options": ["Strict and serious", "Patient and humorous", "Quiet and shy", "Lazy and careless"],
+        "correct_index": 1
+      },
+      {
+        "question": "What does the writer want to do in the future?",
+        "options": ["Become a teacher", "Travel around the world", "Write a book", "Live in another country"],
+        "correct_index": 1
+      }
+    ],
+    "word_count": 20,
+    "sort_order": 2
+  },
+  {
+    "id": 6,
+    "pack_id": 13,
+    "level": "advanced",
+    "title": "Protecting Our Environment",
+    "text": "Our planet is facing serious problems. Pollution is getting worse every year. I read in a newspaper that many animals are in danger because their homes are destroyed. This made me feel sad and worried. But we can do something to help. My classmates and I started a project to protect the environment. We collect waste paper and bottles for recycling. We always turn off the lights when we leave the classroom. We plant trees every spring. It is satisfying to see the young trees grow. I believe that even small actions can make a big difference. We should all take responsibility for our planet. Let's work together to create a better future!",
+    "vocabulary": [
+      {"word": "planet", "chinese": "星球", "phonetic": "/ˈplænɪt/"},
+      {"word": "serious", "chinese": "严重的", "phonetic": "/ˈsɪriəs/"},
+      {"word": "pollution", "chinese": "污染", "phonetic": "/pəˈluːʃn/"},
+      {"word": "newspaper", "chinese": "报纸", "phonetic": "/ˈnjuːzpeɪpər/"},
+      {"word": "danger", "chinese": "危险", "phonetic": "/ˈdeɪndʒər/"},
+      {"word": "destroy", "chinese": "破坏", "phonetic": "/dɪˈstrɔɪ/"},
+      {"word": "project", "chinese": "项目", "phonetic": "/ˈprɒdʒekt/"},
+      {"word": "protect", "chinese": "保护", "phonetic": "/prəˈtekt/"},
+      {"word": "environment", "chinese": "环境", "phonetic": "/ɪnˈvaɪrənmənt/"},
+      {"word": "collect", "chinese": "收集", "phonetic": "/kəˈlekt/"},
+      {"word": "waste", "chinese": "浪费；垃圾", "phonetic": "/weɪst/"},
+      {"word": "recycle", "chinese": "回收", "phonetic": "/ˌriːˈsaɪkl/"},
+      {"word": "plant", "chinese": "种植；植物", "phonetic": "/plænt/"},
+      {"word": "spring", "chinese": "春天", "phonetic": "/sprɪŋ/"},
+      {"word": "satisfying", "chinese": "令人满意的", "phonetic": "/ˈsætɪsfaɪɪŋ/"},
+      {"word": "action", "chinese": "行动", "phonetic": "/ˈækʃn/"},
+      {"word": "difference", "chinese": "不同；区别", "phonetic": "/ˈdɪfrəns/"},
+      {"word": "responsibility", "chinese": "责任", "phonetic": "/rɪˌspɒnsəˈbɪləti/"},
+      {"word": "together", "chinese": "一起", "phonetic": "/təˈɡeðər/"},
+      {"word": "create", "chinese": "创造", "phonetic": "/kriˈeɪt/"}
+    ],
+    "questions": [
+      {
+        "question": "What problem is the planet facing?",
+        "options": ["Overpopulation", "Pollution", "Earthquake", "Flood"],
+        "correct_index": 1
+      },
+      {
+        "question": "What do the students collect for recycling?",
+        "options": ["Plastic bags", "Waste paper and bottles", "Old clothes", "Food waste"],
+        "correct_index": 1
+      },
+      {
+        "question": "What do the students do every spring?",
+        "options": ["Clean the river", "Plant trees", "Have a picnic", "Visit the zoo"],
+        "correct_index": 1
+      }
+    ],
+    "word_count": 20,
+    "sort_order": 3
+  }
+]
