@@ -1,0 +1,40 @@
+version: "3.8"
+
+services:
+  # ==================== Backend (FastAPI) ====================
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: vocab-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      # Persist SQLite database outside container (word_packs JSON stays in build)
+      - vocab-data:/app/data/db
+    environment:
+      - PYTHONUNBUFFERED=1
+    networks:
+      - vocab-network
+    restart: unless-stopped
+
+  # ==================== Frontend (Nginx) ====================
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: vocab-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - vocab-network
+    restart: unless-stopped
+
+volumes:
+  vocab-data:
+
+networks:
+  vocab-network:
+    driver: bridge
