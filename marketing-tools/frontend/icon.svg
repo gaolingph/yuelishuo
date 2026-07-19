@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+    <linearGradient id="bellyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f0fdf4"/>
+      <stop offset="100%" stop-color="#dcfce7"/>
+    </linearGradient>
+    <linearGradient id="capGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Feet -->
+  <ellipse cx="190" cy="440" rx="30" ry="12" fill="#f97316"/>
+  <ellipse cx="322" cy="440" rx="30" ry="12" fill="#f97316"/>
+  <!-- Toes -->
+  <circle cx="170" cy="444" r="6" fill="#ea580c"/>
+  <circle cx="190" cy="448" r="6" fill="#ea580c"/>
+  <circle cx="210" cy="444" r="6" fill="#ea580c"/>
+  <circle cx="302" cy="444" r="6" fill="#ea580c"/>
+  <circle cx="322" cy="448" r="6" fill="#ea580c"/>
+  <circle cx="342" cy="444" r="6" fill="#ea580c"/>
+
+  <!-- Body -->
+  <ellipse cx="256" cy="320" rx="120" ry="140" fill="url(#bodyGrad)"/>
+
+  <!-- Belly -->
+  <ellipse cx="256" cy="340" rx="75" ry="95" fill="url(#bellyGrad)"/>
+
+  <!-- Left wing -->
+  <path d="M136 280 Q80 310 90 380 Q100 420 140 390 Q120 350 136 280Z" fill="#15803d" opacity="0.8"/>
+
+  <!-- Right wing -->
+  <path d="M376 280 Q432 310 422 380 Q412 420 372 390 Q392 350 376 280Z" fill="#15803d" opacity="0.8"/>
+
+  <!-- Head -->
+  <circle cx="256" cy="180" r="95" fill="url(#bodyGrad)"/>
+
+  <!-- Ear tufts -->
+  <path d="M175 120 L155 65 L195 105Z" fill="#15803d"/>
+  <path d="M337 120 L357 65 L317 105Z" fill="#15803d"/>
+
+  <!-- Left eye white -->
+  <ellipse cx="218" cy="175" rx="32" ry="35" fill="white"/>
+  <!-- Left eye pupil -->
+  <circle cx="222" cy="173" r="18" fill="#1e293b"/>
+  <circle cx="215" cy="165" r="6" fill="white"/>
+
+  <!-- Right eye white -->
+  <ellipse cx="294" cy="175" rx="32" ry="35" fill="white"/>
+  <!-- Right eye pupil -->
+  <circle cx="298" cy="173" r="18" fill="#1e293b"/>
+  <circle cx="291" cy="165" r="6" fill="white"/>
+
+  <!-- Eyebrows -->
+  <path d="M185 148 Q215 135 250 148" stroke="#166534" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M262 148 Q297 135 327 148" stroke="#166534" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- Beak -->
+  <path d="M241 200 Q256 195 271 200 Q256 225 241 200Z" fill="#f59e0b"/>
+  <!-- Open mouth line -->
+  <path d="M244 208 Q256 215 268 208" stroke="#b45309" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Graduation Cap (Mortarboard) -->
+  <!-- Cap board (top square) -->
+  <path d="M160 140 L256 105 L352 140 L256 175Z" fill="url(#capGrad)"/>
+  <!-- Cap top surface -->
+  <path d="M160 140 L256 105 L352 140 L256 120Z" fill="#818cf8" opacity="0.5"/>
+  <!-- Cap tassel -->
+  <path d="M352 140 Q380 145 385 170" stroke="#f59e0b" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <circle cx="385" cy="175" r="6" fill="#f59e0b"/>
+  <!-- Hat button on top -->
+  <circle cx="256" cy="108" r="8" fill="#4f46e5"/>
+
+  <!-- Subtle breast feather lines -->
+  <path d="M230 290 Q256 300 282 290" stroke="#86efac" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M235 315 Q256 325 277 315" stroke="#86efac" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M240 340 Q256 350 272 340" stroke="#86efac" stroke-width="2" fill="none" opacity="0.6"/>
+</svg>
