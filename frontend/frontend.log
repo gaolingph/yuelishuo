@@ -1,0 +1,392 @@
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m2686[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://2.0.0.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.0.14:[1m5173[22m/[39m
+[2m00:42:57[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:42:57[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:42:57[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:42:57[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:42:57[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:04[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:06[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:06[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:07[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:07[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:14[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:14[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:16[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:16[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:18[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:18[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:28[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:28[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:29[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L1[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:29[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L1[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:31[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L2[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:32[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L3[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:33[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L1[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:34[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:34[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:43:47[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:12[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:12[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:21[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:21[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:32[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:32[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:35[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:35[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:39[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:44:39[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:30[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:30[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:37[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet/earn-food[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:41[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/battle/words?count=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:41[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/battle/words?count=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:42[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/battle/words?count=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:46[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:46[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:47[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:47:47[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:36[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Learn.tsx, /src/index.css[22m
+[2m00:51:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Learn.tsx, /src/index.css[22m
+[2m00:51:40[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:40[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Learn.tsx, /src/index.css[22m
+[2m00:51:44[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:44[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:44[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:44[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:45[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:45[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:49[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L1[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:49[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L1[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Learn.tsx, /src/index.css[22m
+[2m00:51:51[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L2[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:52[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L3[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:53[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L1[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:54[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L2[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:55[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:55[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:51:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Learn.tsx, /src/index.css[22m
+[2m00:52:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Learn.tsx, /src/index.css[22m
+[2m00:52:57[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:52:57[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:52:57[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:52:57[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:53:51[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:53:51[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:53:54[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:53:54[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:14[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:14[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:15[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:15[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:15[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:15[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:27[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:27[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/review-list[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:27[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/pet[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:27[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/review-list[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:32[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:54:32[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:55:52[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:55:54[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:55:54[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:55:54[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/learning/today[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:55:54[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/packs/[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:56:02[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L1[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:56:02[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L1[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:56:03[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L2[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:56:04[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L3[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:56:05[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/game/stories?level=L1[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:56:06[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:56:06[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/stats/overview[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m00:56:27[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m00:56:27[22m [36m[1m[vite][22m[39m server restarted.
+
+C:\Users\Lenovo\ZCodeProject\frontend>
