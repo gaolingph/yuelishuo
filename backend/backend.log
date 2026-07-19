@@ -1,0 +1,69 @@
+INFO:     Started server process [19244]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+Seeding database...
+  Pack '小学基础' already exists, skipping.
+  Pack '小学进阶' already exists, skipping.
+  Pack '外研3起基础' already exists, skipping.
+  Pack '外研3起进阶' already exists, skipping.
+  Pack '初中基础' already exists, skipping.
+  Pack '初中进阶' already exists, skipping.
+  Pack '高中基础' already exists, skipping.
+  Pack '高中进阶' already exists, skipping.
+  Pack '大学四级' already exists, skipping.
+  Pack '大学六级' already exists, skipping.
+  Pack '考研英语' already exists, skipping.
+  Pack '雅思 IELTS' already exists, skipping.
+  Pack '托福 TOEFL' already exists, skipping.
+  All packs already exist.
+  Achievements already exist (12), skipping seed.
+  Stories already exist (6), skipping seed.
+Seeding complete.
+INFO:     127.0.0.1:58274 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58276 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63770 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63771 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61868 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61867 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51128 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63613 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59623 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56807 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50142 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50144 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50145 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50146 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50148 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50147 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51682 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61570 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56582 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58705 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58706 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50737 - "GET /api/learning/today?pack_id=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61682 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51439 - "GET /api/learning/today?pack_id=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63120 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63799 - "GET /api/learning/today?pack_id=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65460 - "GET /api/learning/today?pack_id=12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55111 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64434 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53813 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49979 - "GET /api/learning/today?pack_id=13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49980 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62341 - "GET /api/learning/today?pack_id=13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52624 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53783 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53785 - "GET /api/learning/today?pack_id=13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53784 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53786 - "GET /api/learning/today?pack_id=13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53787 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53788 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61394 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61393 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60377 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50532 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53077 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62722 - "GET /api/packs/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58145 - "GET /api/stats/overview HTTP/1.1" 200 OK
