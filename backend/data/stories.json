@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "level": "L1",
+    "title": "My Funny Pet",
+    "text": "I have a cat. Its name is Fluffy. Fluffy likes to play with a red ball. Every morning, Fluffy jumps on my bed and meows. I give Fluffy some milk. Fluffy is very happy.",
+    "vocabulary": [
+      {"word": "cat", "chinese": "猫", "phonetic": "/kæt/"},
+      {"word": "ball", "chinese": "球", "phonetic": "/bɔːl/"},
+      {"word": "bed", "chinese": "床", "phonetic": "/bed/"},
+      {"word": "milk", "chinese": "牛奶", "phonetic": "/mɪlk/"},
+      {"word": "happy", "chinese": "快乐的", "phonetic": "/ˈhæpi/"}
+    ],
+    "question": {
+      "question": "What does Fluffy like to play with?",
+      "options": ["Red ball", "Blue toy", "White sock"],
+      "correct_index": 0
+    },
+    "sort_order": 1
+  },
+  {
+    "id": 2,
+    "level": "L1",
+    "title": "At School",
+    "text": "Today is Monday. I go to school. My teacher is Miss Lee. She is very nice. We learn English and math. I like English best. After school, my friend Tom and I play soccer.",
+    "vocabulary": [
+      {"word": "Monday", "chinese": "星期一", "phonetic": "/ˈmʌndeɪ/"},
+      {"word": "teacher", "chinese": "老师", "phonetic": "/ˈtiːtʃər/"},
+      {"word": "learn", "chinese": "学习", "phonetic": "/lɜːn/"},
+      {"word": "English", "chinese": "英语", "phonetic": "/ˈɪŋɡlɪʃ/"},
+      {"word": "soccer", "chinese": "足球", "phonetic": "/ˈsɒkər/"}
+    ],
+    "question": {
+      "question": "What subject does the boy like best?",
+      "options": ["Math", "English", "Art"],
+      "correct_index": 1
+    },
+    "sort_order": 2
+  },
+  {
+    "id": 3,
+    "level": "L2",
+    "title": "The Lost Kite",
+    "text": "Last Sunday, Lily bought a new kite. It was red and yellow. She went to the park with her dad. The wind was strong. Suddenly, the kite flew high and got stuck in a tree. Lily cried. A kind man climbed the tree and got the kite back. Lily said thank you.",
+    "vocabulary": [
+      {"word": "kite", "chinese": "风筝", "phonetic": "/kaɪt/"},
+      {"word": "wind", "chinese": "风", "phonetic": "/wɪnd/"},
+      {"word": "tree", "chinese": "树", "phonetic": "/triː/"},
+      {"word": "climbed", "chinese": "爬（过去式）", "phonetic": "/klaɪmd/"},
+      {"word": "thank", "chinese": "感谢", "phonetic": "/θæŋk/"}
+    ],
+    "question": {
+      "question": "What happened to the kite?",
+      "options": ["It flew away", "It got stuck in a tree", "It broke"],
+      "correct_index": 1
+    },
+    "sort_order": 3
+  },
+  {
+    "id": 4,
+    "level": "L2",
+    "title": "A Rainy Day",
+    "text": "It was raining hard. Tom could not go outside to play. He looked out the window. The rain was falling on the flowers. Tom had an idea. He put on his raincoat and boots. He went outside and jumped in the puddles. Splash! Splash! It was so much fun!",
+    "vocabulary": [
+      {"word": "rain", "chinese": "雨", "phonetic": "/reɪn/"},
+      {"word": "window", "chinese": "窗户", "phonetic": "/ˈwɪndoʊ/"},
+      {"word": "flower", "chinese": "花", "phonetic": "/ˈflaʊər/"},
+      {"word": "raincoat", "chinese": "雨衣", "phonetic": "/ˈreɪnkoʊt/"},
+      {"word": "puddle", "chinese": "水坑", "phonetic": "/ˈpʌdl/"}
+    ],
+    "question": {
+      "question": "What did Tom do outside?",
+      "options": ["He played soccer", "He jumped in puddles", "He rode a bike"],
+      "correct_index": 1
+    },
+    "sort_order": 4
+  },
+  {
+    "id": 5,
+    "level": "L3",
+    "title": "The Brave Little Mouse",
+    "text": "Once upon a time, there was a little mouse named Mimi. She lived in a small hole in the wall. One day, she saw a big cat sleeping near her home. Mimi was very afraid, but she had to get food for her family. She walked quietly on her little feet. The cat opened one eye! Mimi froze. But the cat just yawned and went back to sleep. Mimi grabbed a piece of cheese and ran home. Her family was proud of her.",
+    "vocabulary": [
+      {"word": "mouse", "chinese": "老鼠", "phonetic": "/maʊs/"},
+      {"word": "hole", "chinese": "洞", "phonetic": "/hoʊl/"},
+      {"word": "afraid", "chinese": "害怕的", "phonetic": "/əˈfreɪd/"},
+      {"word": "quietly", "chinese": "安静地", "phonetic": "/ˈkwaɪətli/"},
+      {"word": "cheese", "chinese": "奶酪", "phonetic": "/tʃiːz/"},
+      {"word": "proud", "chinese": "骄傲的", "phonetic": "/praʊd/"}
+    ],
+    "question": {
+      "question": "Why did Mimi need to get food?",
+      "options": ["She was hungry", "For her family", "For the cat"],
+      "correct_index": 1
+    },
+    "sort_order": 5
+  },
+  {
+    "id": 6,
+    "level": "L3",
+    "title": "My Day at the Zoo",
+    "text": "Last weekend, my family went to the zoo. I saw many animals. The elephants were big and grey. They used their long trunks to eat leaves. The monkeys were funny. They jumped from tree to tree. My favorite animal was the panda. It sat on the ground eating bamboo slowly. The zookeeper told us pandas eat for 12 hours a day! I took many photos and learned a lot about animals.",
+    "vocabulary": [
+      {"word": "zoo", "chinese": "动物园", "phonetic": "/zuː/"},
+      {"word": "elephant", "chinese": "大象", "phonetic": "/ˈelɪfənt/"},
+      {"word": "trunk", "chinese": "象鼻", "phonetic": "/trʌŋk/"},
+      {"word": "monkey", "chinese": "猴子", "phonetic": "/ˈmʌŋki/"},
+      {"word": "panda", "chinese": "熊猫", "phonetic": "/ˈpændə/"},
+      {"word": "bamboo", "chinese": "竹子", "phonetic": "/bæmˈbuː/"}
+    ],
+    "question": {
+      "question": "How many hours a day do pandas eat?",
+      "options": ["6 hours", "12 hours", "24 hours"],
+      "correct_index": 1
+    },
+    "sort_order": 6
+  }
+]
